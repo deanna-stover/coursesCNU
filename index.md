@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Deanna Stover's Recent Courses
 
 ## Christopher Newport University
