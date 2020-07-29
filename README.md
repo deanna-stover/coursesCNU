@@ -1,4 +1,4 @@
-# Deanna Stover's Courses
+# Recent Courses
 
 ## Christopher Newport University
 
@@ -7,4 +7,6 @@
   
 * ENGL 350, Writing for the Digital Humanities
   * [Fall 2020](https://deanna-stover.github.io/courses/fall2020/engl350/syllabus) - 2 sections 
+
+
 
