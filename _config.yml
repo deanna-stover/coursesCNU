@@ -1,0 +1,11 @@
+---
+title: "Dr. Stover's Courses"
+url: "https://github.com/deanna-stover"
+baseurl: "/courses"
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - Readme.md
+  - _scripts/
