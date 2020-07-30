@@ -70,11 +70,21 @@ _____
 * **Thinks critically** about the reading experience instead of simply stating feelings or facts
 * Includes *at least **four images*** interspersed throughout the text (see above for details)
 * Provides an **organized argument** (yes, even though we wrote this in parts -- the introduction and conclusion can help you organize the piece)
+* Shows **professionalism** -- i.e. that you took this assignment seriously
+ * However, the annotation images can be more informal than the essay itself. If you wrote LOL or UGH in your annotation, that’s fine -- I do!
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
 
 _____
 
 ## Resources
 
+### Writing Help
 
+* Read the assigned Close Reading Handout (available on Scholar and in the Google Drive)
+* Come to Office Hours
+* Calm down! This is meant to be an introductory assignment, so even though it's fast-paced, it should be low stress. Take it seriously, but also take a big breath.
 
+### Screen Capture Software 
+
+* [Greenshot](https://getgreenshot.org/downloads/) - free on Windows and $1.99 on Mac
+* [TechSmith Capture](https://www.techsmith.com/jing-tool.html) - free for both Windows and Mac (but I haven't tried it!)
