@@ -1,14 +1,14 @@
-# Syllabus
+# Syllabus - IDST 270
 
-[Schedule](##-Schedule) <br />
-[Assignments](##-Assignments) <br />
-[Policies](#-Policies) <br />
+[Schedule](#Schedule) <br />
+[Assignments](#Assignments) <br />
+[Policies](#Policies) <br />
 
-## Schedule
+# Schedule
 
 {% include schedule.html %}
 
-## Assignments
+# Assignments
 
 # Policies
 
