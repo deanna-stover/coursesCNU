@@ -21,7 +21,7 @@ _____
 
 ## Course Description
 
-*Catalog Description*: This course introduces students to the digital humanities by raising the question of what precisely constitutes this new and emerging field. Students explore how digital media and technology have transformed multiple disciplines in the humanities as well as humanities research. Theoretical questions regarding post-humanism, privacy, print culture, copyright, and more are discussed Students produce digital artifacts related to a field of traditional humanities study.
+*Catalog Description*: This course introduces students to the digital humanities by raising the question of what precisely constitutes this new and emerging field. Students explore how digital media and technology have transformed multiple disciplines in the humanities as well as humanities research. Theoretical questions regarding post-humanism, privacy, print culture, copyright, and more are discussed. Students produce digital artifacts related to a field of traditional humanities study.
 
 *Instructor's Addendum*:
 
