@@ -8,6 +8,10 @@
 
 {% include schedule.html %}
 
+## Final Exams
+
+Mon 11/30 - 
+
 # Assignments
 
 # Policies
