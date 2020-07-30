@@ -45,6 +45,8 @@ Juxta Edition | 9/27 | 20%
 Twine/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
 Final Reflection | 11/30 | 15%
 
+## [Close, Hyper, Machine Media Essay](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/media-essay)
+
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
