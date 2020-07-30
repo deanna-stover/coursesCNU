@@ -80,7 +80,7 @@ _____
 
 ### (Free) PDF Annotators
 
-* You can [do it right in Preview](https://support.apple.com/guide/preview/annotate-a-pdf-prvw11580/mac)on a Mac (but I haven't tried it!)
+* You can [do it right in Preview](https://support.apple.com/guide/preview/annotate-a-pdf-prvw11580/mac) on a Mac (but I haven't tried it!)
 * [Microsoft PDF Annotate and Fill](https://www.microsoft.com/en-us/p/pdf-annotate-fill/9nzdvqhxxvfj?activetab=pivot:overviewtab) - free for both Windows and Mac (but I haven't tried it!)
 
 ### (Mostly Free) Screen Capture Software 
