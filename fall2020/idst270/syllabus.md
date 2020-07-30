@@ -6,6 +6,8 @@
 
 ## Schedule
 
+{% include schedule.html %}
+
 ## Assignments
 
 ## Policies
