@@ -14,7 +14,9 @@ _____
 
 ## Final Exams
 
-Mon 11/30 - Wakelet Final Reflection Due by 11:59 pm
+Mon 11/30 
+
+* Wakelet Final Reflection Due by 11:59 pm
 
 _____
 
