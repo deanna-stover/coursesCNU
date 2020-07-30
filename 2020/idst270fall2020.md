@@ -1,5 +1,7 @@
 # Syllabus - IDST 270
 
+## Introduction to Digital Humanities
+
 _____
 
 [Schedule](#schedule) <br />
