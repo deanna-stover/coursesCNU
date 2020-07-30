@@ -1,6 +1,6 @@
-# Syllabus - IDST 270
+# Syllabus - ENGL 350
 
-## Introduction to Digital Humanities
+## Writing for the Digital Humantiies
 
 _____
 
