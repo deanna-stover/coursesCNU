@@ -1,0 +1,12 @@
+---
+start: 2020-08-17
+end: 2020-11-20
+
+meets:
+  - monday
+  - wednesday
+  - friday
+
+classes:
+  - |
+    * First Day
