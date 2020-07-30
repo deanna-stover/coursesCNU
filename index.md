@@ -6,4 +6,4 @@
   * [Fall 2020](https://deanna-stover.github.io/courses-trial/2020/idst270fall2020)
   
 * Writing for the Digital Humanities (ENGL 350)
-  * [Fall 2020](https://deanna-stover.github.io/courses-trial/fall2020/engl350/syllabus) - 2 sections 
+  * [Fall 2020](https://deanna-stover.github.io/courses-trial/2020/idst350fall2020) - 2 sections 
