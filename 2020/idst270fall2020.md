@@ -42,7 +42,7 @@ Twitter Posts | Weekly | 10%
 Collaborate Moderator | Assigned | 5%
 Media Essay | 9/6 | 10%
 Juxta Edition | 9/27 | 20%
-Twine/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
+Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
 Final Reflection | 11/30 | 15%
 
 ## Twitter Posts
@@ -64,7 +64,7 @@ You will be responsible for transcribing the manuscript version of Charlotte Per
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-You will create a Twine Game and write a 3000 word research paper after I approve your proposal and annotated bibliography. 
+You will create a Twine Game and write a 2000 word research paper after I approve your proposal and annotated bibliography. 
 
 ## Final Reflection
 
