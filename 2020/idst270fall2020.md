@@ -4,10 +4,10 @@
 
 _____
 
-[Schedule](#schedule) <br />
-[Assignments](#assignments) <br />
+[Schedule](#schedule) <br /> <br />
+[Assignments](#assignments)
 
-* [Twine Assignment](##twine)
+* [Twine Assignment](##twine) <br />
 
 [Policies](#policies) <br />
 
