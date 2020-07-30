@@ -3,7 +3,7 @@
 ## Christopher Newport University
 
 * Introduction to Digital Humanities (IDST 270)
-  * [Fall 2020](https://deanna-stover.github.io/courses-trial/fall2020/idst270/syllabus)
+  * [Fall 2020](https://deanna-stover.github.io/courses-trial/2020/idst270fall2020)
   
 * Writing for the Digital Humanities (ENGL 350)
   * [Fall 2020](https://deanna-stover.github.io/courses-trial/fall2020/engl350/syllabus) - 2 sections 
