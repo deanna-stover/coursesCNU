@@ -50,19 +50,17 @@ You'll be responsible for finding *at least* five (5) academic sources and writi
 
 ### - Final Twine Game and Research Paper Deadline - Friday, November 20th at 11:59 pm
 
-In addition to yo
+Your playable Twine game should have the following:
+* At least twelve player interactions
+* At least two possible outcomes
+* Some (basic!) CSS and HTML
+
+In addition to your Twine game, you must write a **1000-1500 word** research essay. This essay will tie you research back to the choices you made in creating your Twine game. 
 
 _____
 
-## Evaluation Criteria
 
-### - Proposal - Week 8 (10/5 - 10/7)
-
-* 
-
-### - Annotated Bibliography - Sunday, October 18th at 11:59 pm
-
-### - Final Twine Game and Research Paper Deadline - Friday, November 20th at 11:59 pm
+I owe credit to S. Einstein and M. Vetter for their [Twine Assignment](http://www.digitalrhetoriccollaborative.org/wp-content/uploads/2015/05/Einstein-Vetter-Twine-Game-Assignment-.pdf).
 
 _____
 
