@@ -42,15 +42,15 @@ _____
 
 ### - Proposal - Week 8 (10/5 - 10/7)
 
-Instead of having class on Monday and Wednesday of Week 8 (October 5th and 7th), I'll be holding individual meetings about your topic proposal. You'll need to turn in your proposal via Scholar *before* our meeting. This is where we'll discuss your choice of subject and come up with some ideas for moving forward. We'll be looking at some sample proposals in class, but your proposal should be **150-300 words**. 
+Instead of having class on Monday and Wednesday of Week 8, I'll be holding individual meetings about your topic proposal. You'll need to turn in your proposal via Scholar *before* our meeting. This is where we'll discuss your choice of subject and come up with some ideas for moving forward. Your proposal should be **200-300 words** and explain both your topic and its social relevance.  
 
 ### - Annotated Bibliography - Sunday, October 18th at 11:59 pm
 
-### - First Play Test - Monday, November 9th (in class)
-
-### - Second Play Test and Essay Peer Review - Monday, November 16th (in class)
+You'll be responsible for finding *at least* five (5) academic sources and writing **100-150 words per entry** explaining the central argument of the source and its relevance to your project.
 
 ### - Final Twine Game and Research Paper Deadline - Friday, November 20th at 11:59 pm
+
+In addition to yo
 
 _____
 
@@ -58,7 +58,7 @@ _____
 
 ### - Proposal - Week 8 (10/5 - 10/7)
 
-Instead of having class on Monday and Wednesday of Week 8 (October 5th and 7th), I'll be holding individual meetings about your topic proposal. You'll need to turn in your proposal via Scholar *before* our meeting. This is where we'll discuss your choice of subject and come up with some ideas for moving forward. We'll be looking at some sample proposals in class, but your proposal should be **150-300 words**. 
+* 
 
 ### - Annotated Bibliography - Sunday, October 18th at 11:59 pm
 
