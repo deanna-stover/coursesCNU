@@ -2,17 +2,17 @@
 
 _____
 
-**Proposal Deadline:** Our Virtual Meeting in Week 8 (see below)
+**Proposal Deadline:** Our Virtual Meeting in Week 8 (see below) <br />
 **Percentage:** 5% (required)
 
-**Annotated Bibliography Deadline:** Sunday October 18th at 11:59 pm
+**Annotated Bibliography Deadline:** Sunday October 18th at 11:59 pm <br />
 **Percentage:** 10%
 
 **First Play Test:** Monday November 9th (in class)
 
 **Second Play Test and Essay Peer Review:** Monday November 16th (in class)
 
-**Final Twine Game and Research Paper Deadline:** Friday November 20th at 11:59 pm
+**Final Twine Game and Research Paper Deadline:** Friday November 20th at 11:59 pm <br />
 **Percentage:** 10%
 
 _____
