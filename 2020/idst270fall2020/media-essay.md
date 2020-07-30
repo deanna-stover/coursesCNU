@@ -3,7 +3,7 @@
 _____
 
 **Media Essay Due:** September 6th at 11:59 pm
-  * Note that there are mini due dates listed below <br />
+* Note that there are mini due dates listed below
   
 **Percentage:** 10%
 
