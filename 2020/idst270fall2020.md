@@ -64,7 +64,7 @@ You will be responsible for transcribing the manuscript version of Charlotte Per
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-You will create a Twine Game and write a 3000 word research paper. 
+You will create a Twine Game and write a 3000 word research paper after I approve your proposal and annotated bibliography. 
 
 ## Final Reflection
 
