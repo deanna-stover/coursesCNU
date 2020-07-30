@@ -78,13 +78,18 @@ _____
 
 ## Resources
 
-### Writing Help
+### (Free) PDF Annotators
+
+* You can [do it right in Preview](https://support.apple.com/guide/preview/annotate-a-pdf-prvw11580/mac)on a Mac (but I haven't tried it!)
+* [Microsoft PDF Annotate and Fill](https://www.microsoft.com/en-us/p/pdf-annotate-fill/9nzdvqhxxvfj?activetab=pivot:overviewtab) - free for both Windows and Mac (but I haven't tried it!)
+
+### (Mostly Free) Screen Capture Software 
+
+* [Greenshot](https://getgreenshot.org/downloads/) - free on Windows and $1.99 on Mac
+* [TechSmith Capture](https://www.techsmith.com/jing-tool.html) - free for both Windows and Mac (but I haven't tried it!)
+
+### (Free) Writing Help
 
 * Read the assigned Close Reading Handout (available on Scholar and in the Google Drive)
 * Come to Office Hours
 * Calm down! This is meant to be an introductory assignment, so even though it's fast-paced, it should be low stress. Take it seriously, but also take a big breath.
-
-### Screen Capture Software 
-
-* [Greenshot](https://getgreenshot.org/downloads/) - free on Windows and $1.99 on Mac
-* [TechSmith Capture](https://www.techsmith.com/jing-tool.html) - free for both Windows and Mac (but I haven't tried it!)
