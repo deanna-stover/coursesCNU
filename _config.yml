@@ -11,3 +11,4 @@ exclude:
   - _scripts/
 
 theme: jekyll-theme-minimal
+logo: /images/PenNib.png
