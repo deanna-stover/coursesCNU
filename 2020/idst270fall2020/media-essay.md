@@ -66,12 +66,12 @@ _____
 ## Evaluation Criteria
 
 * Uses adequate **textual evidence** (direct quotations, summaries, and paraphrased passages) to support any claims
- * This is especially important for close reading, but should also be employed when Hyper and Machine reading.
+  * This is especially important for close reading, but should also be employed when Hyper and Machine reading.
 * **Thinks critically** about the reading experience instead of simply stating feelings or facts
 * Includes *at least **four images*** interspersed throughout the text (see above for details)
 * Provides an **organized argument** (yes, even though we wrote this in parts -- the introduction and conclusion can help you organize the piece)
 * Shows **professionalism** -- i.e. that you took this assignment seriously
- * However, the annotation images can be more informal than the essay itself. If you wrote LOL or UGH in your annotation, that’s fine -- I do!
+  * However, the annotation images can be more informal than the essay itself. If you wrote LOL or UGH in your annotation, that’s fine -- I do!
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
 
 _____
