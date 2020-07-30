@@ -1,5 +1,9 @@
 # Syllabus - IDST 270
 
+[Schedule](#Schedule) <br />
+[Assignments](#Assignments) <br />
+[Policies](#Policies) <br />
+
 # Schedule
 
 {% include schedule.html %}
