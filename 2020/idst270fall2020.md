@@ -27,7 +27,7 @@ _____
 
 ## Learning Outcomes
 
-* Recognise, evaluate, and discuss key ideas and themes related to Digital Humanities
+* Recognize, evaluate, and discuss key ideas and themes related to Digital Humanities
 * Develop critical thinking and research skills
 * Improve ability to communicate effectively using digital media
 * Learn how to adapt to new digital technologies 
@@ -35,6 +35,16 @@ _____
 _____
 
 # Assignments
+
+Assignment | Due Date | Percentage
+------------ | ------------- | -------------
+Twitter Posts | Weekly | 10%
+Collaborate Moderator | Assigned | 5%
+Media Essay | 9/6 | 10%
+Juxta Edition | 9/27 | 20%
+Twine/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
+Final Reflection | 11/30 | 15%
+
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
