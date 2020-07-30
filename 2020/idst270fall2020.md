@@ -57,14 +57,14 @@ You will be assigned two days over the course of the semester to moderate the Co
 
 A 1000-1500 word media essay based on Katherine Hayles's article, "How We Read: Close, Hyper, Machine" and "The Yellow Wall-Paper." This essay combines close reading and reflection and will introduce you to Wakelet. 
 
-## Juxta Edition
+## [Juxta Edition](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/juxta)
 
 You will be responsible for transcribing the manuscript version of Charlotte Perkins Stetson's (as she was then known) "The Yellow Wall-Paper" and writing a 750-1000 word close reading/reflection.
 
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-You will create a Twine Game and write a 2000 word research paper after I approve your proposal and annotated bibliography. 
+You will create a Twine Game and write a 1000-1500 word research paper after I approve your proposal and annotated bibliography. 
 
 ## Final Reflection
 
