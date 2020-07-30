@@ -2,7 +2,7 @@
 
 [Schedule](##-Schedule) <br />
 [Assignments](##-Assignments) <br />
-[Policies](#-Policies) <br />
+[Policies](# Policies) <br />
 
 ## Schedule
 
