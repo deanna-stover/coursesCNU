@@ -6,6 +6,9 @@ _____
 
 [Schedule](#schedule) <br />
 [Assignments](#assignments) <br />
+
+* [Twine Assignment](##twine)
+
 [Policies](#policies) <br />
 
 _____
@@ -24,6 +27,9 @@ _____
 
 # Assignments
 
+## Twine Assignment
+
+In this assignment you will create a Twine Game and write a short research paper.
 _____
 
 # Policies
