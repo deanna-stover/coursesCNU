@@ -45,12 +45,30 @@ Juxta Edition | 9/27 | 20%
 Twine/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
 Final Reflection | 11/30 | 15%
 
+## Twitter Posts
+
+You will be responsible for tweeting twice per week on an *Academic* Twitter account and submitting those tweets to me weekly. 
+
+## Collaborate Moderator
+
+You will be assigned two days over the course of the semester to moderate the Collaborate online discussion.
+
 ## [Close, Hyper, Machine Media Essay](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/media-essay)
+
+A 1000-1500 word media essay based on Katherine Hayles's article, "How We Read: Close, Hyper, Machine" and "The Yellow Wall-Paper." This essay combines close reading and reflection and will introduce you to Wakelet. 
+
+## Juxta Edition
+
+You will be responsible for transcribing the manuscript version of Charlotte Perkins Stetson's (as she was then known) "The Yellow Wall-Paper" and writing a 750-1000 word close reading/reflection.
 
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-In this assignment you will create a Twine Game and write a short research paper.
+You will create a Twine Game and write a 3000 word research paper. 
+
+## Final Reflection
+
+Drawing on the entire semester, you will create a media essay that incorporates tweets, readings, and links from class along with your own reflections on Digital Humanities, your own work throughout the semester, and the course as a whole. 
 
 _____
 
