@@ -41,7 +41,7 @@ Assignment | Due Date | Percentage
 Twitter Posts | Weekly | 10%
 Collaborate Moderator | Assigned | 5%
 Media Essay | 9/6 | 10%
-Juxta Edition | 9/27 | 20%
+Juxta Edition <br /> * Transcriptions <br /> * Reflection | <br /> Week 5 <br /> 9/16 | <br /> 10% <br /> 10%
 Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
 Final Reflection | 11/30 | 15%
 
