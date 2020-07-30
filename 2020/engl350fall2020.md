@@ -8,7 +8,7 @@
 
 {% include schedule.html %}
 
-### Final Exams
+## Final Exams
 
 Mon 11/30 - 
 
