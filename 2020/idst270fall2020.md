@@ -1,5 +1,7 @@
 # Syllabus - IDST 270
 
+_____
+
 [Schedule](#schedule) <br />
 [Assignments](#assignments) <br />
 [Policies](#policies) <br />
