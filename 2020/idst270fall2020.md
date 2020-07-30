@@ -21,11 +21,17 @@ _____
 
 ## Course Description
 
-*Catalog Description*: This course examines online texts in the humanities, also called digital humanities, which is the study of information in electronic form. Throughout the semester students will study how media impact the humanities and the people who use the Internet and social software to disseminate information widely and immediately. Students will investigate and produce a range of digital rhetoric wikis, blogs, tweets, flicks, as well as nonfiction and fiction narratives produced exclusively for an online environment to understand how media affects writing and communication and how digital writing and communication affects media.
+*Catalog Description*: This course introduces students to the digital humanities by raising the question of what precisely constitutes this new and emerging field. Students explore how digital media and technology have transformed multiple disciplines in the humanities as well as humanities research. Theoretical questions regarding post-humanism, privacy, print culture, copyright, and more are discussed Students produce digital artifacts related to a field of traditional humanities study.
 
-*Instructor's Description*:
+*Instructor's Addendum*:
 
 ## Learning Outcomes
+
+* Recognise, evaluate, and discuss key ideas and themes related to Digital Humanities
+* Develop critical thinking and research skills
+* Improve ability to communicate effectively using digital media
+* Learn how to adapt to new digital technologies 
+
 _____
 
 # Assignments
