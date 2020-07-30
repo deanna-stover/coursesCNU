@@ -3,6 +3,7 @@
 [Schedule](#schedule) <br />
 [Assignments](#assignments) <br />
 [Policies](#policies) <br />
+
 _____
 
 # Schedule
@@ -12,9 +13,11 @@ _____
 ## Final Exams
 
 Mon 11/30 - 
+
 _____
 
 # Assignments
+
 _____
 
 # Policies
