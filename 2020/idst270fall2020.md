@@ -5,11 +5,8 @@
 _____
 
 [Schedule](#schedule) <br /> <br />
-[Assignments](#assignments)
-
-* [Twine Assignment](##twine) <br />
-
-[Policies](#policies) <br />
+[Assignments](#assignments) <br /><br />
+[Policies](#policies)
 
 _____
 
