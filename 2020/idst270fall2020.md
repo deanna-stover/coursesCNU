@@ -5,8 +5,8 @@
 _____
 
 [Course Information](#course-information) <br /> <br />
-[Schedule](#schedule) <br /> <br />
 [Assignments](#assignments) <br /><br />
+[Schedule](#schedule) <br /> <br />
 [Policies](#policies)
 
 _____
