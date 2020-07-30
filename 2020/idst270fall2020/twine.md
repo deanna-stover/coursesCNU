@@ -5,14 +5,14 @@ _____
 **Proposal Deadline:** Our Virtual Meeting in Week 8 (see below) <br />
 **Percentage:** 5% (required)
 
-**Annotated Bibliography Deadline:** Sunday October 18th at 11:59 pm <br />
+**Annotated Bibliography Deadline:** Sunday, October 18th at 11:59 pm <br />
 **Percentage:** 10%
 
-**First Play Test:** Monday November 9th (in class)
+**First Play Test:** Monday, November 9th (in class)
 
-**Second Play Test and Essay Peer Review:** Monday November 16th (in class)
+**Second Play Test and Essay Peer Review:** Monday, November 16th (in class)
 
-**Final Twine Game and Research Paper Deadline:** Friday November 20th at 11:59 pm <br />
+**Final Twine Game and Research Paper Deadline:** Friday, November 20th at 11:59 pm <br />
 **Percentage:** 10%
 
 _____
@@ -46,11 +46,23 @@ Instead of having class on Monday and Wednesday of Week 8 (October 5th and 7th),
 
 ### - Annotated Bibliography - Sunday, October 18th at 11:59 pm
 
+### - First Play Test - Monday, November 9th (in class)
 
+### - Second Play Test and Essay Peer Review - Monday, November 16th (in class)
+
+### - Final Twine Game and Research Paper Deadline - Friday, November 20th at 11:59 pm
 
 _____
 
 ## Evaluation Criteria
+
+### - Proposal - Week 8 (10/5 - 10/7)
+
+Instead of having class on Monday and Wednesday of Week 8 (October 5th and 7th), I'll be holding individual meetings about your topic proposal. You'll need to turn in your proposal via Scholar *before* our meeting. This is where we'll discuss your choice of subject and come up with some ideas for moving forward. We'll be looking at some sample proposals in class, but your proposal should be **150-300 words**. 
+
+### - Annotated Bibliography - Sunday, October 18th at 11:59 pm
+
+### - Final Twine Game and Research Paper Deadline - Friday, November 20th at 11:59 pm
 
 _____
 
