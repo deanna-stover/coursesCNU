@@ -27,17 +27,17 @@
 # Set to the semester's start date using the YYYY-MM-DD format discussed above.
 start: 2019-08-17
 # Set to the semester's end date using the YYYY-MM-DD format discussed above.
-end: 2019-12-5
+end: 2019-11-20
 # This key lets you set any holidays in the semester. The date key should be set
 # using the YYYY-MM-DD format discussed above and the name key can be set to any
 # string allowed in YAML.
 holidays:
-  - date: 2019-11-27
-    name: Thanksgiving
-  - date: 2019-11-28
-    name: Thanksgiving
-  - date: 2019-11-29
-    name: Thanksgiving
+  - date: 
+    name: 
+  - date: 
+    name: 
+  - date: 
+    name: 
 # If your university uses redefined days, you can set them here. Set the date
 # in the YYYY-MM-DD format discussed above and the is_a key must be in
 # lowercase.
