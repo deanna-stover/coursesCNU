@@ -88,6 +88,8 @@ _____
 
 ### (Mostly Free) Screen Capture Software 
 
+* [How-to on Mac](https://support.apple.com/en-us/HT201361)
+* [How-to on Windows](https://www.businessinsider.com/how-to-screenshot-on-windows)
 * [Greenshot](https://getgreenshot.org/downloads/) - free on Windows and $1.99 on Mac
 * [TechSmith Capture](https://www.techsmith.com/jing-tool.html) - free for both Windows and Mac (but I haven't tried it!)
 
