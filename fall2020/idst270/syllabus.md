@@ -1,3 +1,7 @@
 # Syllabus
 
-# Schedule
+## Schedule
+
+## Policies
+
+{% include policies.md %}
