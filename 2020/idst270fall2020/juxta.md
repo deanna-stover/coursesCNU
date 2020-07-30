@@ -4,8 +4,8 @@ _____
 
 **Transcription Peer Review:** Monday, September 14th (in class)
 
-**Diplomatic Transcriptions Due:** Monday, September 14th by 11:59 pm
-**Clear Transcriptions Due:** Wednesday, September 16th by 11:59 pm
+**Diplomatic Transcriptions Due:** Monday, September 14th by 11:59 pm <br />
+**Clear Transcriptions Due:** Wednesday, September 16th by 11:59 pm <br />
 **Percentage:** 10% (combined)
 
 **Reflection Due:** Sunday, September 25th by 11:59 pm
