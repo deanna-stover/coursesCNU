@@ -24,7 +24,7 @@ _____
 
 # Assignments
 
-## Twine Assignment
+## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
 In this assignment you will create a Twine Game and write a short research paper.
 
