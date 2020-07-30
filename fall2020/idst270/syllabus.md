@@ -1,8 +1,8 @@
 # Syllabus
 
-[Schedule](##Schedule)
-[Assignments](##Assignments)
-[Policies](##Policies)
+[Schedule](##Schedule) <br />
+[Assignments](##Assignments) <br />
+[Policies](##Policies) <br />
 
 ## Schedule
 
