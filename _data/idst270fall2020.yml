@@ -7,6 +7,15 @@ meets:
   - wednesday
   - friday
 
+weeks:
+  "1": 'What is Digital Humanities'
+  "2": 'Close'
+  "3": 'Hyper and Machine'
+  "4": 'From Text to Type'
+  "7": 'DH, Games, and Society'
+  "11": 'Twine'
+  "12": 'Decorating Twine (CSS and HTML)'
+
 classes:
   - |
     * Just show up!
