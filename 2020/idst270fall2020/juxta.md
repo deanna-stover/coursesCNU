@@ -10,7 +10,7 @@ _____
 
 **Reflection Peer Review:** Friday, September 25th (in class)
 
-**Reflection Due:** Sunday, September 27th by 11:59 pm
+**Reflection Due:** Sunday, September 27th by 11:59 pm <br />
 **Percentage:** 10%
 
 _____
@@ -25,7 +25,13 @@ _____
 
 ## Assignment Breakdown
 
-### - Close Reading - Friday, August 28th
+### - Transcriptions
+
+#### Diplomatic Transcription - Monday, September 14th by 11:59 pm
+
+#### Clear Transcription - Wednesday, September 16th by 11:59 pm
+
+### Reflection - Sunday, September 27th by 11:59 pm
 
 _____
 
