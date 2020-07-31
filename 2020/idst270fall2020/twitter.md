@@ -20,9 +20,9 @@ _____
 ### Day One
 
 * First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
- * Choose a *professional* username
- * Try and keep your username under 15 characters <br />
- * Personalize your profile! But if you don't feel like adding a profile picture of yourself, that's fine. Find some kind of profile picture though.
+  * Choose a *professional* username
+  * Try and keep your username under 15 characters <br />
+  * Personalize your profile! But if you don't feel like adding a profile picture of yourself, that's fine. Find some kind of profile picture though.
  
 * Add your full name and Twitter username to the appropriate Google Doc in our class Google Drive. Follow everyone else in the class (you may have to come back if you're one of the first few people to post). <br />
 
