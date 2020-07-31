@@ -38,7 +38,7 @@ _____
 
 ## Evaluation Criteria
 
-* You must **submit screenshots of your tweets/retweets/replies each week** to get credit. (See how in "Assignment Breakdown" above.) <br />
+* *You must submit screenshots of your tweets/retweets/replies each week to get credit*. (See how in "Assignment Breakdown" above.) <br />
 
 * I will grade your tweets each week as Pass/Fail based on completion. 
   * If you don't submit at least *two* tweets, you get a 0 for the week.
