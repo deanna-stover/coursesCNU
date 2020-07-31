@@ -38,12 +38,15 @@ _____
 
 ## Evaluation Criteria
 
-* You must **submit screenshots of your tweets/retweets/replies each week** to get credit. (See how in "Assignment Breakdown" above.)
+* You must **submit screenshots of your tweets/retweets/replies each week** to get credit. (See how in "Assignment Breakdown" above.) <br />
+
 * I will grade your tweets each week as Pass/Fail based on completion. 
   * If you don't submit at least *two* tweets, you get a 0 for the week.
   * If you submit two tweets but they are UNsubstantial (see below), you will recieve a 5 out of 10.
-  * Please tweet *throughout* the week as readings are assigned. If I see you only posting on Sundays, I reserve the right to give you a 0. 
-* I will count retweets as long as you add a *substantial* comment. 
+  * Please tweet *throughout* the week as readings are assigned. If I see you only posting on Sundays, I reserve the right to give you a 0.
+  
+* I will count retweets as long as you add a *substantial* comment. <br />
+
 * I will count *substantial* replies to other people's posts.
 
 
