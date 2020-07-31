@@ -3,7 +3,7 @@
 _____
 
 **Final Reflection Due:** November 30th by 11:59 pm <br />
-**Percentage:** 15% 5
+**Percentage:** 15%
 
 _____
 
