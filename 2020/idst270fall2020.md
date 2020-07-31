@@ -80,7 +80,7 @@ _____
 
 Mon 11/30 
 
-* Wakelet Final Reflection Due by 11:59 pm
+**Wakelet Final Reflection Due by 11:59 pm *today***
 
 _____
 
