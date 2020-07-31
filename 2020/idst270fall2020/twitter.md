@@ -30,7 +30,7 @@ _____
 
 ### And then . . .
 
-* Post at least twice a week and take screenshots as you go so that you don't forget.
+* Post at least twice a week and take screenshots as you go so that you don't forget. <br />
 * Submit your tweets via Scholar each Sunday by 11:59 pm.
 
 _____
