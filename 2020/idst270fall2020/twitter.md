@@ -9,13 +9,29 @@ _____
 
 ## General Overview
 
-You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
+Twitter is pretty popular in the Digital Humanities community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *twice* per week** and then **submitting Tweets to me via Scholar each Sunday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots, put them in a Word doc
+You should be **posting on Twitter *twice* per week** and then **submitting Tweets to me via Scholar each Sunday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions below. I've also included instructions for sumbitting your tweets under "How to Submit."
 
 _____
 
 ## Assignment Breakdown
+
+### Day One
+
+* First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
+ * Choose a *professional* username
+ * Try and keep your username under 15 characters <br />
+ * Personalize your profile! But if you don't feel like adding a profile picture of yourself, that's fine. Find some kind of profile picture though.
+ 
+* Add your full name and Twitter username to the appropriate Google Doc in our class Google Drive. Follow everyone else in the class (you may have to come back if you're one of the first few people to post). <br />
+
+* Post your first tweet introducing yourself! You might say your major and why you're interested in DH!
+
+### And then . . .
+
+* Post at least twice a week and take screenshots as you go so that you don't forget.
+* Submit your tweets via Scholar each Sunday by 11:59 pm.
 
 _____
 
