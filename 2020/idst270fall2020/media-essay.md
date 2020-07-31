@@ -41,6 +41,7 @@ Some questions to consider:
 
 Use [Voyant](https://voyant-tools.org/) to “read” “The Yellow Wallpaper.” ([Here's a link to the full text--make sure you copy and paste the text and not all the metadata](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm)). Think about the Cirrus and Trends graphs, but also play around with the Visualizations.
 
+If you're totally lost using Voyant, check out [this](https://voyant-tools.org/docs/#!/guide/tutorial) and [this](https://voyant-tools.org/docs/#!/guide/tools).
 
 Write a **200-300 word** reflection on the activity and add it to the same Wakelet Collection. 
 
