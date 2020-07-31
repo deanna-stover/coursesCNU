@@ -97,7 +97,7 @@ _____
 ### (Free) Writing Help
 
 * Read the assigned Close Reading Handout (available on Scholar and in the Google Drive)
-* Check out the "Overview of Strategies" and "Questions to Help you Dig Deeper" tables from Joanna Wolfe and Laura Wilder's *Digging into Literature** 
+* Check out the "Overview of Strategies" and "Questions to Help you Dig Deeper" tables from Joanna Wolfe and Laura Wilder's *Digging into Literature* available under "Writing Help" on Scholar.
 * Come to Office Hours
 * Calm down! This is meant to be an introductory assignment, so even though it's fast-paced, it should be low stress. Take it seriously, but also take a big breath.
 
