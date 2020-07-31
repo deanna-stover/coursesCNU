@@ -11,7 +11,7 @@ _____
 **Essay Peer Review:** Friday, September 25th (in class)
 
 **Essay Due:** Sunday, September 27th by 11:59 pm <br />
-**Percentage:** 15%
+**Percentage:** 10%
 
 _____
 
@@ -31,7 +31,7 @@ _____
 
 *Clear Transcription - Wednesday, September 16th by 11:59 pm*
 
-### - Reflection - Sunday, September 27th by 11:59 pm
+### - Essay - Sunday, September 27th by 11:59 pm
 
 _____
 
