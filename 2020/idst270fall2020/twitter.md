@@ -11,7 +11,7 @@ _____
 
 You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *twice* per week** and then **submitting Tweets to me via Scholar**. To submit your Tweets via Scholar, you'll need to take screen shots, put them in a Word doc
+You should be **posting on Twitter *twice* per week** and then **submitting Tweets to me via Scholar each Sunday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots, put them in a Word doc
 
 _____
 
@@ -25,6 +25,7 @@ _____
 * I will grade your tweets each week as Pass/Fail based on completion. 
   * If you don't submit at least *two* tweets, you get a 0 for the week.
   * If you submit two tweets but they are UNsubstantial (see below), you will recieve a 5 out of 10.
+  * Please tweet *throughout* the week as readings are assigned. If I see you only posting on Sundays, I reserve the right to give you a 0. 
 * I will count retweets as long as you add a *substantial* comment. 
 * I will count *substantial* replies to other people's posts.
 
@@ -32,7 +33,6 @@ _____
 I may occasionally give some short feedback on improving your tweets. This is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your Final Reflection. You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
 
 _____
-
 
 ## Examples
 
@@ -59,6 +59,12 @@ Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wonder
 * Note that it's fine to disagree! Be collegial, but you don't have to have the same thoughts as everyone else. It's also okay to *change* your mind over the course of the semester -- or even over the course of a day! You might even change your mind several times. That's what humanities education is for, in my opinion -- it helps us to understand how we view a thing and also how to question those same views. That's how we grow as students and people. 
 
 _____
+
+## How to Submit
+
+
+_____
+
 
 ## Resources
 
