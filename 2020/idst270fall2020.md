@@ -15,9 +15,9 @@ _____
 
 ## Instructor - Dr. Deanna Stover
 
-  email: deanna.stover@cnu.edu 
+  **email:** deanna.stover@cnu.edu 
 
-  office hours: TBD
+  **office hours:** TBD
 
 ## Course Description
 
