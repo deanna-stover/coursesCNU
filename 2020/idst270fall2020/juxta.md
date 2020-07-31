@@ -27,11 +27,11 @@ _____
 
 ### - Transcriptions
 
-#### Diplomatic Transcription - Monday, September 14th by 11:59 pm
+*Diplomatic Transcription - Monday, September 14th by 11:59 pm*
 
-#### Clear Transcription - Wednesday, September 16th by 11:59 pm
+*Clear Transcription - Wednesday, September 16th by 11:59 pm*
 
-### Reflection - Sunday, September 27th by 11:59 pm
+### - Reflection - Sunday, September 27th by 11:59 pm
 
 _____
 
