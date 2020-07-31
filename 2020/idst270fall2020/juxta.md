@@ -8,10 +8,10 @@ _____
 **Clear Transcriptions Due:** Wednesday, September 16th by 11:59 pm <br />
 **Percentage:** 10% (combined)
 
-**Reflection Peer Review:** Friday, September 25th (in class)
+**Essay Peer Review:** Friday, September 25th (in class)
 
-**Reflection Due:** Sunday, September 27th by 11:59 pm <br />
-**Percentage:** 10%
+**Essay Due:** Sunday, September 27th by 11:59 pm <br />
+**Percentage:** 15%
 
 _____
 
