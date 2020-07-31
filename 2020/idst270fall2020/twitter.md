@@ -9,9 +9,9 @@ _____
 
 ## General Overview
 
-You'll be setting up an *academic* or *professional* twitter, meaning you might need to create a new profile if you already have a personal account. 
+You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
+You should be **posting on Twitter *twice* per week** and then **submitting Tweets to me via Scholar**.
 
 _____
 
@@ -22,7 +22,20 @@ _____
 ## Evaluation Criteria
 
 * I will grade your tweets each week as Pass/Fail based on completion. *However*, I may occasionally give some short feedback on improving your tweets. This is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your Final Reflection. You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
+* I will count retweets as long as you add a comment. 
+* You must **submit screenshots of your tweets each week** to get credit. (See how in "Assignment Breakdown" above.)
 
+*A bad tweet*: I really liked the reading!
+
+What reading? Why? Did it make you think differently about X?
+
+*A better tweet*: Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm still not sure if he actually answered the question for me.
+
+More specific but I still have questions. Add some more detail (understanding that you only have so many characters!) 
+
+*A good tweet*: 
+
+Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wondering what makes the digital humanities different than the humanities now that most things are done digitally? He was also writing ten years ago, so what has changed in the field? 
 _____
 
 ## Resources
