@@ -66,7 +66,7 @@ You will be responsible for transcribing the manuscript version of Charlotte Per
 
 You will create a Twine Game and write a 1000-1500 word research paper after I approve your proposal and annotated bibliography. 
 
-## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/reflection)
+## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection)
 
 Drawing on the entire semester, you will create a media essay that incorporates tweets, readings, and links from class along with your own reflections on Digital Humanities, your own work throughout the semester, and the course as a whole. 
 
