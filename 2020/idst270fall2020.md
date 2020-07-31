@@ -45,7 +45,7 @@ Juxta Edition <br /> * Transcriptions <br /> * Reflection | <br /> Week 5 <br />
 Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
 Final Reflection | 11/30 | 15%
 
-## [Twitter Posts](https://github.com/deanna-stover/coursesCNU/2020/idst270fall2020/twitter)
+## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twitter)
 
 You will be responsible for tweeting twice per week on an *Academic* Twitter account and submitting those tweets to me weekly. 
 
