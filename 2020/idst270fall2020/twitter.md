@@ -64,7 +64,7 @@ What reading? Why? What questions?
 
 More specific but I still have questions about your questions. Add some more detail (understanding that you only have so many characters!) 
 
-**A good tweet**: 
+**A *substantial* tweet**: 
 
 Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wondering what makes the digital humanities different than the humanities now that most things are done digitally? He was also writing ten years ago, so what has changed in the field? 
 
