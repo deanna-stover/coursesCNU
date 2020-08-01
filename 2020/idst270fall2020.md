@@ -46,7 +46,7 @@ Final Reflection | 11/30 | 15%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twitter)
 
-You will be responsible for tweeting twice per week on an *Academic* Twitter account and submitting those tweets to me weekly. 
+You will be responsible for tweeting twice per week on an *academic* Twitter account and submitting those tweets to me weekly. 
 
 ## [Close, Hyper, Machine Media Essay](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/media-essay)
 
