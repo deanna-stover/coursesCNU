@@ -72,7 +72,7 @@ Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wonder
 
 **An UNsubstantial comment or reply** I agree with your questions! Ten years is a long time!
 
-**A *substantial* comment or reply** Digital Humanities is roughly 25 years old and ten years does seem like a substantial amount of time, but I think defining DH will always be hard. Technology is constantly evolving, so I'm not sure we can even really define DH in any lasting way.
+**A *substantial* comment or reply** Ten years does seem like a substantial amount of time, but I think defining DH will always be hard. Technology is constantly evolving, so I'm not sure we can even really define DH in any lasting way.
 
 **A *substantial* comment or reply to THAT reply** I disagree. I think technology is advancing, of course, but the principles are the same. As long as people are doing humanities scholarship digitally, isn't that DH? I think the blurring really comes when we ask what is humanities work to begin with?
 
