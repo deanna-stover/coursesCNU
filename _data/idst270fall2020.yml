@@ -1,11 +1,19 @@
 ---
-start: 2020-08-17
-end: 2020-11-20
+start: 2020-08-31
+end: 2020-12-11
 
 meets:
   - monday
   - wednesday
   - friday
+  
+holidays:
+  - date: 2020-11-23
+    name: Thanksgiving
+  - date: 2020-11-25
+    name: Thanksgiving
+  - date: 2020-11-27
+    name: Thanksgiving
 
 classes:
   - |
