@@ -73,7 +73,7 @@ _____
 
 ## Final Exams
 
-Mon 11/30 
+Final
 
 **Wakelet Final Reflection Due by 11:59 pm *today***
 
