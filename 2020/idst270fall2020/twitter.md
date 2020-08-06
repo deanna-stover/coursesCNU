@@ -3,7 +3,7 @@
 _____
 
 **Tweets Due:** Weekly <br />
-**Percentage:** 10% <br />
+**Percentage:** 15% <br />
 
 _____
 
