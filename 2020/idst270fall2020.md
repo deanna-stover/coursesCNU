@@ -38,10 +38,10 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
-Twitter Posts | Weekly | 10%
+Twitter Posts | Weekly | 15%
 Media Essay | 9/6 | 10%
 Juxta Edition <br /> * Transcriptions <br /> * Essay | <br /> Week 5 <br /> 9/27 | <br /> 10% <br /> 10%
-Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 30%
+Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
 Final Reflection | 11/30 | 15%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twitter)
