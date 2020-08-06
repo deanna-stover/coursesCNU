@@ -36,7 +36,7 @@ _____
 
 ### Week 11 on . . .
 
-* You'll notice that we don't have many readings after Week 10. You'll still be responsible for posting two tweets a week, but they'll be about your own project and the research you've been doing. This is how you'll share your progress with the class (and with me!). <br ?>
+* You'll notice that we don't have many readings after Week 10. You'll still be responsible for posting two tweets a week, but they'll be about your own project and the research you've been doing. This is how you'll share your progress with the class (and with me!). <br />
 
 * You are *not* responsible for posting the week of Thanksgiving . . . 
 
