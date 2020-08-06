@@ -5,15 +5,15 @@ _____
 **Proposal Deadline:** Our Virtual Meeting in Week 8 (see below) <br />
 **Percentage:** 5% (required)
 
-**Annotated Bibliography Deadline:** Sunday, October 18th at 11:59 pm <br />
+**Annotated Bibliography Deadline:** Sunday, November 1st at 11:59 pm <br />
 **Percentage:** 10%
 
-**First Play Test:** Monday, November 9th (in class)
+**First Play Test:** Monday, November 30th (in class)
 
-**Second Play Test and Essay Peer Review:** Monday, November 16th (in class)
+**Second Play Test and Essay Peer Review:** Monday, December 7th (in class)
 
-**Final Twine Game and Research Paper Deadline:** Friday, November 20th at 11:59 pm <br />
-**Percentage:** 30%
+**Final Twine Game and Research Paper Deadline:** Friday, December 11th at 11:59 pm <br />
+**Percentage:** 25%
 
 _____
 
@@ -31,10 +31,11 @@ Some topic ideas (but this list certainly isn't exhaustive!):
 * The Pandemic (or illnesses from history)
 * First Generation college students
 * Mass incarceration 
-* Digital Humanities and anything related to gender, race, (dis)ability, and/or sexuality. 
+* Digital Humanities and anything related to gender, race, (dis)ability, and/or sexuality
 * Underfunded schools/communities
 * LGTBQ rights (historical as in the case of Oscar Wilde or in recent memory)
-* AI and anything related to gender, race, (dis)ability, and/or sexuality. 
+* AI and anything related to gender, race, (dis)ability, and/or sexuality
+* Immigration 
 
 I do expect you to do academic research that backs up the choices your player is given in the game itself, so please don't choose a topic if you are unwilling to have your beliefs questioned. I also want everyone to be respectful and kind to their classmaes, so be aware of the language and framing you use when addressing controversial topics. 
 
@@ -42,22 +43,22 @@ _____
 
 ## Assignment Breakdown
 
-### - Proposal - Week 8 (10/5 - 10/7)
+### - Proposal - Week 8 (10/19 - 10/21)
 
 Instead of having class on Monday and Wednesday of Week 8, I'll be holding individual meetings about your topic proposal. You'll need to turn in your proposal via Scholar *before* our meeting. This is where we'll discuss your choice of subject and come up with some ideas for moving forward. Your proposal should be **200-300 words** and explain both your topic and its social relevance.  
 
-### - Annotated Bibliography - Sunday, October 18th at 11:59 pm
+### - Annotated Bibliography - Sunday, November 1st at 11:59 pm
 
 You'll be responsible for finding *at least* five (5) academic sources and writing **100-150 words per entry** explaining the central argument of the source and its relevance to your project.
 
-### - Final Twine Game and Research Paper Deadline - Friday, November 20th at 11:59 pm
+### - Final Twine Game and Research Paper Deadline - Friday, December 11th at 11:59 pm
 
 Your playable Twine game should have the following:
 * At least twelve player interactions
 * At least two possible outcomes
-* Some (basic!) CSS and HTML
+* Some (basic) CSS and HTML
 
-In addition to your Twine game, you must write a **1500-2000 word** research essay. This essay will tie you research back to the choices you made in creating your Twine game. 
+In addition to your Twine game, you must write a **1500-2000 word** research essay. This essay will tie you research back to the choices you made in creating your Twine game. So, you should be citing at least five academic sources in your paper.
 
 _____
 
@@ -66,4 +67,4 @@ I owe credit to S. Einstein and M. Vetter for their [Twine Assignment](http://ww
 
 _____
 
-[Go back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
