@@ -9,9 +9,9 @@ _____
 
 ## General Overview
 
-Twitter is pretty popular in the Digital Humanities community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
+Twitter is pretty popular in the Digital Humanities (DH) community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *twice* per week** and then **submitting Tweets to me via Scholar each Sunday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions below. I've also included instructions for sumbitting your tweets under "How to Submit."
+You should be **posting on Twitter *at least twice* per week** and then **submitting Tweets to me via Scholar each Sunday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions below. I've also included instructions for sumbitting your tweets under "How to Submit."
 
 _____
 
@@ -30,7 +30,7 @@ _____
 
 ### And then . . .
 
-* Post at least two substantial (see below) posts a week and take screenshots as you go so that you don't forget. <br />
+* Post at least two substantial (see below) tweets a week and take screenshots as you go so that you don't forget. <br />
 
 * Submit your tweets via Scholar each Sunday by 11:59 pm.
 
@@ -38,19 +38,19 @@ _____
 
 ## Evaluation Criteria
 
-* *You must submit screenshots of your tweets/retweets/replies each week to get credit*. (See how in "Assignment Breakdown" above.) <br />
+* *You must submit screenshots of your tweets/retweets/replies each week to get credit*. (See how in "How to Submit" below) <br />
 
-* I will grade your tweets each week as Pass/Fail based on completion. 
-  * If you don't submit at least *two* tweets, you get a 0 for the week.
+* I will grade your tweets each week 
+  * If you don't submit *at least two* tweets, you get a 0 for the week.
   * If you submit two tweets but they are UNsubstantial (see below), you will recieve a 5 out of 10.
-  * Please tweet *throughout* the week as readings are assigned. If I see you only posting on Sundays, I reserve the right to give you a 0.
+  * Please tweet *throughout* the week as readings are assigned. If I only see you posting during/after class, I reserve the right to give you a 0.
   
 * I will count retweets as long as you add a *substantial* comment. <br />
 
 * I will count *substantial* replies to other people's posts.
 
 
-I may occasionally give some short feedback on improving your tweets. This is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your Final Reflection. You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
+I may occasionally give some short feedback on improving your tweets. Even if you're getting 10/10 based on completion, my advice is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your Final Reflection. You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
 
 _____
 
@@ -76,7 +76,7 @@ Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wonder
 
 **A *substantial* comment or reply to THAT reply** I disagree. I think technology is advancing, of course, but the principles are the same. As long as people are doing humanities scholarship digitally, isn't that DH? I think the blurring really comes when we ask what is humanities work to begin with?
 
-* Note that it's fine to disagree! Be collegial, but you don't have to have the same thoughts as everyone else. It's also okay to *change* your mind over the course of the semester -- or even over the course of a day! You might even change your mind several times. That's what humanities education is for, in my opinion -- it helps us to understand how we view a thing and also how to question those same views. That's how we grow as students and people. 
+* Note that it's fine to disagree! Be collegial, but you don't have to have the same thoughts as everyone else. It's also okay to *change* your mind over the course of the semester -- or even over the course of a day! You might even change your mind several times. I might change my mind too. That's what humanities education is for in my opinion -- it helps us to understand how we view a thing and also how to question those same views. That's how we grow as students, academics, and people. 
 
 _____
 
@@ -90,7 +90,8 @@ _____
 
 ### (Mostly Free) Screen Capture Software 
 
-* You might consider using your phone to use Twitter and then take a simple screenshot.
+You might consider using your phone to use Twitter and then take a simple screenshot. If you'd rather use a computer, here are some resources:
+
 * [How-to on Mac](https://support.apple.com/en-us/HT201361)
 * [How-to on Windows](https://www.businessinsider.com/how-to-screenshot-on-windows)
 * [Greenshot](https://getgreenshot.org/downloads/) - free on Windows and $1.99 on Mac
@@ -98,4 +99,4 @@ _____
 
 _____
 
-[Go back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
