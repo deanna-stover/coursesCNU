@@ -17,7 +17,12 @@ _____
 
   **email:** deanna.stover@cnu.edu 
 
-  **office hours:** TBD
+  **office hours:** 
+  
+   *All office hours will be held online.*
+   
+   Office hours are your time to come talk to me about anything related (or unrelated) to class. This time is yours, I am not (supposed to be) doing anything else; you will not be interrupting me. If you have questions about class or have other questions I might be able to answer, please (virtually) drop by.
+   
 
 ## Course Description
 
@@ -82,3 +87,7 @@ _____
 # Policies
 
 {% include policies.md %}
+
+_____
+
+I owe thanks to Dr. Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it. 
