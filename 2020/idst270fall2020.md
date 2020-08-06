@@ -55,15 +55,15 @@ You will be responsible for tweeting twice per week and submitting those tweets 
 
 ## [Close, Hyper, Machine Media Essay](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/media-essay)
 
-You will develop a media essay based on Katherine Hayles's article, "How We Read: Close, Hyper, Machine" and "The Yellow Wall-Paper."
+You will develop a media essay based on "The Yellow Wall-Paper" and Katherine Hayles's article, "How We Read: Close, Hyper, Machine."
 
 ## [Juxta Edition](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/juxta)
 
-You will be responsible for transcribing the manuscript version of Charlotte Perkins Stetson's (as she was then known) "The Yellow Wall-Paper" and writing a short essay.
+You will be responsible for transcribing a portion of two versions of "The Yellow Wall-Paper" and writing a short essay.
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-You will create a Twine Game and write a research paper after I approve your proposal and annotated bibliography. 
+You will create a Twine game about a historical or modern social issue and write a research paper after I approve your proposal and annotated bibliography. 
 
 ## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection)
 
