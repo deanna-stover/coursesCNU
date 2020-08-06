@@ -17,7 +17,7 @@ _____
 
   **email:** deanna.stover@cnu.edu 
 
-  **office hours:** 
+  **office hours:** MWF 10:15 - 11:30 am, F 1:15 - 2:00 pm, and by appointment
   
    *All office hours will be held online.*
    
@@ -43,32 +43,31 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
-Twitter Posts | Weekly | 15%
-Media Essay | 9/6 | 10%
-Juxta Edition <br /> * Transcriptions <br /> * Essay | <br /> Week 5 <br /> 9/27 | <br /> 10% <br /> 10%
-Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/18 <br /> 11/20 | <br /> 5% <br /> 10% <br /> 25%
-Final Reflection | 11/30 | 15%
+Twitter Posts | Fridays | 15%
+Media Essay | 9/18 | 10%
+Juxta Edition <br /> * Transcriptions <br /> * Essay | <br /> Week 5 <br /> 10/9 | <br /> 10% <br /> 10%
+Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/30 <br /> 12/11 | <br /> 5% <br /> 10% <br /> 30%
+Final Reflection | TBD | 10%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twitter)
 
-You will be responsible for tweeting twice per week on an *academic* Twitter account and submitting those tweets to me weekly. 
+You will be responsible for tweeting twice per week and submitting those tweets to me weekly. 
 
 ## [Close, Hyper, Machine Media Essay](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/media-essay)
 
-A 1000-1500 word media essay based on Katherine Hayles's article, "How We Read: Close, Hyper, Machine" and "The Yellow Wall-Paper." This essay combines close reading and reflection and will introduce you to Wakelet. 
+You will develop a media essay based on Katherine Hayles's article, "How We Read: Close, Hyper, Machine" and "The Yellow Wall-Paper."
 
 ## [Juxta Edition](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/juxta)
 
-You will be responsible for transcribing the manuscript version of Charlotte Perkins Stetson's (as she was then known) "The Yellow Wall-Paper" and writing a 750-1000 word close reading/reflection.
-
+You will be responsible for transcribing the manuscript version of Charlotte Perkins Stetson's (as she was then known) "The Yellow Wall-Paper" and writing a short essay.
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-You will create a Twine Game and write a 1000-1500 word research paper after I approve your proposal and annotated bibliography. 
+You will create a Twine Game and write a research paper after I approve your proposal and annotated bibliography. 
 
 ## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection)
 
-Drawing on the entire semester, you will create a media essay using Wakelet that incorporates tweets, readings, and links from class along with your own reflections on Digital Humanities, your own work throughout the semester, and the course as a whole. 
+Drawing on the entire semester, you will create a media essay that incorporates tweets, readings, and links from class along with your reflections on your own work throughout the semester, the course as a whole, and the Digital Humanities more broadly. 
 
 _____
 
@@ -80,7 +79,7 @@ _____
 
 Final - TBD
 
-**Wakelet Final Reflection Due by 11:59 pm *today***
+**Final Reflection Due by 11:59 pm *today***
 
 _____
 
