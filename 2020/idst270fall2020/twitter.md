@@ -2,7 +2,7 @@
 
 _____
 
-**Tweets Due:** Weekly <br />
+**Tweets Due:** Weekly on Fridays by 11:59 pm <br />
 **Percentage:** 15% <br />
 
 _____
@@ -11,7 +11,7 @@ _____
 
 Twitter is pretty popular in the Digital Humanities (DH) community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *at least twice* per week** and then **submitting Tweets to me via Scholar each Sunday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions below. I've also included instructions for sumbitting your tweets under "How to Submit."
+You should be **posting on Twitter *at least twice* per week** and then **submitting Tweets to me via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions below. I've also included instructions for sumbitting your tweets under "How to Submit."
 
 _____
 
@@ -32,7 +32,7 @@ _____
 
 * Post at least two substantial (see below) tweets a week and take screenshots as you go so that you don't forget. <br />
 
-* Submit your tweets via Scholar each Sunday by 11:59 pm.
+* Submit your tweets via Scholar each Friday by 11:59 pm.
 
 ### Week 11 on . . .
 
