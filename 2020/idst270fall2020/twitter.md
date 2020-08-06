@@ -34,6 +34,14 @@ _____
 
 * Submit your tweets via Scholar each Sunday by 11:59 pm.
 
+### Week 11 on . . .
+
+* You'll notice that we don't have many readings after Week 10. You'll still be responsible for posting two tweets a week, but they'll be about your own project and the research you've been doing. This is how you'll share your progress with the class (and with me!). <br ?>
+
+* You are *not* responsible for posting the week of Thanksgiving . . . 
+
+* . . . but you *are* responsible for posting during finals week as you finish up your [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection).
+
 _____
 
 ## Evaluation Criteria
@@ -49,8 +57,9 @@ _____
 
 * I will count *substantial* replies to other people's posts.
 
+Each week amounts to 1% of your final grade in the course. It doesn't seem like much, but it adds up! <br />
 
-I may occasionally give some short feedback on improving your tweets. Even if you're getting 10/10 based on completion, my advice is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your Final Reflection. You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
+I may occasionally give some short feedback on improving your tweets. Even if you're getting 10/10 based on completion, my advice is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection). You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
 
 _____
 
