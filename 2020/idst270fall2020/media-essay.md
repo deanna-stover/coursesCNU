@@ -50,11 +50,11 @@ Some questions to consider:
 * What sticks out to you the most? 
 * What was your experience using Voyant? It's okay if you say frustrating, but explain why! 
 
-Make sure to include at least **two** images! It's probably easiest to take screen captures rather than trying to embed anything. 
+*Make sure to include at least **two** images!* It's easiest to take screen captures rather than trying to embed anything.
 
 ### - Introduction and Conclusion - Friday, September 18th (by class)
 
-Write an introduction and conclusion after our class discussion from Wednesday (if you missed class for any reason, you are still responsible for writing an introduction and conclusion) and posting it to the same Wakelet Collection. Combined, the introduction should be **roughly 300-400 words**.
+Write an introduction and conclusion after our class discussion from Wednesday (if you missed class for any reason, you are still responsible for writing an introduction and conclusion) and post it to the same Wakelet Collection. Combined, the introduction should be **roughly 300-400 words**.
 
 ### - Final Essay due Friday, September 18th at 11:59 pm
 
@@ -65,7 +65,7 @@ _____
 ## Evaluation Criteria
 
 * Uses adequate **textual evidence** (direct quotations, summaries, and paraphrased passages) to support any claims
-  * This is especially important for close reading, but should also be employed when Hyper and Machine reading.
+  * This is especially important for the close reading, but should also be employed when Hyper and Machine reading
   
 * **Thinks critically** about the reading experience instead of simply stating feelings or facts
 
@@ -76,7 +76,7 @@ _____
 * Shows **professionalism** -- i.e. that you took this assignment seriously
   * However, the annotation images can be more informal than the essay itself. If you wrote LOL or UGH in your annotation, that’s fine -- I do!
   
-* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 _____
 
