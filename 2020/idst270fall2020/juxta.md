@@ -29,18 +29,18 @@ I will assign you a few pages of the [manuscript version of “The Yellow Wall-P
 
 * ***Diplomatic Transcription** - Monday, September 28th*
 
-For our purposes, a diplomatic transcription means that we're including everything we see in the manuscript such as crossed-out words. The difference is, instead of using symbols or notes, you'll be trying to simulate it in Google Docs by using strikethrough, for instance, and/or by adding a comment. We'll talk more about how to do this for your specific pages in class. 
+  For our purposes, a diplomatic transcription means that we're including everything we see in the manuscript such as crossed-out words. The difference is, instead of using symbols or notes, you'll be trying to simulate it in Google Docs by using strikethrough, for instance, and/or by adding a comment. We'll talk more about how to do this for your specific pages in class. 
 
-*By class* - You'll want to finish your diplomatic transcriptions by class in order to (virtually) meet with your assigned partner. The two of you will "Proofread" the document together (see [proofreading](https://gde.upress.virginia.edu/06-gde.html#h3.1)).
+  *By class* - You'll want to finish your diplomatic transcriptions by class in order to (virtually) meet with your assigned partner. The two of you will "Proofread" the document together (see [proofreading](https://gde.upress.virginia.edu/06-gde.html#h3.1)).
 
-*By 11:59 pm* - Now that you've double-checked your transcription with your partner and corrected any mistakes, you're done with the diplomatic transcription! Leave it in the Google Doc for now. You'll submit everything to me on Wednesday.  
+  *By 11:59 pm* - Now that you've double-checked your transcription with your partner and corrected any mistakes, you're done with the diplomatic transcription! Leave it in the Google Doc for now. You'll submit everything to me on Wednesday.  
 
 * ***Clear Transcription** - Wednesday, September 30th by 11:59 pm*
 
-In a **new** Google Doc I will have created, you'll be editing your transcription. Juxta Commons won't recognize things like strikethrough, so we'll be cleaning up our transcriptions to be the "final" version that Stetson imagined. That means, making a "fair copy," or a copy with any and all edits she made in the manuscript implemented. So delete crossed out words, for instance. You'll also be resolving any comments you made, but again, this is in a new document. 
+  In a **new** Google Doc I will have created, you'll be editing your transcription. Juxta Commons won't recognize things like strikethrough, so we'll be cleaning up our transcriptions to be the "final" version that Stetson imagined. That means, making a "fair copy," or a copy with any and all edits she made in the manuscript implemented. So delete crossed out words, for instance. You'll also be resolving any comments you made, but again, this is in a new document. 
 
-*By 11:59 pm* - Submit *both* transcriptions via Scholar (even if they're exactly the same). You can do this by copying and pasting your portion of the transcriptions into a Word Doc and/or a separate Google Doc that you then download as a PDF or Word file. 
-* Note that you will more than likely have comments in your diplomatic transcription, and I'd like to see those so keep them in the document you submit to Scholar.
+  *By 11:59 pm* - Submit *both* transcriptions via Scholar (even if they're exactly the same). You can do this by copying and pasting your portion of the transcriptions into a Word Doc and/or a separate Google Doc that you then download as a PDF or Word file. 
+    * Note that you will more than likely have comments in your diplomatic transcription, and I'd like to see those so keep them in the document you submit to Scholar.
 
 ### - Essay - Sunday, September 27th by 11:59 pm
 
