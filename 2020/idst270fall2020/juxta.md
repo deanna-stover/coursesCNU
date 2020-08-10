@@ -71,4 +71,4 @@ _____
 
 _____
 
-[Go back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
