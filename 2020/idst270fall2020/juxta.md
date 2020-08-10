@@ -53,8 +53,6 @@ _____
 
 ### - Transcriptions
 
-* **Submitted** correctly and on time
-
 * **Accurate** diplomatic transcriptions 
 
 * **Polished** clear transcriptions  
