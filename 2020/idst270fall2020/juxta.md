@@ -25,9 +25,9 @@ _____
 
 ### - Transcriptions
 
-I will assign you a few pages of the [manuscript version of “The Yellow Wall-Paper”](http://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/search?topics[]=The%20Yellow%20Wall-Paper%20(Manuscript)&page=1). The list of what passage you're assigned is **forthcoming.**  
+I will assign you a few pages of the [manuscript version of “The Yellow Wall-Paper.”](http://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/search?topics[]=The%20Yellow%20Wall-Paper%20(Manuscript)&page=1) The list of what passage you're assigned is forthcoming. 
 
-***Diplomatic Transcription** - Monday, September 28th*
+* ***Diplomatic Transcription** - Monday, September 28th*
 
 For our purposes, a diplomatic transcription means that we're including everything we see in the manuscript such as crossed-out words. The difference is, instead of using symbols or notes, you'll be trying to simulate it in Google Docs by using strikethrough, for instance, and/or by adding a comment. We'll talk more about how to do this for your specific pages in class. 
 
@@ -35,7 +35,7 @@ For our purposes, a diplomatic transcription means that we're including everythi
 
 *By 11:59 pm* - Now that you've double-checked your transcription with your partner and corrected any mistakes, you're done with the diplomatic transcription! Leave it in the Google Doc for now. You'll submit everything to me on Wednesday.  
 
-***Clear Transcription** - Wednesday, September 30th by 11:59 pm*
+* ***Clear Transcription** - Wednesday, September 30th by 11:59 pm*
 
 In a **new** Google Doc I will have created, you'll be editing your transcription. Juxta Commons won't recognize things like strikethrough, so we'll be cleaning up our transcriptions to be the "final" version that Stetson imagined. That means, making a "fair copy," or a copy with any and all edits she made in the manuscript implemented. So delete crossed out words, for instance. You'll also be resolving any comments you made, but again, this is in a new document. 
 
