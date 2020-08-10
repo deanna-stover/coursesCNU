@@ -53,15 +53,15 @@ _____
 
 ### - Transcriptions
 
-* **Submitted** correctly and on time <br /> <br />
+* **Submitted** correctly and on time
 
-* **Accurate** diplomatic transcriptions <br /> <br />
+* **Accurate** diplomatic transcriptions 
 
 * **Polished** clear transcriptions  
 
 ### - Essay
 
-* Uses adequate **textual evidence** (direct quotations, summaries, and paraphrased passages) to support any claims <br /> <br />
+* Uses adequate **textual evidence** (direct quotations, summaries, and paraphrased passages) to support any claims
 
 * **Thinks critically** about the transcription experience instead of simply stating feelings or facts
 
