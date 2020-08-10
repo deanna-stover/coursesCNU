@@ -48,9 +48,9 @@ _____
 
 * *You must submit screenshots of your tweets/retweets/replies each week to get credit*. (See how in "How to Submit" below) <br />
 
-* I will grade your tweets each week 
+* I will grade your tweets as pass/fail each week 
   * If you don't submit *at least two* tweets, you get a 0 for the week.
-  * If you submit two tweets but they are UNsubstantial (see below), you will recieve a 5 out of 10.
+  * If you submit two tweets but they are UNsubstantial (see below), you will recieve a 0 for the week.
   * Please tweet *throughout* the week as readings are assigned. If I only see you posting during/after class, I reserve the right to give you a 0.
   
 * I will count retweets as long as you add a *substantial* comment. <br />
@@ -59,7 +59,7 @@ _____
 
 Each week amounts to 1% of your final grade in the course. It doesn't seem like much, but it adds up! <br />
 
-I may occasionally give some short feedback on improving your tweets. Even if you're getting 10/10 based on completion, my advice is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection). You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
+I may occasionally give some short feedback on improving your tweets. Even if you're getting full points based on completion, my advice is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection). You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
 
 _____
 
