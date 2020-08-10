@@ -2,24 +2,22 @@
 
 _____
 
-**Transcription Peer Review:** Monday, September 14th (in class)
+**Transcription Peer Review:** Monday, September 28th (in class)
 
-**Diplomatic Transcriptions Due:** Monday, September 14th by 11:59 pm <br />
-**Clear Transcriptions Due:** Wednesday, September 16th by 11:59 pm <br />
+**Diplomatic Transcriptions Due:** Monday, September 28th by 11:59 pm <br />
+**Clear Transcriptions Due:** Wednesday, September 30th by 11:59 pm <br />
 **Percentage:** 10% (combined)
 
-**Essay Peer Review:** Friday, September 25th (in class)
+**Essay Peer Review:** Friday, October 7th (in class)
 
-**Essay Due:** Sunday, September 27th by 11:59 pm <br />
+**Essay Due:** Friday, October 9th by 11:59 pm <br />
 **Percentage:** 10%
 
 _____
 
 ## General Overview
 
-You have three (3) pages to transcribe of the [manuscript version of “The Yellow Wallpaper”](http://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/search?topics[]=The%20Yellow%20Wall-Paper%20(Manuscript)&page=1) along with the corresponding passage in the periodical version, assigned alphabetically, and then checked reverse alphabetically. 
-
-Remember, you’ll be writing a short paper about this exercise, so you should take notes throughout the process. It’ll make the reflection easier. 
+We'll be comparing the manuscript and periodical versions of "The Yellow Wall-Paper" using Juxta Commons, a collation software. You'll be responsible for transcribing a short portion of the handwritten manuscript in two different forms and then writing an essay that discusses the differences between the two texts and reflects on the experience of transcribing and preparing a text. 
 
 _____
 
@@ -27,9 +25,22 @@ _____
 
 ### - Transcriptions
 
-*Diplomatic Transcription - Monday, September 14th by 11:59 pm*
+I will assign you a few pages of the [manuscript version of “The Yellow Wall-Paper”](http://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/search?topics[]=The%20Yellow%20Wall-Paper%20(Manuscript)&page=1). The list of what passage you're assigned is **forthcoming.**  
 
-*Clear Transcription - Wednesday, September 16th by 11:59 pm*
+***Diplomatic Transcription** - Monday, September 28th*
+
+For our purposes, a diplomatic transcription means that we're including everything we see in the manuscript such as crossed-out words. The difference is, instead of using symbols or notes, you'll be trying to simulate it in Google Docs by using strikethrough, for instance, and/or by adding a comment. We'll talk more about how to do this for your specific pages in class. 
+
+*By class* - You'll want to finish your diplomatic transcriptions by class in order to (virtually) meet with your assigned partner. The two of you will "Proofread" the document together (see [proofreading](https://gde.upress.virginia.edu/06-gde.html#h3.1)).
+
+*By 11:59 pm* - Now that you've double-checked your transcription with your partner and corrected any mistakes, you're done with the diplomatic transcription! Leave it in the Google Doc for now. You'll submit everything to me on Wednesday.   
+
+***Clear Transcription** - Wednesday, September 30thth by 11:59 pm*
+
+In a **new** Google Doc I will have created, you'll be editing your transcription. Juxta Commons won't recognize things like strikethrough, so we'll be cleaning up our transcriptions to be the "final" version that Stetson imagined. That means, making a "fair copy," or a copy with any and all edits she made in the manuscript implemented. So delete crossed out words, for instance. 
+
+*By 11:59 pm* Submit *both* transcriptions via Scholar (even if they're exactly the same). You can do this by copying and pasting your portion of the transcriptions into a Word Doc and/or a separate Google Doc that you then download as a PDF or Word file. 
+* Note that you will more than likely have comments in your diplomatic transcription, and I'd like to see those so keep them in the document you submit to Scholar.
 
 ### - Essay - Sunday, September 27th by 11:59 pm
 
