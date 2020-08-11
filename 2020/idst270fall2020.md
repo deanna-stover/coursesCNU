@@ -17,7 +17,7 @@ _____
 
   **email:** deanna.stover@cnu.edu 
 
-  **office hours:** MWF 10:15 - 11:30 am, F 1:15 - 2:00 pm, and by appointment
+  **office hours:** MWF 10:15 - 11:30 am, F 2:00 - 2:45 pm, and by appointment
   
    *All office hours will be held online.*
    
@@ -28,7 +28,7 @@ _____
 
 *Catalog Description*: This course introduces students to the digital humanities by raising the question of what precisely constitutes this new and emerging field. Students explore how digital media and technology have transformed multiple disciplines in the humanities as well as humanities research. Theoretical questions regarding post-humanism, privacy, print culture, copyright, and more are discussed. Students produce digital artifacts related to a field of traditional humanities study.
 
-*Instructor's Addendum*:
+*Instructor's Addendum*: This version of IDST 270 will focus on texts: how we read them, how we make them, and how we design them. Throughout this course, students will experience first-hand the digital and non-digital labor required of digital humanities practitioners.
 
 ## Learning Outcomes
 
@@ -59,15 +59,15 @@ You will develop a media essay based on "The Yellow Wall-Paper" and Katherine Ha
 
 ## [Juxta Edition](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/juxta)
 
-You will be responsible for transcribing a portion of two versions of "The Yellow Wall-Paper" and writing a short essay.
+You will be responsible for transcribing a portion of "The Yellow Wall-Paper" manuscript and writing a short essay.
 
 ## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/twine)
 
-You will create a Twine game about a historical or modern social issue and write a research paper after I approve your proposal and annotated bibliography. 
+You will produce a Twine game about a historical or modern social issue and write a research paper after I approve your proposal and annotated bibliography. 
 
 ## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection)
 
-Drawing on the entire semester, you will create a media essay that incorporates tweets, readings, and links from class along with your reflections on your own work throughout the semester, the course as a whole, and the Digital Humanities more broadly. 
+Drawing on the entire semester, you will create a media reflection essay.
 
 _____
 
@@ -89,4 +89,4 @@ _____
 
 _____
 
-I owe thanks to Dr. Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it. 
+I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it. 
