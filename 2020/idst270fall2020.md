@@ -79,7 +79,7 @@ _____
 
 Final - Thursday, December 17th 
 
-**Final Reflection Due between 5 and 7:30 pm *today***
+**Final Reflection Due between 5:00 and 7:30 pm *today***
 
 _____
 
