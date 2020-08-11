@@ -77,9 +77,9 @@ _____
 
 ## Final Exams
 
-Final - TBD
+Final - Thursday, December 17th 
 
-**Final Reflection Due by 11:59 pm *today***
+**Final Reflection Due between 5 and 7:30 pm *today***
 
 _____
 
