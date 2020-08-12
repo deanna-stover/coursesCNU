@@ -20,7 +20,7 @@ _____
 
 ### - Close Reading - Friday, September 11th (by class)
 
-Write a **300-500 word** close reading of *the periodical version of* ["The Yellow-Wallpaper"](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf) and post it in a Wakelet Collection. 
+Write a **300-500 word** close reading of the periodical version of ["The Yellow-Wallpaper"](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf) and post it in a Wakelet Collection. 
 
 *Make sure you include at least one picture of any related annotations!*
  
