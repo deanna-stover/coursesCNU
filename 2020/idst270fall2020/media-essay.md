@@ -79,6 +79,8 @@ _____
   
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
+* **Cites** appropriately 
+
 _____
 
 ## Resources
