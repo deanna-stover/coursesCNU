@@ -11,7 +11,7 @@ _____
 
 Twitter is pretty popular in the Digital Humanities (DH) community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *at least twice* per week** and then **submitting Tweets to me via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions below. I've also included instructions for sumbitting your tweets under "How to Submit."
+You should be **posting on Twitter *at least twice* per week** and then **submitting Tweets to me via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions under "Resources." I've also included instructions for sumbitting your tweets under "How to Submit."
 
 _____
 
@@ -22,7 +22,7 @@ _____
 * First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
   * Choose a *professional* username
   * Try and keep your username under 15 characters <br />
-  * Personalize your profile! But if you don't feel like adding a profile picture of yourself, that's fine. Find some kind of profile picture though.
+  * Personalize your profile! If you don't feel like adding a profile picture of yourself, that's fine. Find some kind of profile picture though.
  
 * Add your full name and Twitter username to the appropriate Google Doc in our class Google Drive. Follow everyone else in the class (you may have to come back if you're one of the first few people to post). <br />
 
@@ -32,7 +32,7 @@ _____
 
 * Post at least two substantial (see below) tweets a week and take screenshots as you go so that you don't forget. <br />
 
-* Submit your tweets via Scholar each Friday by 11:59 pm.
+* Submit your tweets via Scholar each Friday by 11:59 pm. (See "How to Submit" below.)
 
 ### Week 11 on . . .
 
@@ -40,7 +40,7 @@ _____
 
 * You are *not* responsible for posting the week of Thanksgiving . . . 
 
-* . . . but you *are* responsible for posting during finals week as you finish up your [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection).
+* . . . or the week of finals. Your last tweets should be submitted to me by 11:59 pm on Friday, December 11th. 
 
 _____
 
@@ -57,9 +57,7 @@ _____
 
 * I will count *substantial* replies to other people's posts.
 
-Each week amounts to 1% of your final grade in the course. It doesn't seem like much, but it adds up! <br />
-
-I may occasionally give some short feedback on improving your tweets. Even if you're getting full points based on completion, my advice is important because you'll be using your tweets (and maybe even tweets from other people in class or from anyone, really, but I digress) in your [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection). You'll be *required* to use some of your own tweets in that reflection, so take your tweets seriously!
+Each week amounts to a fraction more than 1% of your final grade in the course. It doesn't seem like much, but it adds up! You'll also be *required* to use some of your own tweets in the [Final Reflection](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/final-reflection), so take your tweets seriously!
 
 _____
 
@@ -69,7 +67,7 @@ _____
 
 What reading? Why? What questions?
 
-**A better tweet**: Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm still not sure if he actually answered the question for me.
+**A better (but still UNsubstantial) tweet**: Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm still not sure if he actually answered the question for me.
 
 More specific but I still have questions about your questions. Add some more detail (understanding that you only have so many characters!) 
 
@@ -91,7 +89,7 @@ _____
 
 ## How to Submit
 
-
+Instructions Forthcoming.
 _____
 
 
