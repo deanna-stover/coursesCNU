@@ -39,7 +39,7 @@ Some questions to consider:
 
 ### - Machine Reading - Wednesday, September 16th (by class)
 
-Use [Voyant](https://voyant-tools.org/) to “read” “The Yellow Wallpaper.” ([Here's a link to the full text--make sure you copy and paste the text and not all the metadata](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm)). Think about the Cirrus and Trends graphs, but also play around with the Visualizations.
+Use [Voyant](https://voyant-tools.org/) to “read” “The Yellow Wallpaper” like we did in class. ([Here's a link to the full text--make sure you copy and paste the text and not all the metadata](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm)). Think about the Cirrus and Trends graphs, but also play around with the other visualizations.
 
 If you're totally lost using Voyant, check out [this](https://voyant-tools.org/docs/#!/guide/tutorial) and [this](https://voyant-tools.org/docs/#!/guide/tools).
 
@@ -54,11 +54,11 @@ Some questions to consider:
 
 ### - Introduction and Conclusion - Friday, September 18th (by class)
 
-Write an introduction and conclusion after our class discussion from Wednesday (if you missed class for any reason, you are still responsible for writing an introduction and conclusion) and post it to the same Wakelet Collection. Combined, the introduction should be **roughly 300-400 words**.
+Write an introduction and conclusion after our class discussion from Wednesday (if you missed class for any reason, you are still responsible for writing an introduction and conclusion) and post it to the same Wakelet Collection. Combined, the introduction and conclusion should be **roughly 300-400 words**.
 
 ### - Final Essay due Friday, September 18th at 11:59 pm
 
-Polish your work and add a bibliography (note that the word count should not include the bibliography). When you're done, **share your Collection** (create a shareable link you'll send to me) *and* **export to PDF** (to submit via Scholar) by 11:59 pm. 
+Polish your work and finish up the bibliography we started in class. When you're done, **share your Collection** (create a shareable link you'll send to me) *and* **export to PDF** (to submit via Scholar) by 11:59 pm. The final essay should be **1000-1500 words** not including the bibliography. 
 
 _____
 
