@@ -3,5 +3,9 @@
 
 @import "{{ site.theme }}";
 a {
-  color: green;
+  color: #993399;
+}
+
+a:hover {
+  color: #cc33ff;
 }
