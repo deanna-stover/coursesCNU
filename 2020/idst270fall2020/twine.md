@@ -49,6 +49,8 @@ _____
 
 Instead of having class on Monday and Wednesday of Week 8, I'll be holding individual meetings about your topic proposal. You'll need to turn in your proposal via Scholar *before* our meeting. This is where we'll discuss your choice of subject and come up with some ideas for moving forward. Your proposal should be **200-300 words** and explain both your topic and its social relevance.  
 
+*I will not accept the other portions of this assignment until your proposal has been approved.* 
+
 ### - Annotated Bibliography - Sunday, November 1st at 11:59 pm
 
 You'll be responsible for finding *at least* five (5) academic sources and writing **100-150 words per entry** explaining the central argument of the source and its relevance to your project (i.e. how you plan to use it).
