@@ -4,15 +4,16 @@ _____
 
 **Media Essay Due:** September 18th at 11:59 pm <br />
 **Percentage:** 10% <br />
+
 Note that there are mini due dates listed below
 
 _____
 
 ## General Overview
 
-Now that we've read [Katherine Hayles's "How We Read: Close, Hyper, Machine,"](https://www.ade.mla.org/content/download/7915/225678) you are going to write a short paper (**1000-1500 words total**) performing close readings *and* reflecting on the ways reading changes depending on how we go about doing it. 
+Now that we've read [Katherine Hayles's "How We Read: Close, Hyper, Machine,"](https://www.ade.mla.org/content/download/7915/225678) you are going to write a short paper (**1000-1500 words total**) performing close readings *and* reflecting on the ways reading changes depending on how we go about doing it. Essentially, you'll be reading "The Yellow Wall-Paper" by Charlotte Perkins Gilman (or, as she was then known, Charlotte Perkins Stetson) in several different ways, writing as you go. 
 
-We'll be reading "The Yellow Wall-Paper" by Charlotte Perkins Gilman (or Stetson) in several different ways, writing as we go. *Although I won't be collecting your writing until **September 6th**, it is important that you complete the following by the dates given below in order to complete the project as intended -- and to keep from getting overwhelmed*.
+*Although I won't be collecting your writing until **September 6th**, it is important that you complete the following by the dates given below in order to complete the project as intended -- and to keep from getting overwhelmed*.
 
 _____
 
@@ -39,9 +40,9 @@ Some questions to consider:
 
 ### - Machine Reading - Wednesday, September 16th (by class)
 
-Use [Voyant](https://voyant-tools.org/) to “read” “The Yellow Wallpaper” like we did in class. ([Here's a link to the full text--make sure you copy and paste the text and not all the metadata](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm)). Think about the Cirrus and Trends graphs, but also play around with the other visualizations.
+Use [Voyant](https://voyant-tools.org/) to “read” “The Yellow Wallpaper.” ([Here's a link to the full text--make sure you copy and paste the text and not all the metadata](https://www.gutenberg.org/files/1952/1952-h/1952-h.htm)). Think about the Cirrus and Trends graphs, but also play around with the other visualizations.
 
-If you're totally lost using Voyant, check out [this](https://voyant-tools.org/docs/#!/guide/tutorial) and [this](https://voyant-tools.org/docs/#!/guide/tools).
+If you're totally lost using Voyant even after we go over it in class, check out [this](https://voyant-tools.org/docs/#!/guide/tutorial) and [this](https://voyant-tools.org/docs/#!/guide/tools).
 
 Write a **200-300 word** reflection on the activity and add it to the same Wakelet Collection. 
 
@@ -50,7 +51,7 @@ Some questions to consider:
 * What sticks out to you the most? 
 * What was your experience using Voyant? It's okay if you say frustrating, but explain why! 
 
-*Make sure to include at least **two** images!* It's easiest to take screen captures rather than trying to embed anything.
+*Make sure to include at least **two** images!* Just take screen captures rather than trying to embed anything.
 
 ### - Introduction and Conclusion - Friday, September 18th (by class)
 
