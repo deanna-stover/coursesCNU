@@ -4,7 +4,7 @@
 
 _____
 
-[Course Information](#course-information) < br />
+[Course Information](#course-information) <br />
 
 [Assignments](#assignments) <br />
 
@@ -37,7 +37,7 @@ Assignment | Due Date | Percentage
 Twitter Posts | Fridays | 15%
 Blogs | 5 over the course of the semester | 50%
 TEI (doesn't include blog post) <br /> | 10/02 | 10%
-Grant <br /> * Project Abstract <br /> * Full Grant | <br /> Week 9 <br /> 12/14 OR 12/18 (see prompt) | <br /> 5% <br /> 20%
+Grant <br /> * Project Abstract <br /> * Full Grant | <br /> Week 9 <br /> 12/14 OR 12/18 (see schedule) | <br /> 5% <br /> 20%
 
 ## [Twitter Posts]
 
@@ -53,7 +53,7 @@ You will do some basic coding--specifically, TEI (Text Encoding Initiative)--of 
 
 ## [Grant]
 
-After I approve your project abstract, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two-three for this project. 
+After I approve your project abstract, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
 
 _____
 
@@ -85,7 +85,7 @@ _____
 
 I want you to be in class, but I also understand that COVID-19 and everything that goes along with it (mental health, for one) are going to make this semester especially difficult. And, of course, life goes on so there is always the possibility of 2020 sending even more curve balls our way. Because of this, I won't have an attendance policy, *but* (and this is a big BUT), if you don't sign into Qwickly attendance two class days in a row, I will be checking in on you. I want to know you're okay.
 
-And, while there's no strict attendance policy, not coming to class will likely affect your grade. We'll be discussing important topics in class and going over assignments, so without it, you may struggle. This is all to say, *please* come to class if you can. 
+And, while there's no strict attendance policy, not coming to class will likely affect your grade. We'll be discussing important topics in class and going over assignments, so without it, you may struggle. This is all to say, *please* come to class if you can. However, if you feel ill in any way, it is imperative that you stay home. Please don't put your classmates or me at risk. 
 
 ## Technology
 
