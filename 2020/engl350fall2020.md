@@ -39,7 +39,7 @@ Blogs | 5 over the course of the semester | 50%
 TEI (doesn't include blog post) <br /> | 10/02 | 10%
 Grant <br /> * Project Abstract <br /> * Full Grant | <br /> Week 9 <br /> 12/14 OR 12/18 (see schedule) | <br /> 5% <br /> 20%
 
-## [Twitter Posts]
+## [Twitter Posts](https://github.com/deanna-stover/coursesCNU/2020/engl350fall2020/twitter.md)
 
 You will be responsible for tweeting twice per week and submitting those tweets to me weekly.
 
@@ -68,13 +68,13 @@ _____
 
 Monday, December 14th  
 
-* Grant *and* final blog post due 2:00 - 4:30 pm
+**Grant *and* final blog post due 2:00 - 4:30 pm *today***
 
 ### ENGL 350.*1*
 
 Friday, December 18th
 
-* Grant *and* final blog post due 8:00 - 10:30 am
+**Grant *and* final blog post due 8:00 - 10:30 am *today***
 
 _____
 
