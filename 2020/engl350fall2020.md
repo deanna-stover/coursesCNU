@@ -70,13 +70,13 @@ Readings should be done *before* class. This schedule is subject to change.
 
 Monday, December 14th  
 
-**Grant *and* final blog post due 2:00 - 4:30 pm *today***
+**Grant due 2:00 - 4:30 pm *today***
 
 ### ENGL 350.*1*
 
 Friday, December 18th
 
-**Grant *and* final blog post due 8:00 - 10:30 am *today***
+**Grant due 8:00 - 10:30 am *today***
 
 _____
 
