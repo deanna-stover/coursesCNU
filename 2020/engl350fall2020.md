@@ -43,7 +43,7 @@ Grant <br /> * Project Abstract <br /> * Full Grant | <br /> Week 9 <br /> 12/14
 
 You will be responsible for tweeting twice per week and submitting those tweets to me weekly.
 
-## [Blog Posts]
+## [Blog Posts](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/blog-posts)
 
 You will write five (5) blog posts over the course of the semester using Jekyll/GitHub.
 
