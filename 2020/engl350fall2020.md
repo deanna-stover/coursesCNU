@@ -83,13 +83,13 @@ _____
 
 # Policies
 
-## A Note on Covid-19 and Attendance
+## A Note on Covid-19 and Attendance:
 
 I want you to be in class, but I also understand that COVID-19 and everything that goes along with it (mental health, for one) are going to make this semester especially difficult. And, of course, life goes on so there is always the possibility of 2020 sending even more curve balls our way. Because of this, I won't have an attendance policy, *but* (and this is a big BUT), if you don't sign into Qwickly attendance two class days in a row, I will be checking in on you. I want to know you're okay.
 
 And, while there's no strict attendance policy, not coming to class will likely affect your grade. We'll be discussing important topics in class and going over assignments, so without it, you may struggle. This is all to say, *please* come to class if you can. However, if you feel ill in any way, it is imperative that you stay home. Please don't put your classmates or me at risk. 
 
-## Technology
+## Technology:
 
 Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. 
 
