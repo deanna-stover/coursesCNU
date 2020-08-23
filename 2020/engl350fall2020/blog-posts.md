@@ -1,4 +1,4 @@
-#Blog Prompt(s)
+# Blog Prompt(s)
 
 **About Me Blog**: Friday, September 11th by 11:59 pm 
 <br /> **Percentage**: 10%
