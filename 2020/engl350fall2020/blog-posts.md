@@ -31,7 +31,31 @@ _____
 
 # About Me
 
-This is the shortest of you blog posts. You are required to write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the [FERPA notice](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/##ferpa) on the syllabus). 
+This is the shortest of you blog posts. You will write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the FERPA notice on the syllabus). If you go over the word limit, that's fine! But try and be concise. 
+
+You should be using some [markdown](https://www.markdowntutorial.com/) to format your posts, whether that's inserting links or simply emphasizing words.
+
+Some ideas to get you started, but you can write anything as long as it is appropriate:
+
+* Your year in school
+* Your interest in the course
+  * Your interest/enrollment in the DH minor
+  * Pursuing a carreer in writing
+  * Fulfilling a WI requirement . . . and (hopefully!) wanting to become a better writer
+* Carreer interests (writing or otherwise)
+  * Do you want to go to graduate school? Or enter a career right after graduation? What are your dreams?
+* Academic or personal successes
+  * Have you volunteered a lot?
+  * Have you been a Summer Scholar? An intern? Etc.
+  * Do you belong to any societies? Academic or otherwise . . . 
+* Some personal tidbits
+  * Hometown
+  * Pets
+  * Fandoms you belong to
+
+Also, feel free to add a picture of yourself, although it's not required (again, see the information about FERPA on the syllabus). To insert a picture, simply do the following:
+
+
 
 # Coding
 
