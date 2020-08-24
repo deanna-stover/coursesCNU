@@ -31,7 +31,7 @@ _____
 
 # About Me
 
-This is the shortest of you blog posts. You are required to write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the [FERPA notice](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/###ferpa) on the syllabus). 
+This is the shortest of you blog posts. You are required to write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the [FERPA notice](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/##ferpa) on the syllabus). 
 
 # Coding
 
