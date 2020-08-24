@@ -1,5 +1,8 @@
 # Blog Prompt(s)
 
+_____
+
+
 **[About Me Blog](#about-me)**: Friday, September 11th by 11:59 pm 
 <br /> **Percentage**: 10%
 <br /> <br/>
@@ -17,10 +20,18 @@
 <br /> <br/>
 **Total Percentage**: 50%
 
+_____
+
+## General Overview
+
+You will write five blogs over the course of the semester using Jekyll/GitHub. 
+
+_____
+
 
 # About Me
 
-This is the shortest of you blog posts. You are required to write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable). 
+This is the shortest of you blog posts. You are required to write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the [FERPA notice](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/###ferpa) on the syllabus). 
 
 # Coding
 
