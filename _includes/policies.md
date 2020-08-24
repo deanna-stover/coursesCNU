@@ -59,7 +59,7 @@ Because non-compliance potentially endangers others, faculty members:
 
 Faculty should immediately notify the Vice President for Student Affairs, Kevin Hughes (<dosa@cnu.edu> or <kmhughes@cnu.edu>), if they become aware of a student who has sought a diagnostic test or who has been exposed.  In addition, faculty members may submit referrals through the Captain’s Care Program to report absences as a way of identifying students who may have become ill.  It would be appropriate to do so when students have not attended class or communicated with the faculty member in any way for a period of one week or longer.
 
-## Course Materials
+## Course Materials:
 
 All content created and assembled by the faculty member and used in this course is to be considered intellectual property owned by the faculty member and Christopher Newport University. It is provided solely for the private use of the students currently enrolled in this course. To ensure the free and open discussion of ideas, students may not make available any of the original course content, including but not limited to lectures, discussions, videos, handouts, and/or activities, to anyone not currently enrolled in the course without the advance written permission of the instructor. This means that students may not record, download, screenshot, or in any way copy original course material for the purpose of distribution beyond this course. A violation may be considered theft.  It is the student’s responsibility to protect course material when accessing it outside of the physical classroom space.
 
