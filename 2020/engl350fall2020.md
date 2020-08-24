@@ -93,6 +93,14 @@ And, while there's no strict attendance policy, not coming to class will likely 
 
 Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. 
 
+## FERPA:
+
+The Family Educational Records and Privacy Act gives you a right to privacy in this class. In addition to governing where I can and cannot discuss grades and to whom I can disclose information about your class participation, FERPA also implies that I cannot force you to pubically disclose that you are a student in this class.
+
+This means that if you choose to use your real name on your course blog (and as your GitHub account name) or on Twitter, you are waiving that portion of your FERPA rights and disclosing that you are a member of this class. If you would prefer to post using an alias or a handle for the blogging and tweeting portions of this course, you are protecting your right to privacy and are more than welcome to do so.
+
+However, if you use an alias, please list your first name and last initial next to your Twitter handle and blog link in our class Google Drive so I know who you are.
+
 {% include policies.md %}
 
 _____
