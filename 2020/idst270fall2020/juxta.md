@@ -44,7 +44,7 @@ I will assign you a few pages of the [manuscript version of “The Yellow Wall-P
 
 ### - Essay - Sunday, September 27th by 11:59 pm
 
-Now that we've created the Juxta edition (in class), write up a **750-1000 word** essay that combines close reading and reflection. First of all, you'll want to discuss the differences you see between Stetson's manuscript and the periodical (feel free to cite Shawn St. Jean, but also think about what you notice on your own). Secondly, you'll want to reflect on the process of transcribing and preparing the manuscript.
+Now that we've created the Juxta edition (in class), write up a **500-750 word** essay that combines close reading and reflection. First of all, you'll want to discuss the differences you see between Stetson's manuscript and the periodical (feel free to cite Shawn St. Jean, but also think about what you notice on your own). Secondly, you'll want to reflect on the process of transcribing and preparing the manuscript.
 
 _____
 
