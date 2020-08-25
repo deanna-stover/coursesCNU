@@ -3,19 +3,26 @@
 _____
 
 
-**[About Me Blog](#about-me)**: Friday, September 11th by 11:59 pm 
+**[About Me Blog](#about-me)**:
+<br /> **Blog Post Due**: Friday, September 11th by 11:59 pm 
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[TEI (Coding) Blog](#coding)**: Friday, October 2nd by 11:59 pm
+**[TEI (Coding) Blog](#coding)**: 
+<br /> **Peer Review**: Wednesday, September 30th (in class)
+<br /> **Blog Post Due**: Friday, October 2nd by 11:59 pm
 <br />**Percentage**: 10%
 <br /> <br/>
-**[Review Blog](#review)**: Friday, October 16th by 11:59 pm
+**[Review Blog](#review)**: 
+<br /> **Peer Review**: Wednesday, October 14th (in class)
+<br /> **Blog Post Due**: Friday, October 16th by 11:59 pm
 <br />**Percentage**: 10%
 <br /> <br/>
-**[Grant Project Blog #1](#grant-process-one)**: Friday, November 20th by 11:59 pm
+**[Grant Project Blog #1](#grant-process-one)**: 
+<br /> **Blog Post Due**: Friday, November 20th by 11:59 pm
 <br />**Percentage**: 10%
 <br /> <br/>
-**[Grant Project Blog #2](#grant-process-two)**: Friday, December 11th by 11:59 pm
+**[Grant Project Blog #2](#grant-process-two)**: 
+<br /> **Blog Post Due**: Friday, December 11th by 11:59 pm
 <br />**Percentage**: 10%
 <br /> <br/>
 **Total Percentage**: 50%
@@ -40,6 +47,7 @@ You should be using some [markdown](https://www.markdowntutorial.com/) to format
 Some ideas to get you started, but you can write anything as long as it is appropriate:
 
 * Your year in school
+* Your preferred pronouns
 * Your interest in the course
   * Your interest/enrollment in the DH minor
   * Pursuing a carreer in writing
@@ -70,6 +78,10 @@ _____
 # Review
 
 Based on the reviews you read in preparation, write a review of a digital project you found. Remember that you can be critical and still polite or appreciative but still evaluative. This blog should be **500-750 words**. 
+
+Some general guidelines: you must find a review a digital humaniites project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
+
+Include ***at least* one image** of the project you're reviewing. 
 
 _____
 
