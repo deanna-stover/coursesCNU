@@ -28,6 +28,19 @@ _____
    
    Since social distancing in the classroom makes personal one-on-one conversations before and after class impossible, email and office hours will be even more critical this semester. Please make use of both.
    
+## Course Description 
+
+*Catalog Description*: This course examines online texts in the humanities, also called digital humanities, which is the study of information in electronic form. Throughout the semester students will study how media impact the humanities and the people who use the Internet and social software to disseminate information widely and immediately. Students will investigate and produce a range of digital rhetoric wikis, blogs, tweets, flicks, as well as nonfiction and fiction narratives produced exclusively for an online environment to understand how media affects writing and communication and how digital writing and communication affects media.
+
+*Instructor's Description Addendum*:  
+
+## Learning Objectives
+
+* Write for digital environments using a variety of platforms
+* Use feedback to improve writing
+* Evaluate and reflect on digital projects
+* Develop critical thinking and research skills
+
 _____
 
 # Assignments
