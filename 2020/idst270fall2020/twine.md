@@ -62,7 +62,7 @@ Your playable Twine game should have the following:
 * At least three possible outcomes
 * Some (basic) CSS and HTML
 
-In addition to your Twine game, you must write a **1200-1500 word** research essay. This essay will tie you research back to the choices you made in creating your Twine game. So, you should be citing at least five academic sources in your paper.
+In addition to your Twine game, you must write a **1000-1250 word** research essay. This essay will tie you research back to the choices you made in creating your Twine game. So, you should be citing at least five academic sources in your paper.
 
 _____
 
