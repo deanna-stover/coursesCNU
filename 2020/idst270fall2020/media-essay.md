@@ -11,7 +11,7 @@ _____
 
 ## General Overview
 
-Now that we've read [Katherine Hayles's "How We Read: Close, Hyper, Machine,"](https://www.ade.mla.org/content/download/7915/225678) you are going to write a short paper (**1000-1500 words total**) performing close readings *and* reflecting on the ways reading changes depending on how we go about doing it. Essentially, you'll be reading "The Yellow Wall-Paper" by Charlotte Perkins Gilman (or, as she was then known, Charlotte Perkins Stetson) in several different ways, writing as you go. 
+Now that we've read [Katherine Hayles's "How We Read: Close, Hyper, Machine,"](https://www.ade.mla.org/content/download/7915/225678) you are going to write a short paper (**900-1400 words total**) performing close readings *and* reflecting on the ways reading changes depending on how we go about doing it. Essentially, you'll be reading "The Yellow Wall-Paper" by Charlotte Perkins Gilman (or, as she was then known, Charlotte Perkins Stetson) in several different ways, writing as you go. 
 
 *Although I won't be collecting your writing until **September 6th**, it is important that you complete the following by the dates given below in order to complete the project as intended -- and to keep from getting overwhelmed*.
 
@@ -55,11 +55,11 @@ Some questions to consider:
 
 ### - Introduction and Conclusion - Friday, September 18th (by class)
 
-Write an introduction and conclusion after our class discussion from Wednesday (if you missed class for any reason, you are still responsible for writing an introduction and conclusion) and post it to the same Wakelet Collection. Combined, the introduction and conclusion should be **roughly 300-400 words**.
+Write an introduction and conclusion after our class discussion from Wednesday (if you missed class for any reason, you are still responsible for writing an introduction and conclusion) and post it to the same Wakelet Collection. Combined, the introduction and conclusion should be **roughly 200-300 words**.
 
 ### - Final Essay due Friday, September 18th at 11:59 pm
 
-Polish your work and finish up the bibliography we started in class. When you're done, **share your Collection** (create a shareable link you'll send to me) *and* **export to PDF** (to submit via Scholar) by 11:59 pm. The final essay should be **1000-1500 words** not including the bibliography. 
+Polish your work and finish up the bibliography we started in class. When you're done, **share your Collection** (create a shareable link you'll send to me) *and* **export to PDF** (to submit via Scholar) by 11:59 pm. The final essay should be **900-1400 words** not including the bibliography. 
 
 _____
 
