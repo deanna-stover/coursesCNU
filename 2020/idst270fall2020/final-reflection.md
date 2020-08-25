@@ -14,7 +14,7 @@ _____
 
 ## Assignment Breakdown
 
-You will be writing a **750-1000 word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll send to me) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
+You will be writing a **500+ word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll send to me) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
 
 Some additional notes:
 
