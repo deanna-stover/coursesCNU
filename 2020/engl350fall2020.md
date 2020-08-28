@@ -30,9 +30,7 @@ _____
    
 ## Course Description 
 
-*Catalog Description*: This course examines online texts in the humanities, also called digital humanities, which is the study of information in electronic form. Throughout the semester students will study how media impact the humanities and the people who use the Internet and social software to disseminate information widely and immediately. Students will investigate and produce a range of digital rhetoric wikis, blogs, tweets, flicks, as well as nonfiction and fiction narratives produced exclusively for an online environment to understand how media affects writing and communication and how digital writing and communication affects media.
-
-*Instructor's Description Addendum*:  
+*Catalog Description*: This course examines online texts in the humanities, also called digital humanities, which is the study of information in electronic form. Throughout the semester students will study how media impact the humanities and the people who use the Internet and social software to disseminate information widely and immediately. Students will investigate and produce a range of digital rhetoric wikis, blogs, tweets, flicks, as well as nonfiction and fiction narratives produced exclusively for an online environment to understand how media affects writing and communication and how digital writing and communication affects media. 
 
 ## Learning Objectives
 
@@ -49,7 +47,7 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Fridays | 15%
 Blogs | 5 over the course of the semester | 50%
-TEI (doesn't include blog post) <br /> | 10/02 | 10%
+TEI (doesn't include blog post) <br /> | 10/16 | 10%
 Grant <br /> * Project Abstract <br /> * Full Grant | <br /> Week 9 <br /> 12/14 OR 12/18 (see schedule) | <br /> 5% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/twitter)
