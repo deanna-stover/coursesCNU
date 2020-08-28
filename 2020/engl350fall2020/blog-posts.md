@@ -67,14 +67,6 @@ Also, feel free to add a picture of yourself, although it's not required (again,
 
 _____
 
-# Coding
-
-In this blog, you'll write **500-750 words** explaining the process of coding our text and reflecting on the final outcome. This can be about the difficulties you faced or something interesting you found in the reading. You'll also explain any coding decisions you made. 
-
-Include ***at least* two images**, one of which shows your TEI on paper and one of which shows your computer code. 
-
-_____
-
 # Review
 
 Based on the reviews you read in preparation, write a review of a digital project you found. Remember that you can be critical and still polite or appreciative but still evaluative. This blog should be **500-750 words**. 
@@ -82,6 +74,14 @@ Based on the reviews you read in preparation, write a review of a digital projec
 Some general guidelines: you must find a review a digital humaniites project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
 
 Include ***at least* one image** of the project you're reviewing. 
+
+_____
+
+# Coding
+
+In this blog, you'll write **500-750 words** explaining the process of coding our text and reflecting on the final outcome. This can be about the difficulties you faced or something interesting you found in the reading. You'll also explain any coding decisions you made. 
+
+Include ***at least* two images**, one of which shows your TEI on paper and one of which shows your computer code. 
 
 _____
 
