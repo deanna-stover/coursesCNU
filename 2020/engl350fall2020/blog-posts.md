@@ -7,12 +7,12 @@ _____
 <br /> **Blog Post Due**: Friday, September 11th by 11:59 pm 
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[TEI (Coding) Blog](#coding)**: 
+**[Review Blog](#review)**:  
 <br /> **Peer Review**: Wednesday, September 30th (in class)
 <br /> **Blog Post Due**: Friday, October 2nd by 11:59 pm
 <br />**Percentage**: 10%
 <br /> <br/>
-**[Review Blog](#review)**: 
+**[TEI (Coding) Blog](#coding)**:
 <br /> **Peer Review**: Wednesday, October 14th (in class)
 <br /> **Blog Post Due**: Friday, October 16th by 11:59 pm
 <br />**Percentage**: 10%
