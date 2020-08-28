@@ -60,7 +60,7 @@ You will write five (5) blog posts over the course of the semester using Jekyll/
 
 ## [TEI]
 
-You will do some basic coding--specifically, TEI (Text Encoding Initiative)--of . . . 
+You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (eXtensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman).
 
 ## [Grant]
 
