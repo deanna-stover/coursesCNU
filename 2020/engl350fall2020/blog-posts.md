@@ -71,7 +71,7 @@ _____
 
 Based on the reviews you read in preparation, write a review of a digital project you found. Remember that you can be critical and still polite or appreciative but still evaluative. This blog should be **500-750 words**. 
 
-Some general guidelines: you must find a review a digital humaniites project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
+Some general guidelines: you must find and review a digital humanities project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
 
 Include ***at least* one image** of the project you're reviewing. 
 
