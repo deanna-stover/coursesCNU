@@ -13,7 +13,7 @@ Twitter is pretty popular in the Digital Humanities (DH) community and has been 
 
 You should be **posting on Twitter *at least twice* per week** about the readings and/or projects we're working on and then **submitting Tweets to me via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions under "Resources." I've also included instructions for sumbitting your tweets under "How to Submit."
 
-We'll be using the hashtag **#350cnu**.
+We'll be using the hashtag **#cnuEngl350**. Please use this hashtag so I can look at Tweets before class. 
 
 _____
 
