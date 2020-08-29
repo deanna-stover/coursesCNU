@@ -11,7 +11,9 @@ _____
 
 Twitter is pretty popular in the Digital Humanities (DH) community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *at least twice* per week** and then **submitting Tweets to me via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions under "Resources." I've also included instructions for sumbitting your tweets under "How to Submit."
+You should be **posting on Twitter *at least twice* per week** about the readings and/or projects we're working on and then **submitting Tweets to me via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions under "Resources." I've also included instructions for sumbitting your tweets under "How to Submit."
+
+We'll be using the hashtag **#350cnu**.
 
 _____
 
@@ -21,12 +23,12 @@ _____
 
 * First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
   * Choose a *professional* username
-  * Try and keep your username under 15 characters <br />
-  * Personalize your profile! If you don't feel like adding a profile picture of yourself, that's fine. Find some kind of profile picture though.
+  * Try to keep your username under 15 characters <br />
+  * Personalize your profile! If you don't feel like adding a profile picture of yourself (see FERPA notice on the syllabus), that's fine. Find some kind of profile picture though.
  
-* Add your full name and Twitter username to the appropriate Google Doc in our class Google Drive. Follow everyone else in the class (you may have to come back if you're one of the first few people to post). <br />
+* Add your first name with last initial and Twitter username to the appropriate Google Doc in our class Google Drive. Follow everyone else in the class (you may have to come back if you're one of the first few people to post). <br />
 
-* Post your first tweet introducing yourself! You might say your major and why you're interested in DH!
+* Post your first tweet introducing yourself! You might say your major and why you're interested in DH! Again, only share as much personal information as you're comfortable with and see the FERPA statement on the syllabus. 
 
 ### And then . . .
 
