@@ -26,7 +26,7 @@ Write a **300-500 word** close reading of the periodical version of ["The Yellow
 *Make sure you include at least one picture of any related annotations!*
  
 
-### - Hyper Reading - Monday, Septmeber 14th (by class)
+### - Hyper Reading - Monday, September 14th (by class)
 
 Read the Hypertext Library’s version of [“The Yellow Wallpaper.”](http://www.hypertextlibrary.com/books/yellow_wallpaper/) Play around with the text and write a **200-300 word** reflection on the activity and post it in the same Wakelet Collection as the Close Reading. 
 
