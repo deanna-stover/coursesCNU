@@ -58,11 +58,11 @@ You will be responsible for tweeting twice per week and submitting those tweets 
 
 You will write five (5) blog posts over the course of the semester using Jekyll/GitHub.
 
-## [TEI]
+## [TEI](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/tei)
 
 You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (eXtensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman).
 
-## [Grant]
+## [Grant](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/grant)
 
 After I approve your project abstract, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
 
