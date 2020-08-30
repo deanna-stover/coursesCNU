@@ -60,7 +60,7 @@ You will write five (5) blog posts over the course of the semester using Jekyll/
 
 ## [TEI](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/tei)
 
-You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (eXtensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman).
+You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (Extensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman).
 
 ## [Grant](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020/grant)
 
