@@ -91,7 +91,9 @@ _____
 
 ## How to Submit
 
-Instructions Forthcoming.
+Go to the "Twitter Posts" link in Scholar, click on the appropriate week, and then hit "Create Post." Once there, add a title and then upload your screenshot(s). Pretty simple! But let me know if you run into any problems . . .
+
+**Please post both tweets as a single journal entry.**
 
 _____
 
