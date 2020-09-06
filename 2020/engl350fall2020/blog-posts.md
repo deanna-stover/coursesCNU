@@ -33,7 +33,7 @@ _____
 
 You will write five blogs over the course of the semester using Jekyll/GitHub. To get started, make sure you complete [Dr. Andrew Pilsch's tutorial](https://oncomouse.github.io/courses/2020/engl460fall2020/jekyll-intro). 
 
-We'll be doing several different kinds of posts on the blog, the details for which are below. 
+We'll be doing several different kinds of posts on the blog, the details for which are below. Check out "How to Submit" to figure out how to turn in your assignment to Scholar. 
 
 _____
 
@@ -64,6 +64,8 @@ Some ideas to get you started, but you can write anything as long as it is appro
   * Fandoms you belong to
 
 Also, feel free to add a picture of yourself, although it's not required (again, see the information about FERPA on the syllabus). To insert a picture, simply do the following:
+
+
 
 _____
 
@@ -106,6 +108,14 @@ A few questions to get you started:
 * Has anything changed since your last process post? 
 * If not, what have your developed further? 
 * How has the process of writing a grant changed your understanding of the project as a whole?
+
+_____
+
+## How to Submit
+
+To find the URL for your blog, you'll need to go to Settings on GitHub, scroll down to "GitHub Pages", click the link, and then find your post. Once you've done that, simply copy and paste what is in the browser bar. 
+
+Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You may need to choose the "soft wrap" option in order to see all of the text at once. It's in the upper left hand corner of where you edit your file.
 
 _____
 
