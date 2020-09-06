@@ -67,7 +67,7 @@ Also, feel free to add a picture of yourself, although it's not required (again,
 
 ## Step One:
 
-![Step One](https://github.com/deanna-stover/coursesCNU/blob/master/images/stepone.gif)
+![Step One](/coursesCNU/images/stepone.gif)
 
 ## Step Two:
 
