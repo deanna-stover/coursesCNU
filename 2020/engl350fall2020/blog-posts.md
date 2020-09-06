@@ -71,11 +71,10 @@ Also, feel free to add a picture of yourself, although it's not required (again,
 
 ## Step Two:
 
-![Step Two](https://github.com/deanna-stover/coursesCNU/blob/master/images/Picture.Part2.gif)
+![Step Two](https://deanna-stover.github.io/coursesCNU/images/steptwo.gif)
 
 ## Step Three:
-
-![Step Three](https://github.com/deanna-stover/coursesCNU/blob/master/images/Picture.Part3.gif)
+![Step Three](https://deanna-stover.github.io/coursesCNU/images/stepthree.gif)
 
 _____
 
