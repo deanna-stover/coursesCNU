@@ -74,6 +74,7 @@ Also, feel free to add a picture of yourself, although it's not required (again,
 ![Step Two](https://deanna-stover.github.io/coursesCNU/images/steptwo.gif)
 
 ## Step Three:
+
 ![Step Three](https://deanna-stover.github.io/coursesCNU/images/stepthree.gif)
 
 _____
@@ -124,7 +125,9 @@ _____
 
 To find the URL for your blog, you'll need to go to Settings on GitHub, scroll down to "GitHub Pages", click the link, and then find your post. Once you've done that, simply copy and paste what is in the browser bar. 
 
-Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You may need to choose the "soft wrap" option in order to see all of the text at once. It's in the upper left hand corner of where you edit your file.
+Your URL should start with something like this: https://deanna-stover.github.io/ **NOT** like this: https://github.com/deanna-stover/
+
+Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You may need to choose the "soft wrap" option in order to see all of the text at once. This option is in the upper left hand corner of where you edit your file.
 
 _____
 
