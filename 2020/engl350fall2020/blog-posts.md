@@ -78,6 +78,7 @@ Also, feel free to add a picture of yourself, although it's not required (again,
 ![Step Three](https://deanna-stover.github.io/coursesCNU/images/stepthree.gif)
 
 And remember, always check to see if the image is showing up on your actual blog, not just the preview in GitHub. If it's not, you're using the wrong link (tip: if your link has "blob" or "github.com" in it, you're using the wrong link. Instead, you need to use the path that looks something like this: https://deanna-stover.github.io/deanna-stover/images/Profile.jpg).
+
 _____
 
 # Review
