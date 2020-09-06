@@ -65,7 +65,7 @@ Some ideas to get you started, but you can write anything as long as it is appro
 
 Also, feel free to add a picture of yourself, although it's not required (again, see the information about FERPA on the syllabus). To insert a picture, simply do the following:
 
-
+![Step One](https://github.com/deanna-stover/coursesCNU/blob/master/images/Picture.Part1.gif)
 
 _____
 
