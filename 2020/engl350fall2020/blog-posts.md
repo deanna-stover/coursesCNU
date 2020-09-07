@@ -67,13 +67,23 @@ Also, feel free to add a picture of yourself, although it's not required (again,
 
 ## Step One:
 
+The first thing you need to do is create an images folder. You do this by going to Add File then Create New File. You will then type in images/profil.md (or whatever--the important part is the images/. You can delete the .md file later. It's just there so that you have a folder.) Don't forget to Commit your changes.
+
 ![Step One](https://deanna-stover.github.io/coursesCNU/images/stepone.gif)
 
 ## Step Two:
 
+Once you've created the folder, make sure you're in the "images" folder the click Add File then Upload Files. You can then drag and drop your picture into GitHub. Don't forget to Commit.
+
+Tips: 
+1. You want to name your photo rather than leave it a string of letters or numbers. The title will be the link you use. I chose "Profile.jpg" because it is my profile picture.
+2. Make sure your image is smaller than my gigantic one, but good quality. 
+
 ![Step Two](https://deanna-stover.github.io/coursesCNU/images/steptwo.gif)
 
 ## Step Three:
+
+To add your image into your blog, first go to your `_posts` folder then to the appropriate post. Once you click the edit button (the pencil), you can type `![Alt Text](link)` (filling in the blanks as appropriate. Your link should be the path to the image. So username.github.io/repositoryname/images/imagetitle.filetype. 
 
 ![Step Three](https://deanna-stover.github.io/coursesCNU/images/stepthree.gif)
 
