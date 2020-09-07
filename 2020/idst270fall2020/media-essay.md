@@ -13,7 +13,7 @@ _____
 
 Now that we've read [Katherine Hayles's "How We Read: Close, Hyper, Machine,"](https://www.ade.mla.org/content/download/7915/225678) you are going to write a short paper (**900-1400 words total**) performing close readings *and* reflecting on the ways reading changes depending on how we go about doing it. Essentially, you'll be reading "The Yellow Wall-Paper" by Charlotte Perkins Gilman (or, as she was then known, Charlotte Perkins Stetson) in several different ways, writing as you go. 
 
-*Although I won't be collecting your writing until **September 6th**, it is important that you complete the following by the dates given below in order to complete the project as intended -- and to keep from getting overwhelmed*.
+*Although I won't be collecting your writing until **September 18th**, it is important that you complete the following by the dates given below in order to complete the project as intended -- and to keep from getting overwhelmed*.
 
 _____
 
