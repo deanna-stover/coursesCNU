@@ -42,7 +42,7 @@ _____
 
 This is the shortest of your blog posts. You will write **250-500 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the FERPA notice on the syllabus). If you go over the word limit, that's fine! But try and be concise. 
 
-You should be using some [markdown](https://www.markdowntutorial.com/) to format your posts, whether that's inserting links or simply emphasizing words.
+You should be using some [markdown](https://www.markdowntutorial.com/) to format your posts, whether that's inserting links and images or simply emphasizing words. **Update**: some students wanted more guidance, so please use *at least* five instances of markdown.
 
 Some ideas to get you started, but you can write anything as long as it is appropriate:
 
