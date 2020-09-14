@@ -97,9 +97,9 @@ Based on the reviews you read in preparation, write a review of a digital projec
 
 Some general guidelines: you must find and review a digital humanities project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class (we have some time for that scheduled on Friday, September 18th) or visit me during Office Hours. 
 
-Please do not review a project that has already been reviewed in *Reviews in DH* or mentioned in Miriam Posner's "How Did They Make That?"
+Once you've figured out the project you'd like to review, "claim" it in our Shared Google Drive. Do this by **class on Friday, September 18th**. Make sure to pick something that other people have not yet claimed. 
 
-Once you've figured out the project you'd like to review, "claim" it in our Shared Google Drive. Try and pick something that other people have not yet claimed. 
+Please do not review a project that has already been reviewed in *Reviews in DH* or mentioned in Miriam Posner's "How Did They Make That?" Anything we look at in class is fair game, but make sure you "claim" it ASAP.
 
 Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
