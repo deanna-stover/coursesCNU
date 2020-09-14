@@ -83,6 +83,12 @@ _____
 
 _____
 
+## Late Work
+
+I will take 10 points off for every day the essay is late unless we've agreed upon an extension. 
+
+_____
+
 ## Resources
 
 ### (Free) PDF Annotators
