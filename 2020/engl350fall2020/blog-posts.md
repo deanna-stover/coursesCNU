@@ -95,9 +95,15 @@ _____
 
 Based on the reviews you read in preparation, write a review of a digital project you found. Remember that you can be critical and still polite or appreciative but still evaluative. This blog should be **500-750 words**. 
 
-Some general guidelines: you must find and review a digital humanities project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
+Some general guidelines: you must find and review a digital humanities project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class (we have some time for that scheduled on Friday, September 18th) or visit me during Office Hours. 
 
-Include ***at least* one image** of the project you're reviewing. 
+Please do not review a project that has already been reviewed in *Reviews in DH*.
+
+Once you've figured out the project you'd like to review, "claim" it in our Shared Google Drive. Try and pick something that other people have not yet claimed. 
+
+Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
+
+**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails.
 
 _____
 
@@ -140,6 +146,14 @@ To find the URL for your blog, you'll need to go to Settings on GitHub, scroll d
 Your URL should start with something like this: https://deanna-stover.github.io/ **NOT** like this: https://github.com/deanna-stover/
 
 Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You may need to choose the "soft wrap" option in order to see all of the text at once. This option is in the upper left hand corner of where you edit your file.
+
+_____
+
+## Late Work
+
+**About Me**: Because I added the late policy after this due date, I will accept the About Me blog post with no penalty up to Wednesday, September 16th. Then I will start subtracting 10 points for every day your assignment is late.
+
+**The Rest**: I will be subtracting 10 points for every day your assignment is late unless you've been been given an extension.
 
 _____
 
