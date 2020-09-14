@@ -8,8 +8,8 @@ _____
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[Review Blog](#review)**:  
-**Peer Review**: Wednesday, September 30th (in class)
-<br /> **Blog Post Due**: Friday, October 2nd by 11:59 pm
+**Peer Review**: Wednesday, September 23rd (in class)
+<br /> **Blog Post Due**: Friday, September 25th by 11:59 pm
 <br />**Percentage**: 10%
 <br /> <br/>
 **[TEI (Coding) Blog](#coding)**:
