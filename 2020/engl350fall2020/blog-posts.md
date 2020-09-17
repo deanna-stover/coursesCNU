@@ -103,6 +103,17 @@ Please do not review a project that has already been reviewed in *Reviews in DH*
 
 Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
+Make sure you use the following format for introducing your blog post:
+
+**Project**:
+Project Name
+
+**Project Director(s)**:
+Project Director Name
+
+**Project URL**:
+Project URL
+
 **Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails.
 
 _____
