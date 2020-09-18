@@ -158,6 +158,8 @@ Your URL should start with something like this: https://deanna-stover.github.io/
 
 Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You may need to choose the "soft wrap" option in order to see all of the text at once. This option is in the upper left hand corner of where you edit your file.
 
+**Peer Review**: If you have a peer review assignment with any blog post, please **upload the feedback you *received* along with your code**. While there is no grade for peer review per se, I will take into account whether you participated in peer review when calculating your grade for the assignment. 
+
 _____
 
 ## Late Work
