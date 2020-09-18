@@ -105,13 +105,13 @@ Include ***at least* one image** of the project you're reviewing. But if your pr
 
 Make sure you use the following format for introducing your blog post:
 
-**Project**:
+**Project**: <br />
 Project Name
 
-**Project Director(s)**:
+**Project Director(s)**: <br />
 Project Director Name
 
-**Project URL**:
+**Project URL**: <br />
 Project URL
 
 **Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails.
