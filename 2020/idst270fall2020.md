@@ -47,7 +47,7 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Fridays | 15%
 Media Essay | 9/18 | 10%
-Juxta Edition <br /> * Transcriptions <br /> * Essay | <br /> Week 5 <br /> 10/9 | <br /> 10% <br /> 10%
+Edition <br /> * Transcriptions <br /> * Essay | <br /> Week 5 <br /> 10/9 | <br /> 10% <br /> 10%
 Twine Game/Research Paper <br /> * Proposal <br /> * Annotated Bib <br /> * Final Game and Paper | <br /> Week 8 <br /> 10/30 <br /> 12/11 | <br /> 5% <br /> 10% <br /> 30%
 Final Reflection | TBD | 10%
 
@@ -59,7 +59,7 @@ You will be responsible for tweeting twice per week and submitting those tweets 
 
 You will develop a media essay based on "The Yellow Wall-Paper" and Katherine Hayles's article, "How We Read: Close, Hyper, Machine."
 
-## [Juxta Edition](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/juxta)
+## [~~Juxta~~~ Edition](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020/juxta)
 
 You will be responsible for transcribing a portion of "The Yellow Wall-Paper" manuscript and writing a short essay.
 
