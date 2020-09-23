@@ -29,7 +29,7 @@ I will assign you a few pages of the [manuscript version of “The Yellow Wall-P
 
 * ***Diplomatic Transcription** - Monday, September 28th*
 
-  For our purposes, a diplomatic transcription means that we're including everything we see in the manuscript such as crossed-out words. The difference is, instead of using symbols or notes, you'll be trying to simulate it in Google Docs by using strikethrough, for instance, and/or by adding a comment. We'll talk more about how to do this for your specific pages in class, but [here are some tips about reading handwritten documents in the meantime.](https://www.stagestories.org/resources/reading-handwritten-archival-documents/)
+  For our purposes, a diplomatic transcription means that we're including everything we see in the manuscript such as crossed-out words. The difference is, instead of using symbols or notes, you'll be trying to simulate it in Google Docs by using strikethrough, for instance, and/or by adding a comment. We'll talk more about how to do this for your specific pages in class, but [here are some tips about reading handwritten documents in the meantime.](https://www.stagestories.org/resources/reading-handwritten-archival-documents/) And some guidelines can be found [here.](https://digital.janeaddams.ramapo.edu/scripto)
 
   **By class** - You'll want to finish your diplomatic transcriptions by class in order to (virtually) meet with your assigned partner. The two of you will "Proofread" the document together (see [proofreading](https://gde.upress.virginia.edu/06-gde.html#h3.1)).
 
