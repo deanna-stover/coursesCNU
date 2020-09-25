@@ -71,4 +71,11 @@ _____
 
 _____
 
+## Late Work
+
+I will **not** accept late work for the transcriptions because we will need them for the next class. However, I will accept late work for the essays. Ten points will be deducted for each day the essay is late unless we have a previous agreement.  
+
+_____
+
+
 [Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/idst270fall2020) 
