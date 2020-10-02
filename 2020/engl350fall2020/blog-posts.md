@@ -122,7 +122,7 @@ _____
 
 In this blog, you'll write **500-750 words** explaining the process of coding our text and reflecting on the final outcome. This can be about the difficulties you faced or something interesting you found in the reading. You'll also explain any coding decisions you made. 
 
-Include ***at least* two images**, one of which shows your TEI on paper and one of which shows your computer code. 
+Include ***at least* two images**, one of which shows your TEI on paper (what we did in the Google Doc!) and one of which shows your computer code. 
 
 _____
 
