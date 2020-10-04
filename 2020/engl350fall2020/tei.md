@@ -68,7 +68,7 @@ A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr>
 
 A quote: ```<q>“everything in quotation marks here,”</q> he said, <q>“the rest of the quote.”</q>```
 
-An illustration (note that eventually a <graphic url=“URL”/> tag will go in too—but I don’t have the graphics ready so you are not responsible for this):
+An illustration (note that eventually a ```<graphic url=“URL”/>``` tag will go in too—but I don’t have the graphics ready so you are not responsible for this):
 
 ```
 <figure>
