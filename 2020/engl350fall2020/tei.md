@@ -2,7 +2,7 @@
 
 _____
 
-**TEI due**: Friday, October 16th by 11:59 pm
+**TEI due**: Friday, October 16th by 11:59 pm <br />
 **Percentage**: 10%
 
 _____
