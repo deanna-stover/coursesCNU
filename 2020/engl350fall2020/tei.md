@@ -54,7 +54,88 @@ _____
 
 ## Tags
 
-These are forthcoming. 
+Page beginning: ```<pb n=“647”/>``` (note that you need to put in the correct page number. Also, eventually there will be a facsimile URL added in, but I don’t have that ready so you are not responsible for this)
+
+Column beginning: ```<cb/>```
+
+Paragraph tag: ```<p>Paragraph here.</p>```
+
+Em-dash code: ```&#8212;```
+
+Italics: ```<emph rend=“italic”>Text here</emph>```
+
+A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>```
+
+A quote: ```<q>“everything in quotation marks here,”</q> he said, <q>“the rest of the quote.”</q>```
+
+An illustration (note that eventually a <graphic url=“URL”/> tag will go in too—but I don’t have the graphics ready so you are not responsible for this):
+
+```
+<figure>
+  <p>Caption</p>
+  <figureDesc>Alt Text. Actually describe the image here</figureDesc>
+</figure>
+```
+
+Section breaks: I have searched far and wide for a way to do this to no avail. For this project just put the asterisk in their own paragraph, so ```<p>* * * * * *</p>```
+
+Tag for title: ```<head>Title</head>```
+
+Tag for byline: ```<byline>Byline</byline>```
+
+_____
+
+## Some things to note:
+
+* You always need a starting and ending tag (unless it’s self-closing). So, even if your assigned passage begins in the middle of a paragraph, surround it with ```<p>``` and ```</p>```.
+
+* You have to close any open tag before you close anything within it. That means tags can’t overlap, so this is **invalid**:
+
+```
+<p><emph rend=“italics”>Once upon a time . . . </p>
+<p>there was a student.</emph></p>
+```
+
+This is also **invalid**:
+
+```
+<p><emph rend=“italics”>Once upon a time . . . </p></emph>
+<p><emph rend=“italics”>there was a student.</p></emph>
+```
+
+Instead, you’d need to do this:
+
+```
+<p><emph rend=“italics”>Once upon a time . . . </emph></p>
+<p><emph rend=“italics”>there was a student.</emph></p>
+```
+
+Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch beyond it.
+
+* Everything should be tagged. This doesn’t mean every *word* has a separate tag, but no text should be just floating around.
+
+* We’ll talk about this more in class, but your assigned portion of "The Yellow Wall-paper" is within the ```<text>``` and ```<body>``` tags, **NOT** the ```<teiHeader>```
+
+* 5.	We’re going to largely ignore the ```<teiHeader>``` except for the ```<titleStmt>``` and ```<sourceDesc>```. We’ll go over this in class, but it should look like this (in the appropriate places within the ```<fileDesc>```:
+
+```
+<titleStmt>
+	<title>“The Yellow Wall-paper”</title>
+	<author>Charlotte Perkins Stetson</author>
+	<editor>Your Name</editor>
+</titleStmt>
+```
+```
+<sourceDesc>
+	<bibl>
+		<title>“The Yellow Wall-paper”</title>
+		<author> Charlotte Perkins Stetson</author>
+		<publisher>The New England Magazine</publisher>
+		<date>1892</date>
+    <note>The source text can be found here: https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf</note>
+	</bibl>
+</sourceDesc>
+```
 
 _____
 
