@@ -127,13 +127,7 @@ Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch 
 ```
 ```
 <sourceDesc>
-	<bibl>
-		<title>“The Yellow Wall-paper”</title>
-		<author> Charlotte Perkins Stetson</author>
-		<publisher>The New England Magazine</publisher>
-		<date>1892</date>
-    		<note>The source text can be found here: https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf</note>
-	</bibl>
+	<p>The source text can be found here: https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf</p>
 </sourceDesc>
 ```
 
