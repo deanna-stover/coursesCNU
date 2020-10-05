@@ -42,9 +42,15 @@ I will assign you a few pages of the [manuscript version of “The Yellow Wall-P
   **By 11:59 pm** - Submit *both* transcriptions via Scholar (even if they're exactly the same).  
     * Note that you will more than likely have comments in your diplomatic transcription and that I'd like to see those so make sure they show up in the document you submit to Scholar.
 
-### - Essay - Sunday, September 27th by 11:59 pm
+### - Essay - Friday, October 9th by 11:59 pm
 
 Now that we've created the ~~Juxta~~ Diff edition (in class), write up a **500-750 word** essay that combines close reading and reflection. First of all, you'll want to discuss the differences you see between Stetson's manuscript and the periodical (feel free to cite Shawn St. Jean, but also think about what you notice on your own). Secondly, you'll want to reflect on the process of transcribing and preparing the manuscript.
+
+Some questions to consider:
+
+* how does the punctuation change the meaning?
+* how do word substitions/edits change the meaning? 
+* what was the process of transcribing like? Challenging? Easy? Remember to **think critically** about your reflection portion too!
 
 _____
 
