@@ -56,8 +56,6 @@ _____
 
 Page beginning: ```<pb n=“647”/>``` (note that you need to put in the correct page number. Also, eventually there will be a facsimile URL added in, but I don’t have that ready so you are not responsible for this)
 
-Column beginning: ```<cb/>```
-
 Paragraph tag: ```<p>Paragraph here.</p>```
 
 Em-dash code: ```&#8212;```
