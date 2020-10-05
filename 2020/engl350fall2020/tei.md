@@ -116,7 +116,7 @@ Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch 
 
 * We’ll talk about this more in class, but your assigned portion of "The Yellow Wall-paper" is within the ```<text>``` and ```<body>``` tags, **NOT** the ```<teiHeader>```
 
-* 5.	We’re going to largely ignore the ```<teiHeader>``` except for the ```<titleStmt>``` and ```<sourceDesc>```. We’ll go over this in class, but it should look like this (in the appropriate places within the ```<fileDesc>```:
+* We’re going to largely ignore the ```<teiHeader>``` except for the ```<titleStmt>``` and ```<sourceDesc>```. We’ll go over this in class, but it should look like this (in the appropriate places within the ```<fileDesc>```:
 
 ```
 <titleStmt>
