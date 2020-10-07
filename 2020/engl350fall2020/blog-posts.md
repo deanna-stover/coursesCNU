@@ -138,7 +138,7 @@ We'll go over more tips in class on Monday, October 12th, but here are a few to 
 
 * Keep paragraphs relatively short for easy reading! 
 
-* If you want to include code of any kind you need to use three ticks around the code. So ```.
+* If you want to include code of any kind you need to use three ticks around the code. So three of these: `.
 
 * Be professional. Even though this is a reflection, don't get sidetracked by other topics. You can have fun while maintaining a professional persona--promise!
 
