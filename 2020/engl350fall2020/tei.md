@@ -90,22 +90,22 @@ _____
 * You have to close any open tag before you close anything within it. That means tags can’t overlap, so this is **invalid**:
 
 ```
-<p><emph rend=“italics”>Once upon a time . . . </p>
+<p><emph rend=“italic”>Once upon a time . . . </p>
 <p>there was a student.</emph></p>
 ```
 
 This is also **invalid**:
 
 ```
-<p><emph rend=“italics”>Once upon a time . . . </p></emph>
-<p><emph rend=“italics”>there was a student.</p></emph>
+<p><emph rend=“italic”>Once upon a time . . . </p></emph>
+<p><emph rend=“italic”>there was a student.</p></emph>
 ```
 
 Instead, you’d need to do this:
 
 ```
-<p><emph rend=“italics”>Once upon a time . . . </emph></p>
-<p><emph rend=“italics”>there was a student.</emph></p>
+<p><emph rend=“italic”>Once upon a time . . . </emph></p>
+<p><emph rend=“italic”>there was a student.</emph></p>
 ```
 
 Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch beyond it.
