@@ -122,7 +122,27 @@ _____
 
 In this blog, you'll write **500-750 words** explaining the process of coding our text and reflecting on the final outcome. This can be about the difficulties you faced or something interesting you found in the reading. You'll also explain any coding decisions you made. 
 
-Include ***at least* two images**, one of which shows your TEI on paper (what we did in the Google Doc!) and one of which shows your computer code. 
+Include ***at least* two images**, one of which shows your TEI on paper (what we did in the Google Doc!) and one of which shows your computer code (either the whole thing, or just a portion works since you'll also be submitting your code to me). You may also want to include a (cropped!) screenshot of your tweets over the course of the project!
+
+We'll go over more tips in class on Monday, October 12th, but here are a few to get you started:
+
+* Be positive. You can be frustrated by parts of the project and discuss that, but remember, you always want to maintain positivity in your online persona. So, think critically about why you were frustrated and try to explain what frustrated you rather than going on a rant.
+
+* Use images well. Rather than putting them all at the bottom, think about placement. 
+
+* Organize your writing. For instance, you may spend one paragraph introducing your part of the project, then one paragraph on the Google Doc excercise, then two paragraphs on actually using Oxygen, then you'll conclude. 
+
+* Explain questions you had while you were coding or decisions you had to make. Did you have errors in the text that you fixed? How and why? Was your coding experience pretty straight forward? Explain what made it so straight forward.
+
+* Did you notice new things about the reading by having to read it so closely? Or maybe her writing style? Try and find a way to blend this into your narrative!
+
+* Keep paragraphs relatively short for easy reading! 
+
+* If you want to include code of any kind you need to use three ticks around the code. So ```.
+
+* Be professional. Even though this is a reflection, don't get sidetracked by other topics. You can have fun while maintaining a professional persona--promise!
+
+* Continue trying to be more concise while varying sentence length.
 
 _____
 
