@@ -41,6 +41,7 @@ Some ideas (note that this list is not exhaustive):
 * A 3D modeling or printing project (critical making could also work here--bringing Arduino or something similar to the classroom)
 * Some sort of network analysis or visualization (looking at how actors are connected in old films, for instance, or looking at Twitter, Instagram, etc.)
 * A podcast about DH
+* A born digital creative project
 
 
 
