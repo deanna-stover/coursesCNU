@@ -43,5 +43,7 @@ Some ideas (note that this list is not exhaustive):
 * A podcast about DH
 * A born digital creative project
 
+*I will not accept the final grant until your proposal has been approved.*
+
 
 
