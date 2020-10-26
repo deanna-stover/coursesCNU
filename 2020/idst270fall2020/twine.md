@@ -55,6 +55,8 @@ Instead of having class on Monday and Wednesday of Week 8, I'll be holding indiv
 
 You'll be responsible for finding *at least* five (5) academic sources and writing **100-150 words per entry** explaining the central argument of the source and its relevance to your project (i.e. how you plan to use it).
 
+The Annotated Bibliography should be formatted according to **MLA** guidelines. 
+
 ### - Final Twine Game and Research Paper Deadline - Friday, December 11th at 11:59 pm
 
 Your playable Twine game should have the following:
