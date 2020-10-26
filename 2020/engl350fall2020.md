@@ -66,6 +66,21 @@ You will do some basic coding--specifically, TEI (Text Encoding Initiative), a k
 
 After I approve your project abstract, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
 
+### Grading Scale
+
+A: 93 - 100
+A-: 90 - 92
+B+: 87 - 89
+B: 83 - 86
+B-: 80 - 82
+C+: 77 - 79
+C: 73 - 76
+C-: 70 - 72
+D+: 67 - 69
+D: 63 - 66
+D-: 60 - 62
+F: 0 - 59
+
 _____
 
 
