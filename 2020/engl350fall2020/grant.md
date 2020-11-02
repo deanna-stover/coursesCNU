@@ -45,5 +45,43 @@ Some ideas (note that this list is not exhaustive):
 
 *I will not accept the final grant until your proposal has been approved.*
 
+_____
+
+## Environmental Scan and Bibliography - Peer Review Friday, November 13th
+
+You will write **a 1-page Environmental Scan (single-spaced) and a 1-page bibliography (double-spaced and formatted according to MLA).**
+
+Remember, an Environmental Scan does **NOT** describe your project's effect on the environment, but rather the state of the field. Your Environmental scan should answer two questions: What projects and scholarship exist that are similar to yours? And how is yours different?
+
+You'll also be writing a Grant Proposal, so no need to describe every aspect of your project yet. Indeed, when you submit the entire grant, the Grant Proposal will come first in the packet. We are writing these out of order so that you get more familiar with the field before you make choices about your project. The Environmental Scan, then, is mostly about the research about your topic and the projects that already exist with just a little information about how your project will stand out among the crowd. So, keep it in mind that I will already know a bit about your individual project before I even get to the Environmental Scan. 
+
+Your bibliography can include similar digital projects (for example, other maps or timelines), but it should also include scholarly peer-reviewed research about the topic. By this, I mean if you are pitching a digital edition of *Dracula*, you might have peer-reviewed articles about the novel; other digital projects about *Dracula*; other digital editions that are similar to what you're imagining; and, finally, scholarship about creating digital editions.
+
+To find this scholarship, you will want to combine the knowledge you learned through the library tutorials with other kinds of research through Google Scholar and Google. A lot of DH scholarship, such as the premier journal [*Digital Humanities Quarterly*](http://digitalhumanities.org/dhq/), is open-access and most easily found through a Google search. But do look at what the library has to offer as well.
+
+Note that this is NOT an *annotated* bibliography, **but** you should be discussing the research and projects in your Environmental Scan. We'll be looking at an example in class, but the major point of this portion of the grant is to get a better grasp of what already exists in the field. You are now the expert on, say, mapping projects. That's a broad field though, so try and narrow down your research to the projects and scholarship most similar to your own goals.
+
+The most important part of this entire assignment is being *concise* and *clear*. This sounds easy enough, but to fit all of your reseearch on one single-spaced page is difficult. I recommend writing as much as you need to and then trimming the fat, as it were.
+
+_____
 
 
+## Evaluation Criteria
+
+### Environmental Scan and Bibliography
+
+* Shows a **depth of research** into your specific topic
+
+* **Thinks critically** about the research AND your project as a whole
+
+* Presents information in an **organized** and coherent way
+
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
+* Follows the **appropriate instructions** (1-page single spaced for the Environmental Scan, 1-page double-spaced for the MLA Bibliography)
+
+
+
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2020/engl350fall2020)
