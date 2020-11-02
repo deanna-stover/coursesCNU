@@ -49,7 +49,7 @@ _____
 
 ## Environmental Scan and Bibliography - Peer Review Friday, November 13th
 
-You will write **a 1-page Environmental Scan (single-spaced) and a 1-page bibliography (double-spaced and formatted according to MLA).**
+You will write **a 1-page Environmental Scan (single-spaced) and a 2-3 page bibliography (double-spaced and formatted according to MLA).**
 
 Remember, an Environmental Scan does **NOT** describe your project's effect on the environment, but rather the state of the field. Your Environmental scan should answer two questions: What projects and scholarship exist that are similar to yours? And how is yours different?
 
@@ -80,7 +80,7 @@ _____
 
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
-* Follows the **appropriate instructions** (1-page single spaced for the Environmental Scan, 1-page double-spaced for the MLA Bibliography)
+* Follows the **appropriate instructions** (1-page single spaced for the Environmental Scan, 2-3 page double-spaced for the MLA Bibliography)
 
 
 
