@@ -69,9 +69,18 @@ _____
 
 You will write **a 1-2 page Grant Narrative (single-spaced) and a budget** (this will likely be short, but use as much space as you need).
 
-We will be looking at examples in class, but the Grant Narrative gives context for and explains your project. Your Environmental Scan describes the *research* behind your project, while the Grant Narrative describes the project itself. 
+We will be looking at examples in class, but the Grant Narrative gives context for and explains your project. Your Environmental Scan describes the *research* behind your project, while the Grant Narrative describes the project itself.
+
+For a successful Grant Narrative, you'll want to describe not only what the project is but also why it's worthwhile. Persuade the reader that this is an interesting topic that is of scholarly importance. 
+
+As part of your Narrative, you will want to discuss the technology you are using. For instance, you should mention that you are using StoryMapsJS hosted on a Wordpress site to create your interactive map. That said, don't get too bogged down here--I want to gain an overarching understanding of your project and if everything is about the technical details, I'll miss out on the big picture. 
+
+And, finally, don't dwell on other projects. That's what the Environmental Scan is for. For the Grant Narrative, you want to focus on YOUR project, not anyone else's (although you can still refer to some research on your topic).
+
+Your budget should be detailed and can ask for ***up to* $1,500**. Don't ask for more than you need though! But think, do I need server space for my website? For how long? Do I need specialized software? Or maybe equipment? Some of you will likely have budgets that are smaller than others depending on the costs associated with the project. But do be specific--how much exactly is the software? How much does a domain name cost if you are proposing getting one? From where are you getting it (that will alter the cost)? 
 
 _____
+
 
 ## CV or Resume - Peer Review December 7th
 
@@ -113,6 +122,10 @@ _____
 
 * **Thinks critically** about the project as a whole
 
+* **Persuades** the reader that the project is of scholarly importance
+
+* Explains the **technology** needed for the project in a succinct but informative way
+
 * Presents information in an **organized** and coherent way
 
 * Works hard to be **concise** and **avoids unnecessary jargon**
@@ -127,6 +140,8 @@ _____
 * Formatted **professionally**
 
 * Presents information in an **organized** and coherent way
+
+* **Thinks critically** about the necessary content
 
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
