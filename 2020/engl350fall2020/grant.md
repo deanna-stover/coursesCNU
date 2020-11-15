@@ -65,6 +65,32 @@ The most important part of this entire assignment is being *concise* and *clear*
 
 _____
 
+## Grant Narrative and Budget - Peer Review Monday, November 30th
+
+You will write **a 1-2 page Grant Narrative (single-spaced) and a budget** (this will likely be short, but use as much space as you need).
+
+We will be looking at examples in class, but the Grant Narrative gives context for and explains your project. Your Environmental Scan describes the *research* behind your project, while the Grant Narrative describes the project itself. 
+
+_____
+
+## CV or Resume - Peer Review December 7th
+
+You get to choose: do you want to write a **1-2 page Curriculum Vitae (CV) or a 1-page Resume**?
+
+A CV is more common for grants because this document describes your academic achievements as opposed to emphasizing the skills you learned at certain positions. 
+
+I'm giving you the choice because a Resume might be more helpful for you at the moment as you get ready for your career, but if you are interested in writing a CV, already have one, or are thinking about graduate school, then by all means, write a CV!
+
+We'll be talking about both in class, but the point of both of these documents is to emphasize your preparedness for this project. Part of this is presenting a professional document, meaning it should be well designed. This does not mean you need to have color or anything especially clever--it just means you need to be consistent in formatting and presentation while also listing all of the *relevant* information about you.  
+
+_____
+
+## (Optional) Appendix
+
+For many of you, an Appendix will be beneficial although it is not required. For example, you might create a mock-up of your project using some sort of design software or create a list of the first few podcasts you will create. An Appendix provides additional, but helpful (and sometimes critical) information for your grant, so seriously consider this option. 
+
+_____
+
 
 ## Evaluation Criteria
 
@@ -81,6 +107,30 @@ _____
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 * Follows the **appropriate instructions** (1-page single spaced for the Environmental Scan, 2-3 page double-spaced for the MLA Bibliography)
+
+
+### Grant Narrative and Budget
+
+* **Thinks critically** about the project as a whole
+
+* Presents information in an **organized** and coherent way
+
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
+* Follows the **appropriate instructions** (1-2 page single spaced for the Grant Narrative, flexible for the budget)
+
+
+### CV or Resume
+
+* Formatted **professionally**
+
+* Presents information in an **organized** and coherent way
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
+* Follows the **appropriate instructions** (1-2 page for the CV, 1-page for the Resume)
 
 _____
 
