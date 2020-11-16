@@ -148,7 +148,7 @@ _____
 
 # Grant Process One
 
-In this **500-750 word** blog, share your project with the rest of the class (and update me!). 
+In this **500-750 word** blog, share your project with the rest of the class (and update me!). You need to have **at least one image** in your blog post. This can be one of your tweets, a mock-up you've made, or a screen-shot of other projects that inspired you. Or all three!
 
 A few questions to get you started:
 
@@ -156,11 +156,23 @@ A few questions to get you started:
 * Do you still imagine your project like you did when you first wrote your abstract?
 * Have you found any other DH projects that are similar to yours? How are you differentiating your project from them?
 
+You can borrow from your Environmental Scan and/or Grant Narrative for this post--but please do primarily write original text. Remember, this is in part a reflection, not just a description of your project. Definitely introduce your topic and your research, but also think about what has changed (if anything) since you began, what you still need to do to improve as your revise and draft your documents, and what has been easy or hard about this project. 
+
+Keep in mind the following:
+
+* Keep paragraphs relatively short for easy reading! 
+
+* Be professional. 
+
+* Continue trying to be more concise while varying sentence length.
+
+* Organize your writing. You may want to introduce your project, discuss some other projects that are similar, then reflect on the experience of writing the grant. Note that this formula isn't written in stone--it's just one way to go about writing your post! 
+
 _____
 
 # Grant Process Two
 
-Now that you're nearing the end of your grant project, write a **500-750 word** blog post that explains your nearly-finalized project. 
+Now that you're nearing the end of your grant project, write a **500-750 word** blog post that explains your nearly-finalized project. You need to have **at least one image** in your blog post. This can be one of your tweets, a mock-up you've made, or a screen-shot of other projects that inspired you. Or all three! 
 
 A few questions to get you started:
 
