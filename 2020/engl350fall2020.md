@@ -92,13 +92,13 @@ Readings should be done *before* class. This schedule is subject to change.
 
 ## Final Exams
 
-### ENGL 350.*2*
+### ENGL 350.*1* (12:00 - 12:50)
 
 Monday, December 14th  
 
 **Grant due 2:00 - 4:30 pm *today***
 
-### ENGL 350.*1*
+### ENGL 350.*2* (9:00 - 9:50)
 
 Friday, December 18th
 
