@@ -101,6 +101,23 @@ For many of you, an Appendix will be beneficial although it is not required. For
 _____
 
 
+## How to Submit
+
+You'll have a few things to submit: your finalized grant packet and all of your peer review documents.
+
+### Grant Packet
+
+To create your grant packet, combine all of your documents into **one file** in this order: Grant Narrative, Environmental Scan, Budget, CV or Resume, Bibliography, Appendix (optional). 
+
+If you had to format your CV or Resume differently than your other documents, you may have to combine the documents as PDFs rather than in a Google Doc or Word file. Google how to do this if you're unsure--there are a lot of options out there. I use Adobe Acrobat, but it costs money. You should be able to get a [free trial](https://www.adobe.com/downloads.html) though! 
+
+### Peer Review
+
+We've done three peer reviews, so please include all of the documents from each session you participated in. You should include the worksheets your partners filled out as well as any Google Docs with comments/suggestions. Remember, you're attaching the peer reviews you *received*. That means, you may have up to six documents to include in addition to your Grant Packet. You can always combine these into one file as well. 
+
+_____
+
+
 ## Evaluation Criteria
 
 ### Environmental Scan and Bibliography
