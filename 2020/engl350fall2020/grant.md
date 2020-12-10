@@ -117,6 +117,12 @@ We've done three peer reviews, so please include all of the documents from each 
 
 _____
 
+## Late Work
+
+I will be subtracting 10 points for every day your assignment is late unless you've been been given an extension.
+
+_____
+
 
 ## Evaluation Criteria
 
