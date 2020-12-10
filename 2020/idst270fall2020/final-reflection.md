@@ -33,6 +33,12 @@ Some additional notes:
 
 _____
 
+## Late Work
+
+I will be subtracting 10 points for every day your assignment is late unless you've been been given an extension.
+
+_____
+
 ## Evaluation Criteria
 
 * Uses adequate **textual evidence** (direct quotations, summaries, paraphrased passages) including tweets and readings from the course
