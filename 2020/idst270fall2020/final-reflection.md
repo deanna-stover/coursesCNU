@@ -14,7 +14,7 @@ _____
 
 ## Assignment Breakdown
 
-You will be writing a **500+ word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll send to me) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
+You will be writing a **500+ word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll post in Scholar) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
 
 Some additional notes:
 
@@ -22,14 +22,23 @@ Some additional notes:
 
 * If you link to an article we read in class (or that we didn't!), make sure to discuss it
 
+And here are some questions to get you started (but feel free to reflect on anything about the course!):
 
-## What you should NOT do
+* What does Digital Humanities mean to you now that you've taken this course? Did your definition change over time? Do you have a better understanding of the field?
+
+* How did the readings supplement your understanding of course content (or not!)? Were any of them particularly helpful?
+
+* What assignments did you enjoy and/or struggle with? Why? Were they helpful in better understanding DH and its many complexities?
+
+* Do you think you've grown as a writer? As a reader? As a student? As a digital humanist?
+
+### What you should NOT do
 
 * Please don't mention your grades. It's not necessary and it puts you in a vulnerable spot. Instead, you can talk about how an assignment was difficult for you or how much fun you had doing a certain project. No grades. It's just not worth it and it puts both of us in a weird position.
 
 * Please don't quote my feedback. That's something personal between the two of us. You can, however, talk about how my feedback was helpful as you moved forward or how you felt that you needed more guidance at a particular point. 
 
-* This isn't a rant or a gloat. If you had problems with the class, save that for your reviews of me and the course. You can be critical of readings, though. If you loved a particular assignment or the course as a whole, that's great (really great!), but think critically about it too.
+* This isn't a rant or a time to gloat. If you had problems with the class, you can discuss *why*, but save a lot of that for your reviews of me and the course. You can be critical of readings, of course, and you can discuss frustrations, but please don't, well, *rant*. On the other hand, if you loved a particular assignment or the course as a whole, that's great (really great!), but think critically about it too. What worked for you and what didn't? 
 
 _____
 
