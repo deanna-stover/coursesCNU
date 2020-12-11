@@ -10,6 +10,7 @@ _____
 ## General Overview
 
 Drawing on the entire semester, you will create a media essay using Wakelet that incorporates tweets, readings, and links from class along with your reflections on your own work throughout the semester, the course as a whole, and the Digital Humanities more broadly. 
+
 _____
 
 ## Assignment Breakdown
