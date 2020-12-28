@@ -1,12 +1,16 @@
 ---
-start: 2021-01-17
-end: 2021-05-20
+start: 2021-01-20
+end: 2021-04-28
 
 meets:
   - monday
   - wednesday
   - friday
+  
+holidays:
+  - date: 2021-03-19
+    name: Spring Recess
 
 classes:
   - |
-    * First Day
+    * Read the instructions for Collaborate before class
