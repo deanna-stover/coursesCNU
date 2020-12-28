@@ -90,7 +90,7 @@ Readings should be done *before* class. This schedule is subject to change.
 
 {% include schedule.html %}
 
-## Final Exams
+## Finals Week
 
 ### ENGL 350.*1* (12:00 - 12:50)  
 
