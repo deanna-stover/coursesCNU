@@ -89,3 +89,38 @@ _____
 Readings should be done *before* class. This schedule is subject to change. 
 
 {% include schedule.html %}
+
+## Final Exams
+
+### ENGL 350.*1* (12:00 - 12:50)  
+
+### ENGL 350.*2* (13:00 - 13:50)
+
+### ENGL 350.*3* (9:00 - 9:50)
+
+_____
+
+
+# Policies
+
+## A Note on Covid-19 and Attendance:
+
+I want you to be in class, but I also understand that COVID-19 and everything that goes along with it (mental health, for one) are going to make this semester especially difficult. And, of course, life goes on so there is always the possibility of 2021 sending even more curve balls our way. Because of this, I won't have an attendance policy, *but* (and this is a big BUT), if you don't sign into Qwickly attendance two class days in a row, I will be checking in on you. I want to know you're okay.
+
+And, while there's no strict attendance policy, not coming to class will likely affect your grade. We'll be discussing important topics in class and going over assignments, so without it, you may struggle. This is all to say, *please* come to class if you can. However, if you feel ill in any way, it is imperative that you stay home. Please don't put your classmates or me at risk. 
+
+## Technology:
+
+Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. I also encourage the *productive* use of technology in class, but please don't distract yourself or others. 
+
+## FERPA:
+
+The Family Educational Records and Privacy Act gives you a right to privacy in this class. In addition to governing where I can and cannot discuss grades and to whom I can disclose information about your class participation, FERPA also implies that I cannot force you to pubically disclose that you are a student in this class.
+
+This means that if you choose to use your real name on your course blog (and as your GitHub account name) or on Twitter, you are waiving that portion of your FERPA rights and disclosing that you are a member of this class. If you would prefer to post using an alias or a handle for the blogging and tweeting portions of this course, you are protecting your right to privacy and are more than welcome to do so.
+
+However, if you use an alias, please list your first name and last initial next to your Twitter handle and blog link in our class Google Drive so I know who you are.
+
+_____
+
+I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it.
