@@ -48,13 +48,13 @@ That's it! Usually you'll be tweeting three times a week total, but this week is
 
 * These posts should still be substantial (see below), BUT also kind. All of the links to each other's blogs will be posted in the Google Drive, so you can skim a few and then choose one to respond to. This isn't meant to be a critique, but rather a conversation. What did you enjoy about their post? Explain what you liked best. What did you learn? Tell them (and the rest of us!) what you gleaned from their post. Are there any questions you were left with? Ask them! Any parts that you didn't understand? Request clarification. 
 
-## Week 9 and Week 15
+### Week 9 and Week 15
 
 * These weeks are short, so I will only be requiring **one tweet and one reply/retweet with comment**.
 
 * You'll submit tweets via Scholar on *Wednesdays* these weeks (March 17th and April 28th).
 
-## Finals Week
+### Finals Week
 
 * No tweets required! Yay! That means your last tweet is due in Week 15 on Wednesday, April 28th by 11:59 pm.  
 
