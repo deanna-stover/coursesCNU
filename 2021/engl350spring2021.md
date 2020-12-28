@@ -20,7 +20,7 @@ _____
 
   **email:** deanna.stover@cnu.edu 
 
-  **office hours:** MWF 10:15 - 11:30 am, F 2:00 - 2:45 pm, and by appointment
+  **office hours:** MWF 10:15 - 11:30 am, F 3:00 - 3:45 pm, and by appointment
   
    *All office hours will be held online.*
    
@@ -47,8 +47,8 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Fridays | 15%
 Blogs | 5 over the course of the semester | 50%
-TEI (doesn't include blog post) <br /> | 10/16 | 10%
-Grant <br /> * Project Abstract <br /> * Full Grant | <br /> Week 9 <br /> 12/14 OR 12/18 (see schedule) | <br /> 5% <br /> 20%
+TEI (doesn't include blog post) <br /> | 2/26 | 10%
+Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 3/17 <br /> Finals Week (see schedule) | <br /> 5% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/twitter)
 
@@ -60,7 +60,7 @@ You will write five (5) blog posts over the course of the semester using GitHub/
 
 ## [TEI](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/tei)
 
-You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (Extensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman).
+You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (Extensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman). Don't worry! It will fine! 
 
 ## [Grant](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/grant)
 
