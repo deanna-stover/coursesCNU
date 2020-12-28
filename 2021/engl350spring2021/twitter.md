@@ -2,7 +2,7 @@
 
 _____
 
-**Tweets Due:** Weekly on Fridays by 11:59 pm <br />
+**Tweets Due:** Weekly on Fridays by 11:59 pm (except for Week 9 and Week 15 -- these are due on a Wednesday)<br />
 **Percentage:** 15% <br />
 
 _____
@@ -44,7 +44,7 @@ That's it! Usually you'll be tweeting three times a week total, but this week is
 
 #### But if there was a blog due the week before? Do this! (I'll remind you)
 
-* At least one of your tweets the week after a blog is due should be *responding* to someone else's blog. There are a few reasons for this: 1) Blogs shouldn't just be read by me--they're for a broader audience; 2) you get to engage with each other more; and 3) you'll be exposed to even more DH projects and ideas. 
+* At least one of your tweets the week after a blog is due should be *responding* to someone else's blog. There are a few reasons for this: 1) blogs shouldn't just be read by me--they're for a broader audience; 2) you get to engage with each other more; and 3) you'll be exposed to even more DH projects and ideas. 
 
 * These posts should still be substantial (see below), BUT also kind. All of the links to each other's blogs will be posted in the Google Drive, so you can skim a few and then choose one to respond to. This isn't meant to be a critique, but rather a conversation. What did you enjoy about their post? Explain what you liked best. What did you learn? Tell them (and the rest of us!) what you gleaned from their post. Are there any questions you were left with? Ask them! Any parts that you didn't understand? Request clarification. 
 
