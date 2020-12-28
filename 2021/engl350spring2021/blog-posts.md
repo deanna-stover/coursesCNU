@@ -7,7 +7,7 @@ _____
 <br /> **Blog Post Due**: 
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[Review #1 Blog](#review-#1)**:  
+**[Review One Blog](#review-one)**:  
 **Peer Review**: 
 <br /> **Blog Post Due**: 
 <br /> **Percentage**: 10%
@@ -17,12 +17,12 @@ _____
 <br /> **Blog Post Due**: 
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[Review #2 Blog](#review-#2)**:
+**[Review Two Blog](#review-two)**:
 <br /> **Peer Review**:
 <br /> **Blog Post Due**: 
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[Grant Process/Reflection Blog](#grant-process/reflection)**: 
+**[Grant Process/Reflection Blog](#grant-process-and-reflection)**: 
 <br /> **Blog Post Due**: 
 <br /> **Percentage**: 10%
 <br /> <br/>
@@ -32,9 +32,11 @@ _____
 
 ## General Overview
 
-You will write five blogs over the course of the semester using GitHub/Jekyll. To get started, make sure you complete the tutorial. 
+You will write five blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete the tutorial. 
 
-We'll be doing several different kinds of posts on the blog, the details for which are below. Check out "How to Submit" to figure out how to turn in your assignment to Scholar. 
+We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional (and positive) throughout! 
+
+Check out "How to Submit" to figure out how to turn in your assignment to Scholar.
 
 _____
 
@@ -94,11 +96,11 @@ And remember, always check to see if the image is showing up on your actual blog
 
 _____
 
-# Review #1
+# Review One
 
-Based on the reviews you read in preparation, write a review of a digital project from the list I have provided on the Google Drive. You must *claim* a project by putting your name next to one of the options so that not everyone in class reviews the same project. Do this by **class on Wednesday, February 3rd**. Make sure to pick something that other people have not yet claimed. 
+Based on the reviews you read in preparation, write a review of a digital humanities project from the list I have provided on the Google Drive. You must *claim* a project by putting your name next to one of the options so that not everyone in class reviews the same project. Do this by **class on Wednesday, February 3rd**. Make sure to pick something that other people have not yet claimed. 
 
-Remember that you can be critical and still polite or appreciative but still evaluative. This blog should be **500-750 words**. 
+This blog should be **500-750 words**. Remember that you can be critical and still polite or appreciative but still evaluative.  
 
 Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
@@ -145,17 +147,36 @@ We'll go over more tips in class, but here are a few to get you started:
 
 _____
 
-# Reveiw #2
+# Reveiw Two
 
-Some general guidelines: you must find and review a digital humanities project, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class (we have some time for that scheduled on Friday, September 18th) or visit me during Office Hours. 
+You will write another **500-750 word** review, but this time it will be on a project that you have found. Please "claim" your project on the Google Drive by **class on Wednesday March 3rd**. Please do not review a project that has already been reviewed in *Reviews in DH* or mentioned in Miriam Posner's "How Did They Make That?" You also cannot choose a project from the Review One list I provided.
 
-Please do not review a project that has already been reviewed in *Reviews in DH* or mentioned in Miriam Posner's "How Did They Make That?" Anything we look at in class is fair game, but make sure you "claim" it ASAP.
+Some general guidelines: you must find and review a digital humanities *project*, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
+
+Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
+
+**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails.
+
+Make sure you use the following format for introducing your blog post:
+
+**Project**: <br />
+Project Name
+
+**Project Director(s)**: <br />
+Project Director Name
+
+**Project URL**: <br />
+Project URL
+
+And, of course, keep in mind my feedback on your last review post! 
 
 _____
 
-# Grant Process/Reflection
+# Grant Process and Reflection
 
-In this **500-750 word** blog, share your project with the rest of the class (and update me!) while reflecting on the class. You need to have **at least one image** in your blog post. This can be one of your tweets, a mock-up you've made, or a screen-shot of other projects that inspired you. Or all three!
+In this **600-850 word** blog, share your project with the rest of the class (and update me!) while reflecting on the class. 
+
+You need to have **at least one image** in your blog post. This can be one of your tweets, a mock-up you've made, or a screen-shot of other projects that inspired you. Or all three!
 
 A few questions to get you started thinking about the grant:
 
@@ -164,11 +185,14 @@ A few questions to get you started thinking about the grant:
 * Have you found any other DH projects that are similar to yours? How are you differentiating your project from them?
 * How has the process of writing a grant changed your understanding of the project as a whole?
 
-A few questions to get you started thinking about the class:
+A few questions to get you started thinking about the class as a whole:
 
-*
+* What does Digital Humanities mean to you now that you've taken this course? Did your definition change over time? Do you have a better understanding of the field?
+* How did the readings supplement your understanding of course content (or not!)? Were any of them particularly helpful?
+* What assignments did you enjoy and/or struggle with? Why? Were they helpful in better understanding DH and its many complexities?
+* Do you think you've grown as a writer? As a reader? As a student? As a digital humanist?
 
-You can borrow from your Environmental Scan and/or Grant Narrative for this post--but please do primarily write original text. Remember, this is in part a reflection, not just a description of your project. Definitely introduce your topic and your research, but also think about what has changed (if anything) since you began, what you still need to do to improve as your revise and draft your documents, and what has been easy or hard about this project. And, of course, think about the class as a whole. What has worked for you and what hasn't? 
+Remember, this is in part a reflection, not just a description of your project. Definitely introduce your topic and your research, but also think about what has changed (if anything) since you began, what you still need to do to improve as your revise and draft your documents, and what has been easy or hard about this project. And, of course, think about the class as a whole. What has worked for you and what hasn't? 
 
 Keep in mind the following:
 
@@ -179,7 +203,6 @@ Keep in mind the following:
 * Continue trying to be more concise while varying sentence length.
 
 * Organize your writing. You may want to introduce your project, discuss some other projects that are similar, reflect on the experience of writing the grant, then conclude with a paragraph or two about the class as a whole. Note that this formula isn't written in stone--it's just one way to go about writing your post! 
-
 
 _____
 
