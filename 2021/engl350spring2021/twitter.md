@@ -83,17 +83,15 @@ What reading? Why? What questions?
 
 More specific but I still have questions about your questions. Add some more detail (understanding that you only have so many characters!) 
 
-**A *substantial* tweet**: 
-
-Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wondering what makes the digital humanities different than the humanities now that most things are done digitally? He was also writing ten years ago, so what has changed in the field? 
+**A *substantial* tweet**: Kirschenbaum attempts to answer "What is the Digital Humanities?" but I'm wondering what makes the digital humanities different than the humanities now that most things are done digitally? He was also writing ten years ago, so what has changed in the field? 
 
 * Note that you don't always have to ask questions. You can make statements too! Or answer questions!
 
-**An UNsubstantial comment or reply** I agree with your questions! Ten years is a long time!
+**An UNsubstantial comment or reply**: I agree with your questions! Ten years is a long time!
 
-**A *substantial* comment or reply** Ten years does seem like a substantial amount of time, but I think defining DH will always be hard. Technology is constantly evolving, so I'm not sure we can even really define DH in any lasting way.
+**A *substantial* comment or reply**: Ten years does seem like a substantial amount of time, but I think defining DH will always be hard. Technology is constantly evolving, so I'm not sure we can even really define DH in any lasting way.
 
-**A *substantial* comment or reply to THAT reply** I disagree. I think technology is advancing, of course, but the principles are the same. As long as people are doing humanities scholarship digitally, isn't that DH? I think the blurring really comes when we ask what is humanities work to begin with?
+**A *substantial* comment or reply to THAT reply**: I disagree. I think technology is advancing, of course, but the principles are the same. As long as people are doing humanities scholarship digitally, isn't that DH? I think the blurring really comes when we ask what is humanities work to begin with?
 
 * Note that it's fine to disagree! Be collegial, but you don't have to have the same thoughts as everyone else. It's also okay to *change* your mind over the course of the semester -- or even over the course of a day! You might even change your mind several times. I might change my mind too. That's what humanities education is for in my opinion -- it helps us to understand how we view a thing and also how to question those same views. That's how we grow as students, academics, and people. 
 
