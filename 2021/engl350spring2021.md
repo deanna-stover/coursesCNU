@@ -34,10 +34,10 @@ _____
 
 ## Learning Objectives
 
-* Write for digital environments using a variety of platforms
+* Write for digital environments using a variety of platforms and develop specific skills, competencies, and points of view needed by digital humanists
+* Find, evaluate, and use resources to explore a topic in depth and critique digital humanities projects
+* Learn how to apply course materials to improve critical thinking, problem solving, and decision making 
 * Use feedback to improve writing
-* Evaluate and reflect on digital projects
-* Develop critical thinking and research skills
 
 _____
 
