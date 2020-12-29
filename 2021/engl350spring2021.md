@@ -113,6 +113,10 @@ And, while there's no strict attendance policy, not coming to class will likely 
 
 Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. I also encourage the *productive* use of technology in class, but please don't distract yourself or others. 
 
+## Late Work:
+
+For each day an assignment is late, I will be subtracting ten points. That said, if you need an extension, please do reach out to me before the deadline! Life gets complicated sometimes, especially right now. I'm happy to work with you! Just make sure you're talking to me *before* things are due. 
+
 ## FERPA:
 
 The Family Educational Records and Privacy Act gives you a right to privacy in this class. In addition to governing where I can and cannot discuss grades and to whom I can disclose information about your class participation, FERPA also implies that I cannot force you to pubically disclose that you are a student in this class.
