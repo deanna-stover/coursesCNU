@@ -132,6 +132,10 @@ _____
 
 * Pitches a **digital humanities** project, not a scholarly paper or something to do with another field
 
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
 * Follows the **appropriate instructions** (200-300 words)
 
 
