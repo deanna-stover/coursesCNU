@@ -147,7 +147,7 @@ We'll go over more tips in class, but here are a few to get you started:
 
 _____
 
-# Reveiw Two
+# Review Two
 
 You will write another **500-750 word** review, but this time it will be on a project that you have found. Please "claim" your project on the Google Drive by **class on Wednesday March 3rd**. Please do not review a project that has already been reviewed in *Reviews in DH* or mentioned in Miriam Posner's "How Did They Make That?" You also cannot choose a project from the Review One list I provided.
 
