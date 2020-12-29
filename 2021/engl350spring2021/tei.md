@@ -11,9 +11,9 @@ _____
 
 Like we talked about in class, we will be starting the process of creating a digital edition of Charlotte Perkins Stetson's “The Yellow Wall-paper” (as an FYI, she's better known as Charlotte Perkins Gilman). This semester, the focus is on the manuscript version of the text. We’ll be using TEI (a set of standardized XML tags) to markup the text. 
 
-In what follows, I attempt to break down all the tags I expect you to use, although your assigned section may or may not require all of the tags listed. There is a chance that you may come across something you think needs a tag that I have not prepared for—-please reach out to me or bring it up in class.
+In what follows, I attempt to break down all the tags I expect you to use, although your assigned section may or may not require all of the tags listed. There is a chance that you may come across something you think needs a tag that I have not prepared for—please reach out to me or bring it up in class.
 
-Remember that tagging is not an exact science—-it is always interpretive. That said, we want to be as consistent as possible, so the tags below are important. 
+Remember that tagging is not an exact science—it is always interpretive. That said, we want to be as consistent as possible, so the tags below are important. 
 
 We’ll have plenty of class time to go over our XML, both on paper and on the computer, so please don’t worry about coding. It seems scary, but once you get the basic syntax, you’ll feel much more comfortable. I've also simplified everything. I just ask that you come to this assignment with an open mind. No coding experience is required or expected. We’re learning this together!
 
