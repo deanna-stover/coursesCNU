@@ -17,6 +17,8 @@ You'll then **submit Tweets to me** (including replies/retweets with comments) *
 
 We'll be using the hashtag **#cnuengl350**. Please use this hashtag! All my classes are using this hashtag this semester, so it's also a great way to see what everyone else is up to. 
 
+Please tweet *throughout* the week as readings are assigned. If you want to get really fancy or you like to read ahead, you can use [Tweetdeck](https://tweetdeck.twitter.com/) to schedule tweets. 
+
 _____
 
 ## Assignment Breakdown
@@ -67,7 +69,7 @@ _____
 * I will grade your tweets as pass/fail each week 
   * If you don't submit *at least three* tweets total (including one reply/retweet with comment), you get a 0 for the week.
   * If you submit three tweets but they are UNsubstantial (see below), you may recieve a 0 for the week.
-  * Please tweet *throughout* the week as readings are assigned. If I only see you posting during/after class, I reserve the right to give you a 0.
+  * Again, please tweet *throughout* the week as readings are assigned. If I only see you posting during/after class, I reserve the right to give you a 0.
 
 Each week amounts to 1% of your final grade in the course. It doesn't seem like much, but it adds up! 
 
