@@ -66,20 +66,9 @@ A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr>
 
 A quote: ```<q>“everything in quotation marks here,”</q> he said, <q>“the rest of the quote.”</q>```
 
-An illustration (note that eventually a ```<graphic url=“URL”/>``` tag will go in too—but I don’t have the graphics ready so you are not responsible for this):
-
-```
-<figure>
-  <p>Caption</p>
-  <figureDesc>Alt Text. Actually describe the image here</figureDesc>
-</figure>
-```
-
 Section breaks: I have searched far and wide for a way to do this to no avail. For this project just put the asterisk in their own paragraph, so ```<p>* * * * * *</p>```
 
-Tag for title: ```<head>Title</head>```
-
-Tag for byline: ```<byline>Byline</byline>```
+Tag for title (only on the first page): ```<head>Title</head>```
 
 _____
 
