@@ -45,7 +45,7 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
-Twitter Posts | Fridays | 15%
+Twitter Posts | Weekly | 15%
 Blogs | 5 over the course of the semester | 50%
 TEI (doesn't include blog post) <br /> | 2/26 | 10%
 Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 3/17 <br /> Finals Week (see schedule) | <br /> 5% <br /> 20%
