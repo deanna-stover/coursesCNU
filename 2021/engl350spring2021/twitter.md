@@ -26,7 +26,7 @@ _____
 * First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
   * Choose a *professional* username
   * Try to keep your username under 15 characters <br />
-  * Personalize your profile! If you don't feel like adding a profile picture of yourself (see FERPA notice on the syllabus), that's fine. Find some kind of profile picture though. And a cover image! And a bio! If you need help with your bio, check out this [breakdown](https://buffer.com/library/how-to-write-a-professional-bio-for/). But, of course, keep it all appropriate. 
+  * Personalize your profile! If you don't feel like adding a profile picture of yourself (see FERPA notice on the syllabus), that's fine. Find some kind of profile picture though. And a cover image! And a bio! If you need help with your bio, check out this [list of tips](https://buffer.com/library/how-to-write-a-professional-bio-for/). But, of course, keep it all appropriate. 
  
 * Add your first name with last initial and Twitter username to the appropriate Google Doc in our class Google Drive. Follow me and everyone else in the class (you'll have to come back if you're not the last one). <br />
 
