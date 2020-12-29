@@ -15,7 +15,7 @@ You should be **posting on Twitter *at least twice* per week** about the reading
 
 You'll then **submit Tweets to me** (including replies/retweets with comments) **via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions under "Resources." I've also included instructions for sumbitting your tweets under "How to Submit."
 
-We'll be using the hashtag **#cnuengl350**. Please use this hashtag! All my classes are using this hashtag this semester, so it's also a great way to see what everyone else is up to. 
+We'll be using the hashtag **#cnuengl350**. Please use this hashtag! All my classes are using this hashtag this semester, so it's also a great way to see what everyone else is up to. You can certainly use other hashtags as well! Just don't overdo it. Hashtagging most words is difficult to read. I tend to favor saving hashtags for the end of my tweets, although you can certainly incorporate them when appropriate. But know--more hashtags (and tagging people outside of class) means more people will (possibly) see your tweets. It's perfectly fine to do so, but you should be aware that other people may notice and even comment or like your posts. 
 
 Please tweet *throughout* the week as readings are assigned. If you want to get really fancy or you like to read ahead, you can use [Tweetdeck](https://tweetdeck.twitter.com/) to schedule tweets. 
 
