@@ -23,7 +23,7 @@ _____
 
 ## Assignment Breakdown
 
-### Day One (or really, Week One)
+### Week One
 
 * First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
   * Choose a *professional* username
