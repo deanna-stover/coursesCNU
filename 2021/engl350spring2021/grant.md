@@ -2,7 +2,7 @@
 
 _____
 
-**Proposal Deadline:** Wednesday, March 17th at 11:59 pm <br />
+**Abstract Deadline:** Wednesday, March 17th at 11:59 pm <br />
 **Percentage:** 5% (required)
 
 **Final Grant Deadline:** 
@@ -24,7 +24,7 @@ _____
 
 ## General Overview
 
-Over the next several weeks, we will be working on writing a grant that proposes a digital humanities project. You are not responsible for *completing* the project, but you are responsible for a proposal and several components that flesh out the project (i.e. a Grant Narrative, Environmental Scan, Budget, CV or Resume, and a Bibliography). Grants are a huge part of the digital humanities field, and being able to know what goes into a grant will be helpful in many other fields as well. Plus, this is a time for creativity! This is about what *you* want to develop within the field of DH!
+Over the next several weeks, we will be working on writing a grant that proposes a digital humanities project. You are not responsible for *completing* the project, but you are responsible for an abstract and several components that flesh out the project (i.e. a Grant Narrative, Environmental Scan, Budget, CV or Resume, and a Bibliography). Grants are a huge part of the digital humanities field, and being able to know what goes into a grant will be helpful in many other fields as well. Plus, this is a time for creativity! This is about what *you* want to develop within the field of DH!
 
 If you choose, you can work in teams of two for this project. 
 
@@ -32,9 +32,9 @@ Remember, there will be **a blog process blog post due as you write the grant.**
 
 _____
 
-## Proposal - Wednesday, March 17th by 11:59 pm
+## Abstract - Wednesday, March 17th by 11:59 pm
 
-Your proposal should be **200-300 words** and describe your ideal digital humanities project. This can incorporate your area of study, of course, as long as it has humanistic (and digital!) elements. So, this can't just be a pitch for a research paper--there needs to be some sort of digital component planned (again, not executed, but planned).
+Your abstract should be **200-300 words** and describe your ideal digital humanities project. This can incorporate your area of study, of course, as long as it has humanistic (and digital!) elements. So, this can't just be a pitch for a research paper--there needs to be some sort of digital component planned (again, not executed, but planned).
 
 Some ideas (note that this list is not exhaustive):
 * A mapping project for a short story, novel, or travelogue
@@ -45,7 +45,7 @@ Some ideas (note that this list is not exhaustive):
 * A podcast about some aspect of DH
 * A born digital creative project
 
-*I will not accept the final grant until your proposal has been approved.*
+*I will not accept the final grant until your abstract has been approved.*
 
 _____
 
@@ -127,6 +127,13 @@ _____
 
 
 ## Evaluation Criteria
+
+### Abstract
+
+* Pitches a **digital humanities** project, not a scholarly paper or something to do with another field
+
+* Follows the **appropriate instructions** (200-300 words)
+
 
 ### Environmental Scan and Bibliography
 
