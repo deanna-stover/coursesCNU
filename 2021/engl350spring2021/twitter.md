@@ -26,15 +26,15 @@ _____
 * First thing first, you'll set up your new Twitter (if necessary). If you don't have a Twitter profile yet, go to Twitter.com and follow the instructions. If you need a second account, [follow these instructions.](https://help.twitter.com/en/managing-your-account/managing-multiple-twitter-accounts)
   * Choose a *professional* username
   * Try to keep your username under 15 characters <br />
-  * Personalize your profile! If you don't feel like adding a profile picture of yourself (see FERPA notice on the syllabus), that's fine. Find some kind of profile picture though. And a cover image! 
+  * Personalize your profile! If you don't feel like adding a profile picture of yourself (see FERPA notice on the syllabus), that's fine. Find some kind of profile picture though. And a cover image! And a bio! If you need help with your bio, check out this [breakdown](https://buffer.com/library/how-to-write-a-professional-bio-for/). But, of course, keep it all appropriate. 
  
-* Add your first name with last initial and Twitter username to the appropriate Google Doc in our class Google Drive. Follow me and everyone else in the class (you'll have to come back if you're not the last one to post). <br />
+* Add your first name with last initial and Twitter username to the appropriate Google Doc in our class Google Drive. Follow me and everyone else in the class (you'll have to come back if you're not the last one). <br />
 
 * Post your first tweet introducing yourself! You might say your major and why you're interested in DH! Again, only share as much personal information as you're comfortable with and see the FERPA statement on the syllabus.
 
 * Reply to someone else's introduction. We'll be doing About Me posts later with more details, but this is your first time meeting your classmates (digitally--but still!).
 
-That's it! Usually you'll be tweeting three times a week total, but this week is short, so two will do. 
+* Make sure you take screenshots of your two posts AND (this week only) your Twitter profile. You'll submit all three to me this week by Friday, January 22nd at 11:59 pm. Usually, you'll have three tweets total, but this week is short and I want to see that profile. So, to be clear, you'll need to submit a screenshot of a tweet introducing yourself, a tweet responding to someone else, and your profile.  
 
 ### Week Two on . . .
 
