@@ -58,7 +58,7 @@ You will be responsible for tweeting three times per week (see prompt) and submi
 
 You will write five (5) blog posts over the course of the semester using GitHub/Jekyll.
 
-## [TEI](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/tei)
+## TEI
 
 You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (Extensible Markup Language)--of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman). Don't worry! It will fine! 
 
