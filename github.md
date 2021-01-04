@@ -32,7 +32,7 @@ On the resulting page, in the box captioned “Name your file,” type ```_confi
 
 Copy and paste the following code block into the file editor (to the right of the number 1 and below “Edit new file”).
 
-```
+```yaml
 #
 # This file contains configuration flags to customize your site
 #
