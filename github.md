@@ -94,6 +94,7 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
 ```
 
 Scroll to the bottom and click “Commit New File” to commit ```index.html``` to your repo.
@@ -170,6 +171,6 @@ That’s it for this tutorial. You should now have a functioning blog built on G
 
 _____
 
-I owe a lot of credit (and much wording) to Dr. Andrew Pilsch for his own tutorial on GitHub/Jekyll.
+I owe a lot of credit to (and much language from) Dr. Andrew Pilsch for his own tutorial on GitHub/Jekyll.
 
 
