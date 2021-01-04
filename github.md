@@ -76,7 +76,7 @@ So on your repo, click on the “Add file” menu and select “Create new file�
 
 In the “Name your file” box, type “index.html”. In the file editor, paste the following code block:
 
-```
+```html
 ---
 layout: default
 ---
