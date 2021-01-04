@@ -58,7 +58,7 @@ exclude:
   - CNAME
 ```
 
-In the editor, where the file says title: ```Site Title```, you can change “Site Title” to whatever you want your blog to be called. You can also edit ```description: A Blog``` to better describe your site. YAML is the file format used to configure your blog. (Note that I forgot to change the Site Title and Description in the GIF below, but you can always go back in and do this by clicking on ```_config.yml``` and then clicking the pen in the upper right hand corner--this allows you to edit any file you have committed. Check out more detailed instructions for how to do this [below](###Site Title))
+In the editor, where the file says title: ```Site Title```, you can change “Site Title” to whatever you want your blog to be called. You can also edit ```description: A Blog``` to better describe your site. YAML is the file format used to configure your blog. (Note that I forgot to change the Site Title and Description in the GIF below, but you can always go back in and do this by clicking on ```_config.yml``` and then clicking the pen in the upper right hand corner--this allows you to edit any file you have committed. Check out more detailed instructions for how to do this below under "Site Title.")
 
 When you are done editing your file, scroll to the bottom of the page and click “Commit new file” to save your changes. “Commiting” is the fancy GitHub lingo for saving files to your repository (or repo).
 
