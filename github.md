@@ -98,7 +98,10 @@ layout: default
 
 Scroll to the bottom and click “Commit New File” to commit ```index.html``` to your repo.
 
+![Creating index.html file](https://deanna-stover.github.io/coursesCNU/images/index.gif)
 
+
+## Getting your blog up and running
 
 
 
