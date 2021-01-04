@@ -58,7 +58,7 @@ exclude:
   - CNAME
 ```
 
-In the editor, where the file says title: ```Site Title```, you can change “Site Title” to whatever you want your blog to be called. You can also edit ```description: A Blog``` to better describe your site. YAML is the file format used to configure your blog. (Note that I forgot to change the Site Title and Description in the GIF below, but you can always go back in and do this by clicking on ```_config.yml``` and then clicking the pen in the upper right hand corner--this allows you to edit any file you have committed.)
+In the editor, where the file says title: ```Site Title```, you can change “Site Title” to whatever you want your blog to be called. You can also edit ```description: A Blog``` to better describe your site. YAML is the file format used to configure your blog. (Note that I forgot to change the Site Title and Description in the GIF below, but you can always go back in and do this by clicking on ```_config.yml``` and then clicking the pen in the upper right hand corner--this allows you to edit any file you have committed. Check out more detailed instructions for how to do this [below](###Site Title))
 
 When you are done editing your file, scroll to the bottom of the page and click “Commit new file” to save your changes. “Commiting” is the fancy GitHub lingo for saving files to your repository (or repo).
 
@@ -110,6 +110,25 @@ On your repo page, click on the “Settings” tab. Scroll to the “GitHub Page
 If you don't see a link there, you'll likely see what I saw: "GitHub Pages is currently disabled." We need to remedy this. Do so by clicking on the button that says "None," and then choose "Main" then "Save." Your blog link should show up at that point (but note that it might take a minute or so--GitHub can be slow!)
 
 ![Setting Up GitHub Pages](https://deanna-stover.github.io/coursesCNU/images/Pages.gif)
+
+
+## Customizing your blog
+
+### Site Title
+
+To change “Site Title” as the name of your site, we will need to edit the ```_config.yml``` file we created earlier. This file is called the site’s configuration: it contains metadata about the site that tells GitHub Pages how to display and configure our site.
+
+To edit your file, go back to the repo main page. Click on ```_config.yml``` in the list of files.
+
+When the page showing the contents of ```_config.yml``` loads, look for a small pencil icon on the right side of the page. It will be to the right of buttons for “Raw” and “Blame”. Clicking this pencil will let you edit the file. Click it now.
+
+We are back in the same editor we used to create the file.
+
+Looking at the file, you should see a line that begins with ```title:```. This line controls the setting for our site’s title. We can change what comes after the colon (:) to change our site’s title. Set your title to whatever you want.
+
+You can also change the contents of the line that begins description: to give your site a more accurate description.
+
+When you are happy with your site’s title and description, click the button labelled “Commit changes”.
 
 
 
