@@ -103,6 +103,14 @@ Scroll to the bottom and click “Commit New File” to commit ```index.html``` 
 
 ## Getting your blog up and running
 
+In order to start sharing our blog on the Internet, we need to make sure GitHub Pages Works.
+
+On your repo page, click on the “Settings” tab. Scroll to the “GitHub Pages” heading.
+
+If you don't see a link there, you'll likely see what I saw: "GitHub Pages is currently disabled." We need to remedy this. Do so by clicking on the button that says "None," and then choose "Main" then "Save." Your blog link should show up at that point (but note that it might take a minute or so--GitHub can be slow!)
+
+![Setting Up GitHub Pages](https://deanna-stover.github.io/coursesCNU/images/Pages.gif)
+
 
 
 
