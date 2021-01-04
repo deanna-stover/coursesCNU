@@ -158,12 +158,18 @@ On the new file page, type ```_posts/2021-01-04-about-me.md``` using whatever to
 
 You’ll note that when you type the / character it adds ```_posts/``` after the name of your repo and removes it from the text box. That’s just GitHub’s way of acknowledging it knows you are creating a folder. Later, when you add more posts, you'll go into this title and simply Create a New File from there, with the same ```YYYY-MM-DD-title.md``` structure, but without having to write ```_posts/```. To be clear, all of your posts for this class will live in the ```_posts``` folder.
 
-Now that you've created your first MD (or Markdown) file, you'll be able to start writing. Remember to follow the [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/) for more information on how to write Markdown to style your posts (this is how you add headers, italics, bold, images, links, etc.). 
+Now that you've created your first MD (or Markdown) file, you'll be able to start writing. Remember to follow the [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/) for more information on how to write Markdown to style your posts (this is how you add headers, italics, bold, images, links, etc.). The instructions for how to add images are included in the blog prompt. 
 
 You can see some of my Markdown in the GIF below. We'll go over sample About Me posts in class, so don't use the actual text as an example.
 
+![Adding a post](https://deanna-stover.github.io/coursesCNU/images/Post.gif)
 
+Once you wait for the site to rebuild, again, you should be able to reload your site and see your first blog post!
 
+That’s it for this tutorial. You should now have a functioning blog built on GitHub Pages and Jekyll.
 
+_____
+
+I owe a lot of credit (and much wording) to Dr. Andrew Pilsch for his own tutorial on GitHub/Jekyll.
 
 
