@@ -76,6 +76,7 @@ So on your repo, click on the “Add file” menu and select “Create new file�
 
 In the “Name your file” box, type “index.html”. In the file editor, paste the following code block:
 
+{%raw%}
 ```html
 ---
 layout: default
@@ -95,6 +96,7 @@ layout: default
   {% endfor %}
 </div>
 ```
+{%endraw%}
 
 Scroll to the bottom and click “Commit New File” to commit ```index.html``` to your repo.
 
