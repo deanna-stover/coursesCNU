@@ -140,6 +140,9 @@ If you want your blog to be a little more interesting, go ahead and change the t
 
 First, go to "Settings," then under "GitHub Pages" (where you find your link!) you should see something that says "Change Theme." Click it and try out a few options! You can always change it again.
 
+![Changing Jekyll Themes](https://deanna-stover.github.io/coursesCNU/images/Theme.gif)
+
+Again, this may take up to a minute to show up. I cut the gif so that it wouldn't take as long, but it took nearly a full minute for my new theme to show.
 
 
 
