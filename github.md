@@ -66,6 +66,38 @@ When you are done editing your file, scroll to the bottom of the page and click 
 
 ## Creating ```index.html``` file
 
+Having created our first file, we need to create one more before we can start blogging. It’s going to be called ```index.html```. You can think of it as the front page of your new blog.
+
+If you have learned HTML, the code we are copying may look a little strange. Jekyll, the blogging software used by GitHub Pages, uses some special code to turn our posts into HTML.
+
+If you haven’t learned HTML yet, this all will probably look like a foreign language. But that’s ok, we’ll talk more about what all this does.
+
+So on your repo, click on the “Add file” menu and select “Create new file” from the drop-down menu.
+
+In the “Name your file” box, type “index.html”. In the file editor, paste the following code block:
+
+```
+---
+layout: default
+---
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+```
+
+Scroll to the bottom and click “Commit New File” to commit ```index.html``` to your repo.
+
 
 
 
