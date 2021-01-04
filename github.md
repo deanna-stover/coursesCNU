@@ -132,6 +132,14 @@ When you are happy with your site’s title and description, click the button la
 
 ![Changing your Site Title](https://deanna-stover.github.io/coursesCNU/images/SiteTitle.gif)
 
+Now go back to settings and "GitHub Pages." Click that link. You should see your new title. But if you don't, be patient. GitHub takes a bit to get everything working. Try again in a minute or so. If it still isn't working then, contact me with a link to your repository.
+
+### Changing the theme
+
+If you want your blog to be a little more interesting, go ahead and change the theme! I certainly appreciate it so that I get some variety. 
+
+First, go to "Settings," then under "GitHub Pages" (where you find your link!) you should see something that says "Change Theme." Click it and try out a few options! You can always change it again.
+
 
 
 
