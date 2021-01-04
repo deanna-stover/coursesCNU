@@ -22,7 +22,45 @@ Make sure your blog is public so that we can all see it.
 
 ![New Repository Gif](https://deanna-stover.github.io/coursesCNU/images/NewRepo.gif)
 
+## Adding initial (and ESSENTIAL) content
 
+To create your first file, go to your repository (this is the page you should be on if you just created your repository).
+
+Under the heading “Quick setup — if you’ve done this kind of thing before,” there is a link called for “creating a new file”. Click on that.
+
+On the resulting page, in the box captioned “Name your file,” type ```_config.yml``` (make sure to include the underscore at the start of the filename).
+
+Copy and paste the following code block into the file editor (to the right of the number 1 and below “Edit new file”).
+
+```
+#
+# This file contains configuration flags to customize your site
+#
+# Name of your site (displayed in the header)
+title: Site Title
+# Short bio or description (displayed in the header)
+description: A Blog
+
+#
+# !! DON'T EDIT BELOW THIS MESSAGE
+#
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+```
+
+In the editor, where the file says title: Site Title, you can change “Site Title” to whatever you want your blog to be called. You can also edit description: A Blog to better describe your site. YAML is the file format used to configure your blog.
+
+When you are done editing your file, scroll to the bottom of the page and click “Commit new file” to save your changes. “Commiting” is the fancy GitHub lingo for saving files to your repo.
 
 
 
