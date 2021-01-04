@@ -144,7 +144,23 @@ First, go to "Settings," then under "GitHub Pages" (where you find your link!) y
 
 Again, this may take up to a minute to show up. I cut the gif so that it wouldn't take as long, but it took nearly a full minute for my new theme to show.
 
+## Your first blog post (the About Me post!)
 
+Once again, we will need to create a file in our repository. This time, we will also be creating a folder!
+
+Blog posts live in a special folder called ```_posts``` in our repo. Additionally, posts have a special file name structure, which is ```YYYY-MM-DD-title.md```. 
+
+Here YYYY would be the present year as a four digit number (2021 for me), MM would be today’s month as a two digit number (01 for me; you have to use a 0 for the first digit when the month is less than 10), DD is today’s day of the month as a two digit number (04 for me, again you have to use a 0 for the first digit if less than 10) and title is anything you want, but is usually what is called a “slug,” a representation of the post’s title using only letters, numbers, and the dash (-) character.
+
+So, to make our post, once again click on the “Add File” menu on your repo’s main page and select “Create new file”.
+
+On the new file page, type ```_posts/2021-01-04-about-me.md``` using whatever today’s date actually is for you. You should title your first post “About Me” because that's what your first post will be! 
+
+You’ll note that when you type the / character it adds ```_posts/``` after the name of your repo and removes it from the text box. That’s just GitHub’s way of acknowledging it knows you are creating a folder. Later, when you add more posts, you'll go into this title and simply Create a New File from there, with the same ```YYYY-MM-DD-title.md``` structure, but without having to write ```_posts/```. To be clear, all of your posts for this class will live in the ```_posts``` folder.
+
+Now that you've created your first MD (or Markdown) file, you'll be able to start writing. Remember to follow the [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/) for more information on how to write Markdown to style your posts (this is how you add headers, italics, bold, images, links, etc.). 
+
+You can see some of my Markdown in the GIF below. We'll go over sample About Me posts in class, so don't use the actual text as an example.
 
 
 
