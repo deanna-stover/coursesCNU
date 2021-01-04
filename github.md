@@ -64,6 +64,10 @@ When you are done editing your file, scroll to the bottom of the page and click 
 
 ![Creating new YAML file](https://deanna-stover.github.io/coursesCNU/images/YML.gif)
 
+## Creating ```index.html``` file
+
+
+
 
 
 
