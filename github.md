@@ -130,7 +130,7 @@ You can also change the contents of the line that begins description: to give yo
 
 When you are happy with your site’s title and description, click the button labelled “Commit changes”.
 
-![Changing your Site Title]((https://deanna-stover.github.io/coursesCNU/images/SiteTitle.gif)
+![Changing your Site Title](https://deanna-stover.github.io/coursesCNU/images/SiteTitle.gif)
 
 
 
