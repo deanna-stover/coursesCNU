@@ -20,6 +20,10 @@ Note that you don't want to title the repository "About Me" or anything like tha
 
 Make sure your blog is public so that we can all see it. 
 
+![New Repository Gif](https://deanna-stover.github.io/coursesCNU/images/NewRepo.gif)
+
+
+
 
 
 
