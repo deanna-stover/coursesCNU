@@ -24,6 +24,8 @@ Make sure your blog is public so that we can all see it.
 
 ## Adding initial (and ESSENTIAL) content
 
+### Creating ```_config.yml``` file
+
 To create your first file, go to your repository (this is the page you should be on if you just created your repository).
 
 Under the heading “Quick setup — if you’ve done this kind of thing before,” there is a link called for “creating a new file”. Click on that.
@@ -64,7 +66,7 @@ When you are done editing your file, scroll to the bottom of the page and click 
 
 ![Creating new YAML file](https://deanna-stover.github.io/coursesCNU/images/YML.gif)
 
-## Creating ```index.html``` file
+### Creating ```index.html``` file
 
 Having created our first file, we need to create one more before we can start blogging. It’s going to be called ```index.html```. You can think of it as the front page of your new blog.
 
