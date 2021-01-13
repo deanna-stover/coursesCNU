@@ -98,11 +98,11 @@ Readings should be done *before* class. This schedule is subject to change.
 
 ### ENGL 350.*3* (9:00 - 9:50)
 
-* Monday, May 5th - 8:00 - 10:30 am
+* Wednesday, May 5th - 8:00 - 10:30 am
 
 ### ENGL 350.*2* (13:00 - 13:50)
 
-* Monday, May 5th - 2:00 - 4:30 pm
+* Wednesday, May 5th - 2:00 - 4:30 pm
 
 _____
 
