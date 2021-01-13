@@ -131,6 +131,8 @@ This means that if you choose to use your real name on your course blog (and as 
 
 However, if you use an alias, please list your first name and last initial next to your Twitter handle and blog link in our class Google Drive so I know who you are.
 
+{% include policies.md %}
+
 _____
 
 I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it.
