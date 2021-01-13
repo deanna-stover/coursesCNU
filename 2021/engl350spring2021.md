@@ -92,11 +92,17 @@ Readings should be done *before* class. This schedule is subject to change.
 
 ## Finals Week
 
-### ENGL 350.*1* (12:00 - 12:50)  
+### ENGL 350.*1* (12:00 - 12:50) 
+
+* Friday, April 30th - 2:00 - 4:30 pm
+
+### ENGL 350.*3* (9:00 - 9:50)
+
+* Monday, May 5 - 8:00 - 10:30 am
 
 ### ENGL 350.*2* (13:00 - 13:50)
 
-### ENGL 350.*3* (9:00 - 9:50)
+* Monday, May 5 - 2:00 - 4:30 pm
 
 _____
 
