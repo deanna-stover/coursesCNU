@@ -4,26 +4,25 @@ _____
 
 
 **[About Me Blog](#about-me)**:
-<br /> **Blog Post Due**: 
+<br /> **Blog Post Due**: Friday, January 29th at 11:59 pm 
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[Review One Blog](#review-one)**:  
-**Peer Review**: 
-<br /> **Blog Post Due**: 
+**Peer Review**: Wednesday, February 10th (in class)
+<br /> **Blog Post Due**: Friday, February 12th at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[TEI (Coding) Blog](#coding)**:
-<br /> **Peer Review**: 
-<br /> **Blog Post Due**: 
+**[TEI (Coding) Blog](#coding)**: 
+<br /> **Blog Post Due**: Friday, February 26th at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[Review Two Blog](#review-two)**:
-<br /> **Peer Review**:
-<br /> **Blog Post Due**: 
+<br /> **Peer Review**: Wednesday, March 10th (in class)
+<br /> **Blog Post Due**: Friday, March 12th at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[Grant Process/Reflection Blog](#grant-process-and-reflection)**: 
-<br /> **Blog Post Due**: 
+<br /> **Blog Post Due**: Friday, April 23rd at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
 **Total Percentage**: 50%
@@ -34,7 +33,7 @@ _____
 
 You will write five *research* blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete [my tutorial](https://deanna-stover.github.io/coursesCNU/github). 
 
-We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional throughout! 
+We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional (rather than informal) throughout. (That doesn't mean you can't have fun--just be aware of the context and audience.) 
 
 Check out "How to Submit" to figure out how to turn in your assignment to Scholar.
 
@@ -228,7 +227,7 @@ _____
 
 * **Thinks critically** whether you're writing a review or a process post or just introducing yourself
 
-* Shows **professionalism** – i.e. that you took this assignment seriously – and pays attention to **audience**, meaning you found the balance between writing for the public and writing about your research. Your blog should *not* be too informal nor too technical. 
+* Shows **professionalism** – i.e. that you took this assignment seriously – and pays attention to **audience**, meaning you found the balance between writing for the public and writing about yourself and your research. Your blog should *not* be too informal nor too technical. 
 
 * Presents information in an **organized**, concise, and coherent way. Remember, part of being organized in digital writing is breaking up those paragraphs! 
 
