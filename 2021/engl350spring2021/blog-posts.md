@@ -1,4 +1,4 @@
-# Blog Prompt(s)
+# Research Blog Prompt(s)
 
 _____
 
@@ -32,9 +32,9 @@ _____
 
 ## General Overview
 
-You will write five blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete the tutorial. 
+You will write five *research* blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete the tutorial. 
 
-We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional (and positive) throughout! 
+We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional throughout! 
 
 Check out "How to Submit" to figure out how to turn in your assignment to Scholar.
 
@@ -104,7 +104,7 @@ This blog should be **500-750 words**. Remember that you can be critical and sti
 
 Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
-**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails.
+**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails. And do pay attention in class--we'll go over more tips and tricks! 
 
 Make sure you use the following format for introducing your blog post:
 
@@ -155,7 +155,7 @@ Some general guidelines: you must find and review a digital humanities *project*
 
 Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
-**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails.
+**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails. And do pay attention in class--we'll go over more tips and tricks!
 
 Make sure you use the following format for introducing your blog post:
 
@@ -212,7 +212,7 @@ To find the URL for your blog, you'll need to go to Settings on GitHub, scroll d
 
 Your URL should start with something like this: https://deanna-stover.github.io/ **NOT** like this: https://github.com/deanna-stover/
 
-Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You will need to choose the "soft wrap" option in order to see all of the text at once. This option is in the upper left hand corner of where you edit your file.
+Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. You will need to choose the "soft wrap" option in GitHub in order to see all of the text at once. This option is in the upper left hand corner of where you edit your file. To capture all your code, just go into "Raw" or the edit file portion of GitHub. I'll be able to see all your writing and the code that way. 
 
 **Peer Review**: If you have a peer review assignment with any blog post, please **upload the feedback you *received* along with your code**. While there is no grade for peer review per se, I will take into account whether you participated in peer review when calculating your grade for the assignment. 
 
@@ -228,11 +228,11 @@ _____
 
 * **Thinks critically** whether you're writing a review or a process post or just introducing yourself
 
-* Shows **professionalism** – i.e. that you took this assignment seriously
+* Shows **professionalism** – i.e. that you took this assignment seriously – and pays attention to **audience**, meaning you found the balance between writing for the public and writing about your research. Your blog should *not* be too informal nor too technical. 
 
-* Presents information in an **organized** and coherent way
+* Presents information in an **organized**, concise, and coherent way. Remember, part of being organized in digital writing is breaking up those paragraphs! 
 
-* **Follows instructions** for the appropriate blog post
+* **Follows instructions** for the appropriate blog post and takes advantage of the **platform** (in other words, you use Markdown appropriately)
 
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
