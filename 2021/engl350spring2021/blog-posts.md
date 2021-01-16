@@ -32,7 +32,7 @@ _____
 
 ## General Overview
 
-You will write five *research* blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete the tutorial. 
+You will write five *research* blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete [my tutorial](https://deanna-stover.github.io/coursesCNU/github). 
 
 We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional throughout! 
 
