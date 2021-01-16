@@ -46,7 +46,7 @@ _____
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 15%
-Blogs | 5 over the course of the semester | 50%
+Research Blogs | 5 over the course of the semester | 50%
 TEI (doesn't include blog post) <br /> | 2/26 | 10%
 Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 3/17 <br /> Finals Week (see schedule) | <br /> 5% <br /> 20%
 
@@ -54,9 +54,9 @@ Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 3/17 <br /> Finals 
 
 You will be responsible for tweeting three times per week (see prompt) and submitting those tweets to me weekly.
 
-## [Blog Posts](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/blog-posts)
+## [Research Blog Posts](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/blog-posts)
 
-You will write five (5) blog posts over the course of the semester using GitHub/Jekyll.
+You will write five (5) research blog posts over the course of the semester using GitHub/Jekyll.
 
 ## TEI
 
