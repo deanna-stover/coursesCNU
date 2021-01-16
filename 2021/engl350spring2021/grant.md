@@ -6,9 +6,9 @@ _____
 **Percentage:** 5% (required)
 
 **Final Grant Deadline:** 
-* 9:00 - 9:50 class:  
-* 12:00 - 12:50 class: 
-* 13:00 - 13:50 class:
+* 9:00 - 9:50 class: Wednesday, May 5th 8:00 - 10:30 am 
+* 12:00 - 12:50 class: Friday, April 30th 2:00 - 4:30 pm
+* 13:00 - 13:50 class: Wednesday, May 5th 2:00 - 4:30 pm
 
 **Percentage:** 20%
 
@@ -18,7 +18,7 @@ _____
 
 * Environmental Scan and Bibliography: April 5th
 * Grant Narrative and Budget: April 14th
-* CV or Resume: April 23rd
+* CV or Resume: April 26th
 
 _____
 
@@ -84,7 +84,7 @@ Your budget should be detailed and can ask for ***up to* $1,500**. Don't ask for
 _____
 
 
-## CV or Resume - Peer Review Friday, April 23rd
+## CV or Resume - Peer Review Friday, April 26th
 
 You get to choose: do you want to write a **1-2 page Curriculum Vitae (CV) OR a 1-page Resume**?
 
@@ -151,7 +151,7 @@ _____
 
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
-* Follows the **appropriate instructions** (1-page single spaced for the Environmental Scan, 2-3 page double-spaced for the MLA Bibliography)
+* Follows the **appropriate instructions** (1-page single spaced for the Environmental Scan; 10 sources double-spaced for the MLA Bibliography)
 
 
 ### Grant Narrative and Budget
