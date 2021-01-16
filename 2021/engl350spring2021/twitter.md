@@ -11,11 +11,13 @@ _____
 
 Twitter is popular in the Digital Humanities (DH) community and has been for awhile. It's also a good way of practicing being concise and informative while talking to a public audience. And it's a great alternative to discussion board posts! You'll be setting up an *academic* or *professional* Twitter, meaning you might need to create a new profile if you already have a personal account. If you're unfamiliar with Twitter, [check this out](https://digitalhumanities.berkeley.edu/twitter-scholarly-networking). 
 
-You should be **posting on Twitter *at least twice* per week** about the readings and/or projects we're working on AND **replying to or retweeting (with a comment) one of your classmates *at least once* per week**. There are a couple of special instructions listed below.  
+You should be **posting on Twitter *at least twice* per week** about the readings and/or projects we're working on **AND replying to or retweeting (with a comment) one of your classmates *at least once* per week**. There are a couple of special instructions listed below.  
 
 You'll then **submit Tweets to me** (including replies/retweets with comments) **via Scholar each Friday by 11:59 pm**. To submit your Tweets via Scholar, you'll need to take screen shots. I've listed some resources and instructions under "Resources." I've also included instructions for sumbitting your tweets under "How to Submit."
 
-We'll be using the hashtag **#cnuengl350**. Please use this hashtag! All my classes are using this hashtag this semester, so it's also a great way to see what everyone else is up to. You can certainly use other hashtags as well! Just don't overdo it. Hashtagging most words is difficult to read. I tend to favor saving hashtags for the end of my tweets, although you can certainly incorporate them when appropriate. But know--more hashtags (and tagging people outside of class) means more people will (possibly) see your tweets. It's perfectly fine to do so, but you should be aware that other people may notice and even comment or like your posts. 
+We'll be using the hashtag **#cnuengl350**. Please use this hashtag! All my classes are using this hashtag this semester, so it's also a great way to see what everyone else is up to. 
+
+You can certainly use other hashtags as well! Just don't overdo it. Hashtagging most words is difficult to read. I tend to favor saving hashtags for the end of my tweets, although you can certainly incorporate them when appropriate. But know--more hashtags (and tagging people outside of class) means more people will (possibly) see your tweets. It's perfectly fine to do so, but you should be aware that other people may notice and even comment or like your posts. 
 
 Please tweet *throughout* the week as readings are assigned. If you want to get really fancy or you like to read ahead, you can use [Tweetdeck](https://tweetdeck.twitter.com/) to schedule tweets. 
 
@@ -42,7 +44,7 @@ _____
 
 * Post at least two substantial (see below) tweets a week AND reply/retweet with comment (these should be substantial too!).<br />
 
-* Submit your tweets via Scholar each Friday by 11:59 pm. (See "How to Submit" below.)
+* Submit your *three* tweets via Scholar each Friday by 11:59 pm. (See "How to Submit" below.)
 
 #### But if there was a blog due the week before? Do this! (I'll remind you)
 
