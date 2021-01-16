@@ -54,7 +54,7 @@ _____
 
 ### Week 9 and Week 15
 
-* These weeks are short, so I will only be requiring **one tweet and one reply/retweet with comment**.
+* These weeks are short, so I will only be requiring one tweet and one reply/retweet with comment.
 
 * You'll submit tweets via Scholar on *Wednesdays* these weeks (March 17th and April 28th).
 
