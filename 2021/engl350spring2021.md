@@ -19,6 +19,8 @@ _____
 ## Instructor - Dr. Deanna Stover
 
   **email:** deanna.stover@cnu.edu 
+  
+  **course website:** [https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021)
 
   **office hours:** MWF 10:15 - 11:30 am, F 3:00 - 3:45 pm, and by appointment
   
