@@ -19,7 +19,7 @@ We'll be using the hashtag **#cnuengl350**. Please use this hashtag! All my clas
 
 You can certainly use other hashtags as well! Just don't overdo it. Hashtagging most words is difficult to read. I tend to favor saving hashtags for the end of my tweets, although you can certainly incorporate them when appropriate. But know--more hashtags (and tagging people outside of class) means more people will (possibly) see your tweets. It's perfectly fine to do so, but you should be aware that other people may notice and even comment or like your posts. 
 
-Please tweet *throughout* the week as readings are assigned. If you want to get really fancy or you like to read ahead, you can use [Tweetdeck](https://tweetdeck.twitter.com/) to schedule tweets. 
+Please tweet *throughout* the week as readings are assigned. That means you should be posting *before* class. If you want to get really fancy or you like to read ahead, you can use [Tweetdeck](https://tweetdeck.twitter.com/) to schedule tweets. 
 
 _____
 
@@ -71,7 +71,7 @@ _____
 * I will grade your tweets as pass/fail each week 
   * If you don't submit *at least three* tweets total (including one reply/retweet with comment), you get a 0 for the week.
   * If you submit three tweets but they are UNsubstantial (see below), you may recieve a 0 for the week.
-  * Again, please tweet *throughout* the week as readings are assigned. If I only see you posting during/after class, I reserve the right to give you a 0.
+  * Again, please tweet *throughout* the week as readings are assigned (so, before class). If I only see you posting during/after class, I reserve the right to give you a 0.
 
 Each week amounts to 1% of your final grade in the course. It doesn't seem like much, but it adds up! 
 
