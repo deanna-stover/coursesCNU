@@ -127,7 +127,7 @@ For each day an assignment is late, I will be subtracting ten points. That said,
 
 ## FERPA:
 
-The Family Educational Records and Privacy Act gives you a right to privacy in this class. In addition to governing where I can and cannot discuss grades and to whom I can disclose information about your class participation, FERPA also implies that I cannot force you to pubically disclose that you are a student in this class.
+The Family Educational Records and Privacy Act gives you a right to privacy in this class. In addition to governing where I can and cannot discuss grades and to whom I can disclose information about your class participation, FERPA also implies that I cannot force you to publicly disclose that you are a student in this class.
 
 This means that if you choose to use your real name on your course blog (and as your GitHub account name) or on Twitter, you are waiving that portion of your FERPA rights and disclosing that you are a member of this class. If you would prefer to post using an alias or a handle for the blogging and tweeting portions of this course, you are protecting your right to privacy and are more than welcome to do so.
 
