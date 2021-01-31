@@ -97,7 +97,7 @@ _____
 
 # Review One
 
-Based on the reviews you read in preparation, write a review of a digital humanities project from the list I have provided on the Google Drive. You must *claim* a project by putting your name next to one of the options so that not everyone in class reviews the same project. Do this by **class on Wednesday, February 3rd**. Make sure to pick something that other people have not yet claimed. 
+Based on the reviews you read in preparation, write a review of a digital humanities project from the list I have provided on the Google Drive. You must *claim* a project by putting your name next to one of the options so that not everyone in class reviews the same project. Do this by **class on Monday, February 1st**. Make sure to pick something that other people have not yet claimed. 
 
 This blog should be **500-750 words**. Remember that you can be critical and still polite or appreciative but still evaluative.  
 
