@@ -103,6 +103,11 @@ Instead, you’d need to do this:
 <p><hi rend="underline”>there was a student.</hi></p>
 ```
 
+Or, as another example, this:
+
+```
+<p> Once upon a time, <pb n="2"/> there was a student.</p>
+
 Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch beyond it.
 
 * Everything should be tagged. This doesn’t mean every *word* has a separate tag, but no text should be just floating around.
