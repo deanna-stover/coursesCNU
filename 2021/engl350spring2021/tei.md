@@ -11,9 +11,7 @@ _____
 
 Like we talked about in class, we will be starting the process of creating a digital edition of Charlotte Perkins Stetson's “The Yellow Wall-paper” (as an FYI, she's better known as Charlotte Perkins Gilman). This semester, the focus is on the manuscript version of the text. We’ll be using TEI (a set of standardized XML tags) to markup the text. 
 
-In what follows, I attempt to break down all the tags I expect you to use, although your assigned section may or may not require all of the tags listed. There is a chance that you may come across something you think needs a tag that I have not prepared for—please reach out to me or bring it up in class.
-
-Remember that tagging is not an exact science—it is always interpretive. That said, we want to be as consistent as possible, so the tags below are important. 
+In what follows, I attempt to break down all the tags I expect you to use, although your assigned section may or may not require all of the tags listed. There is a chance that you may come across something you think needs a tag that I have not prepared for—please reach out to me or bring it up in class. We want to be as consistent as possible, so the tags below are important. 
 
 We’ll have plenty of class time to go over our XML, both on paper and on the computer, so please don’t worry about coding. It seems scary, but once you get the basic syntax, you’ll feel much more comfortable. I've also simplified everything. I just ask that you come to this assignment with an open mind. No coding experience is required or expected. We’re learning this together!
 
@@ -35,40 +33,48 @@ So, we'll add comments to the appropriate Google Doc. These comments will explai
 
 The features we'll be encoding are:
 
-* Page beginnings (so, if you have been assigned a full page or column 1, this is going to be important)
+* Page beginnings
 * Paragraphs 
+* Weird spacing
 * Em-dashes (they aren't hyphens, they're longer)
-* Italics
+* Underlined Words
+* Crossed-out words
 * Any misspelled words/mistakes in the text
-* Quotes (note that this is only the actual material in quotation marks, not the "he said." Also, there is one point in the periodical where there is an accidental quotation mark--no need to encode this, but it is a mistake, so take note of it)
-* The title
-* The byline
+* Quotes (note that this is only the actual material in quotation marks, not the "he said." Also note that you only want to tag quotes where someone is speaking, not where a signle word is in quotes.)
+* The Title (only on the first page)
+* The byline (only on the last page)
 
 ## Step Three: TEI on the Computer
 
 This is where things get a little scarier--but I promise it isn't that bad! 
 
-On Friday, February 19th we will go over how to set up your TEI document in Oxygen. All you have to do is sign up for the 30-day free trial and download the software before class. *Please do this.*
+During class, we will go over how to set up your TEI document in Oxygen. All you have to do is sign up for the 30-day free trial and download the software before class on the day listed in the syllabus. *Please do this.*
 
 _____
 
 ## Tags
 
-Page beginning: ```<pb n=“647”/>``` (note that you need to put in the correct page number. Also, eventually there will be a facsimile URL added in, but I don’t have that ready so you are not responsible for this)
+Page beginning: ```<pb n=“1”/>``` (note that you need to put in the correct page number)
 
 Paragraph tag: ```<p>Paragraph here.</p>```
 
+Weird spacing: ```<space/>```
+
 Em-dash code: ```&#8212;```
 
-Italics: ```<emph rend=“italic”>Text here</emph>```
+Underlined bits: ```<hi rend=“underline”>Text here</hi>```
 
-A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>```
+Crossed-out words: ```<del rend="strikethrough">Text here</del>```
+
+A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>``` (note that you don't need to standadize spelling, just correct any errors)
 
 A quote: ```<q>“everything in quotation marks here,”</q> he said, <q>“the rest of the quote.”</q>```
 
-Section breaks: I have searched far and wide for a way to do this to no avail. For this project just put the asterisk in their own paragraph, so ```<p>* * * * * *</p>```
+Section breaks: I have searched far and wide for a way to do this to no avail. For this project just put the plus-signs in their own paragraph, so ```<p>+ + + +</p>```
 
 Tag for title (only on the first page): ```<head>Title</head>```
+
+Tag for byline (only on the last page) ```<byline>Charlotte Perkins Stetson.</byline>
 
 _____
 
@@ -79,22 +85,22 @@ _____
 * You have to close any open tag before you close anything within it. That means tags can’t overlap, so this is **invalid**:
 
 ```
-<p><emph rend=“italic”>Once upon a time . . . </p>
-<p>there was a student.</emph></p>
+<p><hi rend="underline”>Once upon a time . . . </p>
+<p>there was a student.</hi></p>
 ```
 
 This is also **invalid**:
 
 ```
-<p><emph rend=“italic”>Once upon a time . . . </p></emph>
-<p><emph rend=“italic”>there was a student.</p></emph>
+<p><hi rend="underline”>Once upon a time . . . </p></hi>
+<p><hi rend="underline”>there was a student.</p></hi>
 ```
 
 Instead, you’d need to do this:
 
 ```
-<p><emph rend=“italic”>Once upon a time . . . </emph></p>
-<p><emph rend=“italic”>there was a student.</emph></p>
+<p><hi rend="underline”>Once upon a time . . . </hi></p>
+<p><hi rend="underline”>there was a student.</hi></p>
 ```
 
 Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch beyond it.
@@ -126,7 +132,7 @@ _____
 
 * That green/red box in oXygen? It's green. Meaning, the **code is valid**
 
-* The text you've encoded is **accurate to the manuscript**
+* The text you've encoded is **accurate to the manuscript/transcription**
 
 _____
 
