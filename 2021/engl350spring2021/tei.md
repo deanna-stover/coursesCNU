@@ -17,15 +17,11 @@ We’ll have plenty of class time to go over our XML, both on paper and on the c
 
 _____
 
-## Step One/Two: TEI on Paper
+## Step One: TEI on Paper
 
 We'll be doing this in class. The whole goal is to get you more comfortable with the text you've been assigned (available in the Google Drive). 
 
-The **first** thing you need to do is to compare the transcription with your section of the manuscript. I've linked the appropriate pages within your Google Doc.
-* I went over everything, but to err is human and I might have made a mistake. You need to make sure your document is as close to the original as possible, meaning we want the same punctuation, spelling, and paragraphing in the transcription. *Please let me know if there is an error in the transcription.*
-* Note that transcribing is hard. **Please don't change anything in the transcription without talking to me**. We will figure out together if there is an error. 
-
-The **second** thing we're going to do is annotate the Google Doc.
+The **first** thing we're going to do is annotate the Google Doc.
 
 Traditionally, I'd have you work on a printed copy of the text and you can totally do this too, but because of COVID, I've decided we'll try learning TEI using Google Docs first.
 
@@ -39,12 +35,12 @@ The features we'll be encoding are:
 * Em-dashes (they aren't hyphens, they're longer)
 * Underlined Words
 * Crossed-out words
-* Any misspelled words/mistakes in the text
-* Quotes (note that this is only the actual material in quotation marks, not the "he said." Also note that you only want to tag quotes where someone is speaking, not where a signle word is in quotes.)
+* Any misspelled words/mistakes in the text (no need to standardize spelling, just note errors)
+* Quotes (note that this is only the actual material in quotation marks, not the "he said." Also note that you only want to tag quotes where someone is speaking, not where a single word is in quotes.)
 * The Title (only on the first page)
 * The byline (only on the last page)
 
-## Step Three: TEI on the Computer
+## Step Two: TEI on the Computer
 
 This is where things get a little scarier--but I promise it isn't that bad! 
 
