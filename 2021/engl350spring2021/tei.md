@@ -70,7 +70,7 @@ Section breaks: I have searched far and wide for a way to do this to no avail. F
 
 Tag for title (only on the first page): ```<head>Title</head>```
 
-Tag for byline (only on the last page) ```<byline>Charlotte Perkins Stetson.</byline>
+Tag for byline (only on the last page) ```<byline>Charlotte Perkins Stetson.</byline>```
 
 _____
 
@@ -103,6 +103,7 @@ Or, as another example, this:
 
 ```
 <p> Once upon a time, <pb n="2"/> there was a student.</p>
+```
 
 Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch beyond it.
 
@@ -133,7 +134,7 @@ _____
 
 * That green/red box in oXygen? It's green. Meaning, the **code is valid**
 
-* The text you've encoded is **accurate to the manuscript/transcription**
+* The text you've encoded is **accurate to the manuscript/transcription** (note that this includes *an attention to detail* including spacing)
 
 _____
 
