@@ -35,6 +35,7 @@ The features we'll be encoding are:
 * Em-dashes (they aren't hyphens, they're longer)
 * Underlined Words
 * Crossed-out words
+* Added words
 * Any misspelled words/mistakes in the text (no need to standardize spelling, just note errors)
 * Quotes (note that this is only the actual material in quotation marks, not the "he said." Also note that you only want to tag quotes where someone is speaking, not where a single word is in quotes.)
 * The Title (only on the first page)
@@ -58,9 +59,11 @@ Weird spacing: ```<space/>```
 
 Em-dash code: ```&#8212;```
 
-Underlined bits: ```<hi rend=“underline”>Text here</hi>```
+Underlined bits: ```<hi rend=“underline”>text here</hi>```
 
-Crossed-out words: ```<del rend="strikethrough">Text here</del>```
+Crossed-out words: ```<del rend="strikethrough">text here</del>```
+
+Added words: ```<add place="above">text here</add>``` (note that you may check to see if the word is inserted above or in the margin and change what follows "place" accordingly)
 
 A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>``` (note that you don't need to standadize spelling, just correct any errors)
 
