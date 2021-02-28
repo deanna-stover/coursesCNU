@@ -148,13 +148,13 @@ _____
 
 # Review Two
 
-You will write another **500-750 word** review, but this time it will be on a project that you have found. Please "claim" your project on the Google Drive by **class on Wednesday March 3rd**. Please do not review a project that has already been reviewed in *Reviews in DH* or mentioned in Miriam Posner's "How Did They Make That?" You also cannot choose a project from the Review One list I provided.
+You will write another **500-750 word** review, but this time it will be on a project that you have found. Please "claim" your project on the Google Drive by **class on Wednesday March 3rd**. Please do not review a project that has already been reviewed in *Reviews in DH.* You also cannot choose a project from the Review One list I provided or a project covered in one of the sample reviews we read.
 
-Some general guidelines: you must find and review a digital humanities *project*, not just an article or book on DH. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours. 
+Some general guidelines: you must find and review a digital humanities *project*, not just an article or book on DH. You also want to think about the scale of the project; smaller projects are actually easier to review. You might find a mapping project or a digital edition (note that this is different than an electronic text) or really anything you think qualifies as DH. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours (well before the deadline, of course). 
 
-Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
+Include ***at least* two images** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
-**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails. And do pay attention in class--we'll go over more tips and tricks!
+**Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails. Pay attention in class--we'll go over more tips and tricks. And, of course, keep in mind my feedback on your last review post! 
 
 Make sure you use the following format for introducing your blog post:
 
@@ -166,8 +166,6 @@ Project Director Name
 
 **Project URL**: <br />
 Project URL
-
-And, of course, keep in mind my feedback on your last review post! 
 
 _____
 
