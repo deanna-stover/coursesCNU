@@ -17,7 +17,7 @@ _____
 **Peer Review Deadlines:**
 
 * Environmental Scan and Bibliography: April 5th
-* Grant Narrative and Budget: April 14th
+* Grant Narrative and Budget: April 16th
 * CV or Resume: April 26th
 
 _____
@@ -67,7 +67,7 @@ The most important part of this entire assignment is being *concise* and *clear*
 
 _____
 
-## Grant Narrative and Budget - Peer Review Wednesday, April 14th
+## Grant Narrative and Budget - Peer Review Friday, April 16th
 
 You will write **a 1-2 page Grant Narrative (single-spaced) and a budget** (this will likely be short, but use as much space as you need).
 
