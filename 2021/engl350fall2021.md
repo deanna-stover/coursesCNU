@@ -126,4 +126,3 @@ However, if you use an alias, please list your first name and last initial next 
 _____
 
 I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it.
-
