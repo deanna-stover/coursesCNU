@@ -1,0 +1,130 @@
+---
+start: 2021-01-20
+end: 2021-04-28
+
+meets:
+  - monday
+  - wednesday
+  - friday
+  
+holidays:
+  - date: 2021-03-19
+    name: Spring Recess
+
+classes:
+  - |
+    * **Virtual Class.** Read the instructions for Collaborate before class
+  - |
+    * Turn in your Permission Slip for the Google Drive
+    * Post your twitter handle to the Google Drive [(see prompt)](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/twitter). Follow your classmates (and me!) on Twitter
+    * Kate Meyers, ["Manage Your Digital Identity"](https://www.insidehighered.com/blogs/gradhacker/manage-your-digital-identity)
+    * Kathleen Fitzpatrick, ["The Humanities, Done Digitally"](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02)
+    * **Virtual Class.**
+  - |
+    * Read and **complete** the [GitHub tutorial](https://deanna-stover.github.io/coursesCNU/github)
+    * [Markdown Tutorial](https://www.markdowntutorial.com/)
+    * **Virtual Class.** 
+  - |
+    * Jason Heppler, ["What is Digital Humanities"](https://whatisdigitalhumanities.com/) - Refresh the page a few times (use the curled reload symbol at the top right of your browser)
+    * Anne Burdick, et. al., [*A Short Guide to the Digital_Humanities*](https://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf) - you can just read pages 2-5.
+    * Matthew G. Kirschenbaum, ["What is the Digital Humanities and What's It Doing in English Departments"](https://mkirschenbaum.files.wordpress.com/2011/03/ade-final.pdf)
+  - |
+    * No readings.
+    * **About Me post due by 11:59 pm *today***. Post the link to your blog in the Google Drive.
+  - |
+    * Browse and read two reviews from [*Reviews in Digital Humanities*](https://reviewsindh.pubpub.org/)
+    * Claim a DH project from the list I provided on the Google Drive    
+  - |
+    * Ben Schmidt, ["Creating Data: A guided tour of the digital library"](http://creatingdata.us/datasets/hathi-features/) 
+    * Mini Onuoha, ["On Missing Data Sets"](https://github.com/MimiOnuoha/missing-datasets) -- note that this is a README.md file
+    * Sarah Zhang, ["The Pitfalls of Using Google Ngram to Study Language"](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/) 
+  - |
+    * Catherine D'Ignazio and Lauren Klein, ["6. The Numbers Don't Speak for Themselves,"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) *Data Feminism*
+  - |
+    * Anne Lamott, ["Shitty First Drafts"](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
+  - |
+    * **Virtual Class.** Peer Review.
+  - |
+    * Use the [Hemingway App](http://www.hemingwayapp.com/) to see how clear your blog post is. Be ready to talk about your results in class.
+    * **Review Blog Post One due by 11:59 pm *today***
+  - |
+    * Charlotte Perkins Stetson (Gilman), ["The Yellow Wall-paper"](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf)
+  - |
+    * Charlotte Roueché, "Why Do We Mark up Texts?" (available on Scholar)
+    * Download a free trial of Oxygen
+      * download the free trial version from [here](http://oxygenxml.com/download_oxygenxml_editor.html)
+      * register for a trial license key [here](http://oxygenxml.com/register.html)
+      * if you can’t use Oxygen on your device, try an alternative [here](http://alternativeto.net/software/oxygen-xml/?license=opensource)
+    * **Virtual Class.** Setting up TEI documents.
+  - |
+    * Annette Vee, ["Programming as Literacy"](http://d-scholarship.pitt.edu/37085/1/45veeAnnette.pdf)
+  - |
+    * **Virtual Class.** TEI troubleshooting.
+  - |
+    * Elisa Beshero-Bondar, et. al. ["DSC #5: The DSC and the Impossible TEI Quandaries"](https://datasittersclub.github.io/site/books/dsc5.html)
+  - |
+    * No readings.
+    * **TEI and TEI blog post due by 11:59 pm *today***
+  - |
+    * Matthew K. Gold and Luaren F. Klein, ["A DH That Matters"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2)
+    * Miriam Posner, ["What's Next: The Radical, Unrealized Potential of Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357#:~:text=What's%20Next%3A%20The%20Radical%2C%20Unrealized%20Potential%20of%20Digital%20Humanities,-Miriam%20Posner&text=DH%20gets%20occasional%20mainstream%20press,in%20a%20pretty%20remarkable%20way.)
+  - |
+    * Alok Amatya, ["For Beginners, What Makes a Good DH Project?"](https://www.hastac.org/blogs/alok/2017/09/22/beginners-what-makes-good-dh-project)
+    * Search for digital humanities projects to review and claim one in the Google Drive (tip: start thinking about what you want to do for your own hypothetical project and try to find something similar)
+  - |
+    * Lisa Spiro, ["'This Is Why We Fight': Defining the Values of the Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335#ch03) 
+  - |
+    * No readings. 
+  - |
+    * **Virtual Class.** Peer Review.
+  - |
+    * Raphael B. Folsom, "Brainstorm within Your Subject" from *How to Get Grant Money in the Humanities and Social Sciences* (available on Scholar)
+    * Simon Appleford and Jennifer Guiliano, ["Best Practice Principles of Designing Your First Project"](http://devdh.org/lectures/design/bestpractice/) -- *make sure you listen to the podcast as well as look at the slides* 
+    * **Review Blog Post Two due by 11:59 pm *today***
+  - |
+    * Read at least one [Case Study](https://handbook.pubpub.org/case-studies) from *Visualizing Objects, Places, and Spaces: A Digital Project Handbook* 
+  - |
+    * No readings.
+    * **Abstract Due by 11:59 pm *today***
+  - |
+    * No readings. 
+  - |
+    * Robert Porter, ["Why Academics Have a Hard Time Writing Good Grant Proposals"](https://files.eric.ed.gov/fulltext/EJ902223.pdf)
+    * ["Dr. Karen's Foolproof Grant Template"](http://theprofessorisin.com/2011/07/05/dr-karens-foolproof-grant-template/)
+  - |
+    * No readings. 
+  - |
+    * **No class - Virtual meetings with me about project**
+    * ["Search Strategy" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * ["Using the Library Catalog" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+  - |
+    * **No class - Virtual meetings with me about project**
+    * ["JSTOR" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * ["ProQuest" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+  - |
+    * **No class - Virtual meetings with me about project**
+    * ["EBSCOhost" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+  - |
+    * **Virtual Class.** Peer Review (Environmental Scan and Bibliography).
+  - |
+    * Sample Grant Narratives and Budgets (available in the Google Drive)
+  - |
+    * Browse [Tools & Resources](https://handbook.pubpub.org/tools) AND [Budgets & Funding](https://handbook.pubpub.org/funding) from *Visualizing Objects, Places, and Spaces: A Digital Project Handbook* 
+    * Sample Grant Narratives and Budgets (available in the Google Drive)
+  - | 
+    * ["Copyright and Digital Projects"](https://guides.lib.berkeley.edu/c.php?g=658664&p=4623725) 
+  - |
+    * No readings.
+  - |
+    * **Virtual Class.** Peer Review (Grant Narrative and Budget) 
+  - |
+    * Sample CV and Resume (available in the Google Drive)
+  - |
+    * Sample CV and Resume (available in the Google Drive)
+  - |
+    * No readings.
+    * **Grant Process Post/Reflection Due by 11:59 pm *today***
+  - |
+    * **Virtual Class.** Peer Review (CV or Resume)
+  - |
+    * No readings. Review Day. Come ready to talk about the course and fill out your evaluations!
