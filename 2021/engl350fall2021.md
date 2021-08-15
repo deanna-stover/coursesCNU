@@ -92,7 +92,7 @@ Readings should be done *before* class. This schedule is subject to change.
 
 ## Finals Week
 
-* Final Reflection blog post due
+* **Final Reflection blog post due**
 
 _____
 
