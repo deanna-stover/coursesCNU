@@ -141,13 +141,13 @@ All students must comply with safety protocols established by the university whi
 
 *	attend only the classes and sections in which they are officially enrolled;
 *	sit in their assigned seats or work at their assigned stations every class period;
-*	wear a CDC approved face covering at all times\*\ (face coverings should cover the nose and mouth, be secured under the chin, and fit snugly against the sides of the face);
+*	wear a CDC approved face covering at all times\* (face coverings should cover the nose and mouth, be secured under the chin, and fit snugly against the sides of the face);
 *	use additional personal protective equipment as required for specific classes;
 *	refrain from sharing personal materials, such as pens, textbooks, etc., with others; 
 *	follow all directional signs; and
 *	follow directives regarding office hours and advising appointments.
 
-*\*\Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.*  
+*\*Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.*  
 
 Because non-compliance potentially endangers others, faculty members:
 •	are authorized to instruct anyone in non-compliance with safety protocols to correct the non-compliance or immediately leave the instructional space; and
