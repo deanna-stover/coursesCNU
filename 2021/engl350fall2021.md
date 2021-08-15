@@ -150,8 +150,8 @@ All students must comply with safety protocols established by the university whi
 *\*Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.*  
 
 Because non-compliance potentially endangers others, faculty members:
-•	are authorized to instruct anyone in non-compliance with safety protocols to correct the non-compliance or immediately leave the instructional space; and
-•	may submit referrals to CHECS to report non-compliance with safety protocols.
+*	are authorized to instruct anyone in non-compliance with safety protocols to correct the non-compliance or immediately leave the instructional space; and
+*	may submit referrals to CHECS to report non-compliance with safety protocols.
 
 Faculty members may submit referrals through the Captain’s Care Program to report absences as a way of identifying students who may have become ill. It would be appropriate to do so when students have not attended class or communicated with the faculty member in any way for a period of one week or longer.
 
