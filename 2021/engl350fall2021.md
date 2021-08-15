@@ -128,26 +128,26 @@ If you do use an alias, please list your first name and last initial next to you
 Offering in-person instruction on campus requires everyone to take individual responsibility for reducing the risk of exposure for all campus community members both inside and outside the classroom. Irresponsible behavior jeopardizes not only your own health, but also that of your fellow students, friends, professors and advisors, and members of our staff. Therefore, you are expected to learn and diligently follow the safety protocols required by the University at all times. The following protocols apply specifically to instructional spaces and academic buildings.
 
 Prior to leaving their residence hall room or home, students should:
-•	conduct daily health screenings; and 
-•	pack CDC-approved face covering(s) 
+*	conduct daily health screenings; and 
+*	pack CDC-approved face covering(s) 
 
 Students cannot enter instructional spaces or academic buildings if they: 
-•	are experiencing symptoms of any illness, regardless of whether they believe the illness to be COVID-19;
-•	are in isolation while waiting for COVID–19 test results; 
-•	have been directed to quarantine by a University or health department official; or
-•	have been diagnosed with COVID-19 and have not been approved to return to campus by a healthcare provider.
+*	are experiencing symptoms of any illness, regardless of whether they believe the illness to be COVID-19;
+*	are in isolation while waiting for COVID–19 test results; 
+*	have been directed to quarantine by a University or health department official; or
+*	have been diagnosed with COVID-19 and have not been approved to return to campus by a healthcare provider.
 
 All students must comply with safety protocols established by the university while inside instructional spaces, common areas, and offices. These protocols are subject to change, but as of 16 August 2021 include: 
 
-•	attend only the classes and sections in which they are officially enrolled;
-•	sit in their assigned seats or work at their assigned stations every class period;
-•	wear a CDC approved face covering at all times* (face coverings should cover the nose and mouth, be secured under the chin, and fit snugly against the sides of the face);
-•	use additional personal protective equipment as required for specific classes;
-•	refrain from sharing personal materials, such as pens, textbooks, etc., with others; 
-•	follow all directional signs; and
-•	follow directives regarding office hours and advising appointments.
+*	attend only the classes and sections in which they are officially enrolled;
+*	sit in their assigned seats or work at their assigned stations every class period;
+*	wear a CDC approved face covering at all times\*\ (face coverings should cover the nose and mouth, be secured under the chin, and fit snugly against the sides of the face);
+*	use additional personal protective equipment as required for specific classes;
+*	refrain from sharing personal materials, such as pens, textbooks, etc., with others; 
+*	follow all directional signs; and
+*	follow directives regarding office hours and advising appointments.
 
-*Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.*  
+*\*\Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.*  
 
 Because non-compliance potentially endangers others, faculty members:
 •	are authorized to instruct anyone in non-compliance with safety protocols to correct the non-compliance or immediately leave the instructional space; and
