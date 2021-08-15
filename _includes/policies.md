@@ -24,41 +24,6 @@ The Center for Academic Success offers free tutoring assistance for Christopher 
 
 You may contact the Center for Academic Success to request a tutor, confer with a writing consultant, obtain a schedule of workshops, or make an appointment to talk with a staff member about study skills and strategies.   The Center is located in Christopher Newport Hall, first floor, room 123. You may email <academicsuccess@cnu.edu> or call (757) 594-7684. 
 
-## Safety Protocols Specific to COVID-19 and Academic Instruction:
-
-Offering in-person instruction on campus requires everyone to take individual responsibility for reducing the risk of exposure for all campus community members both inside and outside the classroom.   Irresponsible behavior jeopardizes not only your own health, but also that of your fellow students, friends, professors and advisors, and members of our staff.  Therefore, you are expected to learn and diligently follow the safety protocols required by the University at all times.  The following protocols apply specifically to instructional spaces and academic buildings.
-
-Prior to leaving their residence hall room or home, students should:
-* conduct daily health screenings; and 
-* pack cloth face covering(s), personal cleaning supplies, and related items for campus use.
-
-Students cannot enter instructional spaces or academic buildings if they: 
-* are experiencing symptoms of any illness, regardless of whether they believe the illness to be COVID-19;
-* have been exposed to someone with COVID-19;
-* are in isolation while waiting for COVID–19 test results; 
-* have been directed to quarantine by a University or health department official; or
-* have been diagnosed with COVID-19 and have not been approved to return to campus by a healthcare provider.
-
-All students must adhere to the following requirements while inside instructional spaces, common areas and offices:
-* attend only the classes and sections in which they are officially enrolled;
-* sit in their assigned seats or work at their assigned stations every class period;
-* wear a face covering at all times* (face coverings should cover the nose and mouth, be secured under the chin, and fit snugly against the sides of the face);
-* use additional personal protective equipment as required for specific classes;
-* maintain physical distancing of at least six feet from other people;  
-* disinfect their own work areas upon arrival in and prior to departure from the instructional space; 
-* refrain from sharing personal materials, such as pens, textbooks, etc., with others; 
-* refrain from bringing food and drinks into the instructional space; 
-* follow all directional signs; and
-* follow directives regarding office hours and advising appointments.
-
-*Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.* 
-
-Because non-compliance potentially endangers others, faculty members:
-* are authorized to instruct anyone in non-compliance with safety protocols to correct the non-compliance or immediately leave the instructional space; and
-* may submit referrals to CHECS to report non-compliance with safety protocols.
-
-Faculty should immediately notify the Vice President for Student Affairs, Kevin Hughes (<dosa@cnu.edu> or <kmhughes@cnu.edu>), if they become aware of a student who has sought a diagnostic test or who has been exposed.  In addition, faculty members may submit referrals through the Captain’s Care Program to report absences as a way of identifying students who may have become ill.  It would be appropriate to do so when students have not attended class or communicated with the faculty member in any way for a period of one week or longer.
-
 ## Course Materials:
 
 All content created and assembled by the faculty member and used in this course is to be considered intellectual property owned by the faculty member and Christopher Newport University. It is provided solely for the private use of the students currently enrolled in this course. To ensure the free and open discussion of ideas, students may not make available any of the original course content, including but not limited to lectures, discussions, videos, handouts, and/or activities, to anyone not currently enrolled in the course without the advance written permission of the instructor. This means that students may not record, download, screenshot, or in any way copy original course material for the purpose of distribution beyond this course. A violation may be considered theft.  It is the student’s responsibility to protect course material when accessing it outside of the physical classroom space.
