@@ -126,6 +126,41 @@ However, if you use an alias, please list your first name and last initial next 
 
 {% include policies.md %}
 
+## Safety Protocols Specific to COVID-19 and Academic Instruction:
+
+Offering in-person instruction on campus requires everyone to take individual responsibility for reducing the risk of exposure for all campus community members both inside and outside the classroom.   Irresponsible behavior jeopardizes not only your own health, but also that of your fellow students, friends, professors and advisors, and members of our staff.  Therefore, you are expected to learn and diligently follow the safety protocols required by the University at all times.  The following protocols apply specifically to instructional spaces and academic buildings.
+
+Prior to leaving their residence hall room or home, students should:
+* conduct daily health screenings; and 
+* pack cloth face covering(s), personal cleaning supplies, and related items for campus use.
+
+Students cannot enter instructional spaces or academic buildings if they: 
+* are experiencing symptoms of any illness, regardless of whether they believe the illness to be COVID-19;
+* have been exposed to someone with COVID-19;
+* are in isolation while waiting for COVID–19 test results; 
+* have been directed to quarantine by a University or health department official; or
+* have been diagnosed with COVID-19 and have not been approved to return to campus by a healthcare provider.
+
+All students must adhere to the following requirements while inside instructional spaces, common areas and offices:
+* attend only the classes and sections in which they are officially enrolled;
+* sit in their assigned seats or work at their assigned stations every class period;
+* wear a face covering at all times* (face coverings should cover the nose and mouth, be secured under the chin, and fit snugly against the sides of the face);
+* use additional personal protective equipment as required for specific classes;
+* maintain physical distancing of at least six feet from other people;  
+* disinfect their own work areas upon arrival in and prior to departure from the instructional space; 
+* refrain from sharing personal materials, such as pens, textbooks, etc., with others; 
+* refrain from bringing food and drinks into the instructional space; 
+* follow all directional signs; and
+* follow directives regarding office hours and advising appointments.
+
+*Students who have received an exemption from the face covering requirement for health reasons must present the proof of the exemption provided by the Office of Student Affairs to the instructor upon entering the instructional space.* 
+
+Because non-compliance potentially endangers others, faculty members:
+* are authorized to instruct anyone in non-compliance with safety protocols to correct the non-compliance or immediately leave the instructional space; and
+* may submit referrals to CHECS to report non-compliance with safety protocols.
+
+Faculty should immediately notify the Vice President for Student Affairs, Kevin Hughes (<dosa@cnu.edu> or <kmhughes@cnu.edu>), if they become aware of a student who has sought a diagnostic test or who has been exposed.  In addition, faculty members may submit referrals through the Captain’s Care Program to report absences as a way of identifying students who may have become ill.  It would be appropriate to do so when students have not attended class or communicated with the faculty member in any way for a period of one week or longer.
+
 _____
 
 I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it. 
