@@ -92,7 +92,7 @@ Readings should be done *before* class. This schedule is subject to change.
 
 ## Finals Week
 
-* **Final Reflection blog post due**
+* **Reflection blog post due Friday, December 10th between 8:00 and 10:30 am**
 
 _____
 
