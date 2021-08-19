@@ -99,7 +99,7 @@ _____
 
 Based on the reviews you read in preparation, write a review of a digital humanities project from the list I have provided on the Google Drive. You must *claim* a project by putting your name next to one of the options so that not everyone in class reviews the same project. Do this by **class on Monday, September 6th**. Make sure to pick something that other people have not yet claimed. 
 
-This blog should be **500-750 words**. Remember that you can be critical and still polite or appreciative but still evaluative.  
+This blog should be **600-750 words**. Remember that you can be critical and still polite or appreciative but still evaluative.  
 
 Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
@@ -120,7 +120,7 @@ _____
 
 # Coding
 
-In this blog, you'll write **300-500 words** explaining the process of coding our text and reflecting on the final outcome. This can be about the difficulties you faced or something interesting you found in the reading. You'll also explain any coding decisions you made. 
+In this blog, you'll write **400-600 words** explaining the process of coding our text and reflecting on the final outcome. This can be about the difficulties you faced or something interesting you found in the reading. You'll also explain any coding decisions you made. 
 
 Include ***at least* two images**, one of which shows your TEI on paper (what we did in the Google Doc!) and one of which shows your computer code (either the whole thing, or just a portion works since you'll also be submitting your code to me). You may also want to include a (cropped!) screenshot of your tweets over the course of the project!
 
@@ -148,7 +148,7 @@ _____
 
 # Review Two
 
-You will write another **500-750 word** review, but this time it will be on a project that you have found. Please "claim" your project on the Google Drive by **Friday, October 8th**. Please do not review a project that has already been reviewed in *Reviews in DH.* You also cannot choose a project from the Review One list I provided or a project covered in one of the sample reviews we read.
+You will write another **600-750 word** review, but this time it will be on a project that you have found. Please "claim" your project on the Google Drive by **Friday, October 8th**. Please do not review a project that has already been reviewed in *Reviews in DH.* You also cannot choose a project from the Review One list I provided or a project covered in one of the sample reviews we read.
 
 Some general guidelines: you must find and review a digital humanities *project*, not just an article or book on DH (even if those things are online!). You also want to think about the scale of the project; medium-sized projects are actually easier to review. Too small and you won't have enough to say; too big and you'll get overwhelmed. You might find a mapping project or a digital edition or really anything that qualifies as DH. A big tip? Look for something interactive in some way. If you're having trouble finding something or telling whether what you've found qualifies as DH, bring your issue up in class or visit me during Office Hours (well before the deadline, of course). 
 
@@ -171,7 +171,7 @@ _____
 
 # Reflection
 
-In this **600-850 word** blog, you'll be reflecting on the class.  
+In this **700-850 word** blog, you'll be reflecting on the class.  
 
 You need to have **at least two images** in your blog post. This can be one of your tweets, a mock-up from your grant, a project that inspired you from the course, or something else entirely! 
 
