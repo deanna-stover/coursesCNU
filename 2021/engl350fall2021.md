@@ -47,8 +47,8 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 15%
 Research Blogs | 5 over the course of the semester | 50%
-TEI (doesn't include blog post) <br /> | 2/26 | 10%
-Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 3/17 <br /> Finals Week (see schedule) | <br /> 5% <br /> 20%
+TEI (doesn't include blog post) <br /> | 10/03 | 10%
+Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 10/17 <br /> 12/03 | <br /> 5% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021/twitter)
 
