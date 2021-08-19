@@ -22,7 +22,7 @@ _____
   
   **course website:** [https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021](https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021)
 
-  **office hours:** MWF 10:00 - 11:30 am and by appointment
+  **office hours:** MWF 10:30 - 11:30 am and by appointment
   
   **office location:** McMurran 213
    
