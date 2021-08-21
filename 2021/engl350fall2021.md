@@ -86,7 +86,9 @@ _____
 
 # Schedule
 
-Readings should be done *before* class. This schedule is subject to change. 
+Readings should be done *before* class. This schedule is subject to change (thanks, COVID).
+
+Content Warning: some of the readings deal with sensitive topics that may make you uncomfortable. 
 
 {% include schedule.html %}
 
