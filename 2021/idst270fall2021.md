@@ -57,7 +57,7 @@ After reading about CNU and (if COVID scheduling allows) visiting the 60 Years o
 
 ## [Twine Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/twine)
 
-You will develop a Twine Game about a social issue related to CNU or college students more broadly. We'll learn some basic HTML and CSS for this, but don't worry! It will be fine! You'll also write a short essay describing the choices you made in your design as well as the research behind your Twine Game.  
+You will develop a Twine Game about a social issue related to CNU or college students more broadly. We'll learn some basic HTML and CSS for this (and maybe even some JavaScript--gasp!), but don't worry! It will be fine! You'll also write a short essay describing the choices you made in your design as well as the research behind your Twine Game.  
 
 ## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/reflection)
 
