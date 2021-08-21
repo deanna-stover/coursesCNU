@@ -6,7 +6,6 @@ _____
 **Percentage:** 5% (required)
 
 **Final Grant Deadline:** Friday, December 3rd at 11:59 pm
-
 **Percentage:** 20%
 
 _____
@@ -52,7 +51,7 @@ Remember, an Environmental Scan does **NOT** describe your project's effect on t
 
 You'll also be writing a Grant Narrative, so no need to describe every aspect of your project yet. Indeed, when you submit the entire grant, the Grant Narrative will come first in the packet. We are writing these out of order so that you get more familiar with the field before you make choices about your project. The Environmental Scan, then, is mostly about the research about your topic and the projects that already exist with just a little information about how your project will stand out amongst the crowd. So, keep in mind that when you submit your final grant proposal, I will already know quite a bit about your individual project before I even get to the Environmental Scan. 
 
-Your bibliography can include similar digital projects (for example, other maps about novels), but it should focus on scholarly peer-reviewed research about the topic. By this, I mean if you are pitching a digital edition of *Dracula*, you might have peer-reviewed articles about the novel and scholarship about creating digital editions. Then, secondarily, you might include other digital projects about *Dracula* and other digital editions on other texts that are similar to what you're imagining.
+Your bibliography can include similar digital projects (for example, other maps about novels), but it should focus on scholarly peer-reviewed research about the topic. By this, I mean if you are pitching a digital edition of a short story, you might have peer-reviewed articles about the story and scholarship about creating digital editions. Then, secondarily, you might include other digital projects about short stories and other digital editions of other texts that are similar to what you're imagining.
 
 To find this scholarship, you will want to combine the knowledge you learned through the library tutorials with other kinds of research through Google Scholar and Google. A lot of DH scholarship, such as the premier journal [*Digital Humanities Quarterly*](http://digitalhumanities.org/dhq/), is open-access and most easily found through a Google search. But do look at what the library has to offer as well.
 
