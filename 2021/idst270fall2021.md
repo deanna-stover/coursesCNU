@@ -85,6 +85,8 @@ _____
 
 Readings should be done *before* class. This schedule is subject to change (thanks, COVID). 
 
+Content Warning: some of the readings (especially the games) deal with sensitive topics. If you have serious concerns about your ability to read/play something, please talk to me. 
+
 {% include schedule.html %}
 
 ## Finals Week
