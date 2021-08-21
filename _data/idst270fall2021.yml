@@ -1,0 +1,20 @@
+---
+start: 2021-08-23
+end: 2021-12-03
+
+meets:
+  - monday
+  - wednesday
+  - friday
+  
+holidays:
+  - date: 2021-10-11
+    name: Fall Recess
+  - date: 2021-11-24
+    name: Thanksgiving Break
+  - date: 2021-11-26
+    name: Thanksgiving Break
+
+classes:
+  - |
+    * Just come to class!
