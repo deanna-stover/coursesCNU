@@ -61,7 +61,7 @@ After proposing a topic, you will develop a Twine Game about a social issue rela
 
 ## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/reflection)
 
-Based on your Media Journal and the feedback you receive from me, you will compile a polished final reflection on the course and DH more generally. 
+Based on your Media Journal and the feedback you receive from me, you will compile a polished final media reflection on the course and DH more generally. 
 
 ### Grading Scale
 
