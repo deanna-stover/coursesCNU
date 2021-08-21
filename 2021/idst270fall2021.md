@@ -34,7 +34,7 @@ _____
 
 ## Learning Objectives
 
-* 
+* Fill this in!
 
 _____
 
