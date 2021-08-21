@@ -24,9 +24,9 @@ _____
 
   **office hours:** MWF 10:30 - 11:30 am and by appointment
   
-  **office location:** McMurran 213
+  **office location:** McMurran 213 (virtual appointments also available - see Scholar for more information)
    
-   Office hours are your time to come talk to me about anything related (or unrelated) to class. This time is yours, I am not (supposed to be) doing anything else; you will not be interrupting me. If you have questions about class or have other questions I might be able to answer, please drop by.
+   Office hours are your time to come talk to me about anything related (or unrelated) to class. This time is yours, I am not (supposed to be) doing anything else; you will not be interrupting me. If you have questions about class or have other questions I might be able to answer, please drop by or schedule an appointment. 
    
 ## Course Description 
 
