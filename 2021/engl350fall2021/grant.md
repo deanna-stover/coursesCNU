@@ -5,7 +5,7 @@ _____
 **Abstract Deadline:** Sunday, October 17th at 11:59 pm <br />
 **Percentage:** 5% (required)
 
-**Final Grant Deadline:** Friday, December 3rd at 11:59 pm
+**Final Grant Deadline:** Friday, December 3rd at 11:59 pm <br />
 **Percentage:** 20%
 
 _____
