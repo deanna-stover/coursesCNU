@@ -43,19 +43,19 @@ _____
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Media Journal | 5 Check-Ins | 25% (5% each Check-In)
-Museum Assignment <br /> * Project Proposal <br /> * Presentation <br /> * Final Project | <br /> 9/19 <br /> 10/04 or 10/06 <br /> 10/08 | <br /> 5% <br /> 5% <br /> 20%
-Twine Assignment <br /> * Proposal <br /> * Game and Essay | <br /> 10/22 <br /> 11/22 | <br /> 5% <br /> 30% (Game = 20%, Essay = 10%)
+Museum Project <br /> * Project Proposal <br /> * Presentation <br /> * Final Project | <br /> 9/19 <br /> 10/04 or 10/06 <br /> 10/08 | <br /> 5% <br /> 5% <br /> 20%
+Twine Project <br /> * Proposal <br /> * Game and Essay | <br /> 10/22 <br /> 11/22 | <br /> 5% <br /> 30% (Game = 20%, Essay = 10%)
 Final Reflection | Finals Week (see schedule) | 10%
 
 ## [Media Journal](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/media-journal)
 
 You will be writing media journal entries (a combination of links, images, text, etc.) using Wakelet based on things we do in and out of class. There will be five due dates throughout the semester. 
 
-## [Museum Assignment](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/museum)
+## [Museum Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/museum)
 
 After reading about CNU and (hopefully!) visiting the 60 Years of Significance historical exhibition, you will propose and then create an analog or digital artifact that thinks critically about the history and/or current state of CNU.  
 
-## [Twine Assignment](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/twine)
+## [Twine Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/twine)
 
 After proposing a topic, you will develop a Twine Game about a social issue related to CNU or college students more broadly. We'll learn some basic HTML and CSS for this, but don't worry! It will be fine!  
 
