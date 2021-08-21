@@ -53,7 +53,7 @@ You will be writing media journal entries (a combination of links, images, text,
 
 ## [Museum Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/museum)
 
-After reading about CNU and (hopefully!) visiting the 60 Years of Significance historical exhibition, you will propose and then create an analog or digital artifact that thinks critically about the history and/or current state of CNU.  
+After reading about CNU and (if COVID scheduling allows) visiting the 60 Years of Significance historical exhibition, you will propose and then create an analog or digital artifact that thinks critically about the history and/or current state of CNU.  
 
 ## [Twine Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/twine)
 
