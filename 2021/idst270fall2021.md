@@ -53,11 +53,11 @@ You will be writing media journal entries (a combination of links, images, text,
 
 ## [Museum Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/museum)
 
-After reading about CNU and (if COVID scheduling allows) visiting the 60 Years of Significance historical exhibition, you will propose and then create an analog or digital artifact that thinks critically about the history and/or current state of CNU.  
+After reading about CNU and (if COVID scheduling allows) visiting the 60 Years of Significance historical exhibition, you will create an analog or digital artifact that thinks critically about the history and/or current state of CNU. 
 
 ## [Twine Project](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/twine)
 
-After proposing a topic, you will develop a Twine Game about a social issue related to CNU or college students more broadly. We'll learn some basic HTML and CSS for this, but don't worry! It will be fine! You'll also write a short essay describing the choices you made in your Twine Game.   
+You will develop a Twine Game about a social issue related to CNU or college students more broadly. We'll learn some basic HTML and CSS for this, but don't worry! It will be fine! You'll also write a short essay describing the choices you made in your design as well as the research behind your Twine Game.  
 
 ## [Final Reflection](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021/reflection)
 
