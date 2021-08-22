@@ -28,6 +28,7 @@ Some examples of possible analog materials (but this list is not exhaustive!)
 * Printed photographs
 * Woodworking (but please be careful!) 
 * Other art installations (both big and small)
+* A zine of some kind
 
 Some examples of possible digital artifacts (but this list is not exhaustive!)
 * Interactive maps of CNU or Hampton Roads, maybe using [StoryMap JS](https://storymap.knightlab.com/) or [ThingLink](https://www.thinglink.com/en-us/) (note that ThingLink might be used for a myriad of interactive digital images, not just maps)
