@@ -18,7 +18,7 @@ _____
 
 ## Assignment Breakdown
 
-You will be writing a **1000-1250 word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll post in Scholar) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
+You will be writing a **750+ word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll post in Scholar) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
 
 Here are some questions to get you started (but feel free to reflect on anything about the course--and use your Media Journal to guide you!):
 
