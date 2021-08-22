@@ -5,6 +5,8 @@ _____
 **Proposal Deadline:** Friday, October 22nd by 11:59 pm <br />
 **Percentage:** 5% (required)
 
+**Meetings with Me:** Week 11
+
 **Peer Review (#1)** Friday, November 12th (Twine Game and Essay Outline)
 
 **Peer Review (#2)** Friday, November 19th (Twine Game and Essay Draft)
