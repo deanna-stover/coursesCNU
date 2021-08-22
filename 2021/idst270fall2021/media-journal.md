@@ -44,6 +44,8 @@ _____
 * **Accurately follows guidelines** for in-class and out-of-class prompts
 
 * Balances the use of **media and text** to catalogue the class
+
+* Takes advantage of and **customizes** the Wakelet platform 
   
 * **Thinks critically** about the journal prompts instead of simply stating feelings or facts
 
