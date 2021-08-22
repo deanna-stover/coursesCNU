@@ -171,7 +171,7 @@ _____
 
 # Reflection
 
-In this **700-850 word** blog, you'll be reflecting on the class.  
+In this **750-850 word** blog, you'll be reflecting on the class.  
 
 You need to have **at least two images** in your blog post. This can be one of your tweets, a mock-up from your grant, a project that inspired you from the course, or something else entirely! 
 
