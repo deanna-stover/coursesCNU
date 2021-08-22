@@ -9,7 +9,8 @@ _____
 
 **Showcase:** Wednesday, October 6th (in-class)
 
-**Final Museum Project Due:** Friday, October 8th by the end of our normal class period (no class)
+**Final Museum Project Due:** Friday, October 8th by the end of our normal class period (no class) <br />
+**Percentage:** 20%
 
 _____
 
