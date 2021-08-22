@@ -34,7 +34,10 @@ _____
 
 ## Learning Objectives
 
-* Fill this in!
+* Gain a basic understanding of the Digital Humanities and Critical Making
+* Improve ability to communicate effectively using digital and analog media
+* Learn how to adapt to new technologies
+* Enhance critical thinking skills
 
 _____
 
