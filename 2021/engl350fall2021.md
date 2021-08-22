@@ -39,6 +39,8 @@ _____
 * Learn how to apply course materials to improve critical thinking, problem solving, and decision making 
 * Practice expressing oneself professionally and use feedback to improve writing
 
+According to a study of US employers conducted by the American Association of Colleges and Universities, 93% of the employers surveyed agree that “a candidate’s demonstrated capacity to think critically, communicate clearly, and solve complex problems is more important than their undergraduate major.” Some of the most highly valued skills include: digital literacy, the ability to analyze and interpret data, creative thinking, and the ability to communicate through writing. This course addresses all of these topics, and will provide you with transferable skills to take into the workforce (or graduate school), no matter your major(s) or minor(s)--but do consider the DH minor if you haven't already.
+
 _____
 
 # Assignments
