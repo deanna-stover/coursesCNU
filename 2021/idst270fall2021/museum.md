@@ -22,9 +22,10 @@ So, what is "critical making"? A term popularized by Matt Rotto, it is essential
 This is about taking data (broadly defined) and visualizing it in some way. Note that data doesn't have to mean numbers, but it certainly can. The point is, you're able to see (perhaps even touch!) data in some way. 
 
 Some examples of possible analog materials (but this list is not exhaustive!)
-* Embroidery and other fiber arts
+* Embroidery and other fiber arts (knitting, crochet, felt, etc.)
 * Colored pencils/paint/watercolors
 * Printed photographs
+* Woodworking (but please be careful!) 
 * Other art installations (both big and small)
 
 Some examples of possible digital artifacts (but this list is not exhaustive!)
@@ -50,7 +51,9 @@ Your proposal should be **300 words** and explain both your topic and why visual
 
 ### Final Museum Project - Friday, October 8th by end of class period
 
-There is no writing component to your project except for what is necessary to understand your data visualization. 
+There is no writing component to your project except for what is necessary to understand your data visualization, but do make sure I can understand what you're trying to present! That may mean you need to develop a "key" for an embroidery project, for instance. 
+
+This is a creative project, so it's hard to give definitive guidelines. When I give you feedback on your proposal and when we meet in Week 5, I will give you more guidance as to what you personally should be doing. 
 
 _____
 
@@ -63,11 +66,25 @@ _____
 
 ## Evaluation Criteria
 
+### - Museum Proposal
+
+* **Follows guidelines** (300 words, a data visualization of some kind)
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility 
+
+
 ### - Museum Project
 
-* 
+* Relates to *approved* proposal -- so, it's **on topic**
 
+* **Takes advantage of the medium** in which you choose to create your critical making project
 
+* Shows **professionalism** -- i.e. that you took this assignment seriously
 
+* **Accurately follows guidelines** we discuss during our meeting in Week 5 and in any feedback I give to you about your proposal
 
+* (When appropriate) utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
+_____
+
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2021/idst270fall2021) 
