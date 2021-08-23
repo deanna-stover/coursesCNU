@@ -118,14 +118,6 @@ Because we will be working a lot with technology, you should expect to spend tim
 
 For each day an assignment is late, I will be subtracting five points. That said, if you need an extension, please do reach out to me before the deadline! Life gets complicated sometimes, especially right now. I'm happy to work with you! Just make sure you're talking to me *before* things are due. 
 
-## FERPA:
-
-The Family Educational Records and Privacy Act gives you a right to privacy in this class. In addition to governing where I can and cannot discuss grades and to whom I can disclose information about your class participation, FERPA also implies that I cannot force you to publicly disclose that you are a student in this class.
-
-This means that if you choose to use your real name on your course blog (and as your GitHub account name) or on Twitter, you are waiving that portion of your FERPA rights and disclosing that you are a member of this class. If you would prefer to post using an alias or a handle for the blogging and tweeting portions of this course, you are protecting your right to privacy and are more than welcome to do so.
-
-If you do use an alias, please list your first name and last initial next to your Twitter handle and blog link in our class Google Drive so I know who you are.
-
 {% include policies.md %}
 
 ## Safety Protocols Specific to COVID-19 and Academic Instruction:
