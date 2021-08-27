@@ -42,7 +42,7 @@ _____
 
 # About Me
 
-You will write **500-700 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the FERPA notice on the syllabus). If you go over the word limit, that's fine! But try and be concise. 
+You will write **400-600 words** describing your academic self (with enough about the personal that makes you feel comfortable, keeping in mind the FERPA notice on the syllabus). If you go over the word limit, that's fine! But try and be concise. 
 
 You should include ***at least* one image** and ***at least* five other instances of [markdown](https://www.markdowntutorial.com/)** to format your posts, whether that's inserting links or simply emphasizing words.
 
