@@ -16,7 +16,7 @@ _____
 
 ## General Overview
 
-After reading Phillip Hamilton's *Serving the Old Dominion: A History of Christopher Newport University, 1958-2011* and (if COVID allows) visiting CNU's 60 Years of Significance historical exhibition, you will propose and then complete an analog or digital project related to CNU's history or its present. Basically, we are "remixing" the museum with creative, critical making projects.
+After reading Phillip Hamilton's *Serving the Old Dominion: A History of Christopher Newport University, 1958-2011* and (if COVID allows) visiting CNU's 60 Years of Significance historical exhibition, you will propose and then complete an analog or digital project related to CNU's history or its present alongside a 1-2 page explanation of the project. Basically, we are "remixing" the museum with creative, critical making projects.
 
 So, what is "critical making"? A term popularized by Matt Rotto, it is essentially the combination of critical thinking with making things. Although this is often digital in DH, there's been a big push to visualize data in material ways as well. Because of this, I'm allowing you to create a digital OR physical artifact. Please be as creative as you can! 
 
@@ -51,11 +51,15 @@ Your proposal should be **300 words** and explain both your topic and why visual
 
 *I will not accept the other portions of this assignment until your proposal has been approved.* 
 
+Note that you can change topics and/or materials after the proposal, but I must approve these changes. 
+
 ### Final Museum Project - Friday, October 8th by end of class period
 
-There is no writing component to your project except for what is necessary to understand your data visualization, but do make sure I can understand what you're trying to present! That may mean you need to develop a "key" for an embroidery project, for instance. 
-
 This is a creative project, so it's hard to give definitive guidelines. When I give you feedback on your proposal and when we meet in Week 5, I will give you more guidance as to what you personally should be doing. 
+
+However, alongside your creative project, you will write a 1-2 page (double-spaced) explanation of the piece. This should provide adequate context for your creative work and show how it is, as Kathleen Fitzpatrick discusses, "critically aware." You may need to cite Hamilton's book, for instance, if you borrowed information from him or even cite the museum exhibit we will (hopefully) see. But it should discuss the choices you made as you developed your project and help me understand the project as a whole and how it visualizes data in some way. 
+
+Note that depending on your project, you might have additional materials. For instance, an embroidery project might also include a "Key" or "Legend" on the side. These materials shouldn't take up too much extra time but are critical for viewers to interpret your project. 
 
 _____
 
@@ -75,7 +79,7 @@ _____
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility 
 
 
-### - Museum Project
+### - Museum Project (and Explanation) 
 
 * Relates to *approved* proposal -- so, it's **on topic**
 
@@ -83,9 +87,9 @@ _____
 
 * Shows **professionalism** -- i.e. that you took this assignment seriously
 
-* **Accurately follows guidelines** we discuss during our meeting in Week 5 and in any feedback I give to you about your proposal
+* **Accurately follows guidelines** we discuss during our meeting in Week 5 and in any feedback I give to you about your proposal; the explanation is also 1-2 pages double-spaced
 
-* (When appropriate) utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 _____
 
