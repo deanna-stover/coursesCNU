@@ -48,7 +48,7 @@ _____
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Media Journal | 5 Check-Ins | 25% (5% each Check-In)
-Museum Project <br /> * Proposal <br /> * Final Project | <br /> 9/19 <br /> 10/08 | <br /> 5% <br /> 20%
+Museum Project <br /> * Proposal <br /> * Final Project | <br /> Week 5 <br /> 10/08 | <br /> 5% <br /> 20%
 Twine Project <br /> * Proposal <br /> * Game <br /> * Essay | <br /> 10/22 <br /> 11/22 <br /> 11/22 | <br /> 5% <br /> 20% <br /> 15%
 Final Reflection | Finals Week (see schedule) | 10%
 
