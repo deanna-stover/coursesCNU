@@ -198,7 +198,7 @@ _____
 
 ## How to Submit
 
-To find the URL for your blog, you'll need to go to Settings on GitHub, scroll down to "GitHub Pages", click the link, and then find your post. Once you've done that, simply copy and paste what is in the browser bar. 
+To find the URL for your blog, you'll need to go to Settings on GitHub, scroll down to "GitHub Pages", click the link, and then find your post. Once you've done that, simply copy and paste what is in the browser bar.
 
 Your URL should start with something like this: https://deanna-stover.github.io/ **NOT** like this: https://github.com/deanna-stover/
 
