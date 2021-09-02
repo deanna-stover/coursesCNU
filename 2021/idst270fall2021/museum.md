@@ -2,7 +2,7 @@
 
 _____
 
-**Proposal Due:** Week 5 - turn in your proposal by 11:59 pm the night before our scheduled meeting <br />
+**Proposal Due:** Tuesday, September 21st by 11:59 pm <br />
 **Percentage:** 5%
 
 **Meetings with Me:** Week 5
@@ -45,7 +45,7 @@ _____
 
 ## Assignment Breakdown
 
-### Proposal - Week 5 - turn in your Proposal by 11:59 pm the night before our scheduled meeting
+### Proposal - Tuesday, September 21st by 11:59 pm
 
 Your proposal should be **300 words** and explain both your topic and why visualizing that data is important. The "so what?" as it were. 
 
