@@ -101,7 +101,7 @@ Based on the reviews you read in preparation, write a review of a digital humani
 
 This blog should be **600-750 words**. Remember that you can be critical and still polite or appreciative but still evaluative.  
 
-Include ***at least* one image** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
+Include ***at least* two images** of the project you're reviewing. But if your project is extra complex, remember, you may need more.
 
 **Tip**: Check out the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH* to get some more ideas for what a review entails. And do pay attention in class--we'll go over more tips and tricks! 
 
