@@ -47,7 +47,7 @@ _____
 
 ### Proposal - Tuesday, September 21st by 11:59 pm
 
-Your proposal should be **300 words** and explain both your topic and why visualizing that data is important. The "so what?" as it were. 
+Your proposal should be **300 words** and explain both your topic and why visualizing that data is important. The "so what?" as it were. Finally, your proposal should address how you're going to find the data you need (the Hamilton book, the CNU data repositories I showed in class, etc.). 
 
 *I will not accept the other portions of this assignment until your proposal has been approved.* 
 
