@@ -74,7 +74,7 @@ _____
 
 ### - Museum Proposal
 
-* **Follows guidelines** (300 words, a data visualization of some kind)
+* **Follows guidelines** (300 words that describes a data visualization of some kind, the "so what?", and how you're going to get the data)
 
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility 
 
