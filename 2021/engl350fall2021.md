@@ -49,7 +49,7 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 15%
 Research Blogs | 5 over the course of the semester | 50%
-TEI (doesn't include blog post) <br /> | 10/03 | 10%
+CNU Project (doesn't include blog post) <br /> | 10/03 | 10%
 Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 10/17 <br /> 12/03 | <br /> 5% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021/twitter)
@@ -60,9 +60,9 @@ You will be responsible for tweeting three times per week (see prompt) and submi
 
 You will write five (5) research blog posts over the course of the semester using GitHub/Jekyll.
 
-## [TEI](https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021/tei)
+## [CNU Project](https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021/cnu)
 
-You will do some basic coding--specifically, TEI (Text Encoding Initiative), a kind of XML (Extensible Markup Language). Don't worry! It will be fine! 
+You will create a digital map of *your* CNU.
 
 ## [Grant](https://deanna-stover.github.io/coursesCNU/2021/engl350fall2021/grant)
 
