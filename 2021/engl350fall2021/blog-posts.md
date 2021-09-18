@@ -8,7 +8,7 @@ _____
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[Review One Blog](#review-one)**:  
-**Peer Review**: Wednesday, September 15th (in class)
+<br /> **Peer Review**: Wednesday, September 15th (in class)
 <br /> **Blog Post Due**: Sunday, September 19th at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
