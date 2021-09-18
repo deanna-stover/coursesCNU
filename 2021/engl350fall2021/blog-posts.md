@@ -12,7 +12,7 @@ _____
 <br /> **Blog Post Due**: Sunday, September 19th at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[CNU Blog](#CNU)**: 
+**[CNU Blog](#cnu)**: 
 **Peer Review**: Wednesday, September 29th (in class)
 <br /> **Blog Post Due**: Sunday, October 3rd at 11:59 pm
 <br /> **Percentage**: 10%
@@ -119,7 +119,7 @@ Project URL
 
 _____
 
-# CNU
+# cnu
 
 In this blog, you'll write **400-600 words** about the CNU assignment. 
 
