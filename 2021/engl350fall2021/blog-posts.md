@@ -119,7 +119,7 @@ Project URL
 
 _____
 
-# cnu
+# CNU
 
 In this blog, you'll write **400-600 words** about the CNU assignment. 
 
