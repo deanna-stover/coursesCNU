@@ -7,13 +7,13 @@ _____
 <br /> **Blog Post Due**: Sunday, September 5th at 11:59 pm 
 <br /> **Percentage**: 10%
 <br /> <br/>
-**[Review One Blog](#review-one)**:  
+**[Review One Blog](#review-one)**: 
 <br /> **Peer Review**: Wednesday, September 15th (in class)
 <br /> **Blog Post Due**: Sunday, September 19th at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[CNU Blog](#cnu)**: 
-**Peer Review**: Wednesday, September 29th (in class)
+<br /> **Peer Review**: Wednesday, September 29th (in class)
 <br /> **Blog Post Due**: Sunday, October 3rd at 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
