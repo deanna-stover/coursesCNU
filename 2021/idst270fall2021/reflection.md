@@ -18,7 +18,7 @@ _____
 
 ## Assignment Breakdown
 
-You will be writing a **750+ word** reflection. When you’re done, **share your Collection** (create a shareable link you’ll post in Scholar) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
+You will be writing a **750+ word** reflection with **at least 5 images**. When you’re done, **share your Collection** (create a shareable link you’ll post in Scholar) *and* **export to PDF** (to submit via Scholar) by our Finals time slot.
 
 Here are some questions to get you started (but feel free to reflect on anything about the course--and use your Media Journal to guide you!):
 
@@ -29,6 +29,8 @@ Here are some questions to get you started (but feel free to reflect on anything
 * What assignments/Media Journal prompts did you enjoy and/or struggle with? Why? Were they helpful in better understanding DH and its many complexities? Why or why not?
 
 * Do you think you've grown as a writer? As a reader? As a student? As a digital humanist?
+
+As for the five images, think about what most represents this course and your interest in it. Think about how they fit in your narrative. Place them accordingly (so, integrate any images into the text). 
 
 ### What you should NOT do
 
@@ -47,6 +49,8 @@ I will be subtracting 5 points for every day your assignment is late unless you'
 _____
 
 ## Evaluation Criteria
+
+* **Follows instructions**, meaning 750+ words with at least 5 images
 
 * Uses adequate **textual evidence** (direct quotations, summaries, paraphrased passages) from the readings and your Media Journal entries from the course
 
