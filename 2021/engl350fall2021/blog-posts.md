@@ -177,6 +177,14 @@ Keep in mind the following:
 
 * Organize your writing. You may do this chronologically or topic-based, for instance. 
 
+### What you should NOT do
+
+* Please don't mention your grades. It's not necessary and it puts you in a vulnerable spot. Instead, you can talk about how an assignment was difficult for you or how much fun you had doing a certain project. No grades. It's just not worth it and it puts both of us in a weird position.
+
+* Please don't quote my feedback. That's something personal between the two of us. You can, however, talk about how my feedback was helpful as you moved forward or how you felt that you needed more guidance at a particular point. 
+
+* This isn't a rant or a time to gloat. If you had problems with the class, you can discuss *why*, but save a lot of that for your reviews of me and the course. You can be critical of readings, of course, and you can discuss frustrations, but please don't, well, *rant*. On the other hand, if you loved a particular assignment or the course as a whole, that's great (really great!), but think critically about it too. What worked for you and what didn't? 
+
 _____
 
 ## How to Submit
