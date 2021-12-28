@@ -1,4 +1,4 @@
-# Syllabus - ENGL 350 - Fall 2021
+# Syllabus - ENGL 350 - Spring 2022
 
 ## Writing for the Digital Humantiies
 
