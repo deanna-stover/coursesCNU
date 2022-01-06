@@ -50,7 +50,7 @@ Assignment | Due Date | Percentage
 Twitter Posts | Weekly | 15%
 Research Blogs | 3 over the course of the semester | 30%
 TEI Project (doesn't include blog post) <br /> | 3/20 | 5%
-Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Full Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> 4/25 | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
+Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Full Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> Finals | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/twitter)
 
