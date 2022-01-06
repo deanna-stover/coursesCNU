@@ -49,8 +49,9 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 15%
 Research Blogs | 5 over the course of the semester | 50%
-CNU Project (doesn't include blog post) <br /> | 10/03 | 10%
-Grant <br /> * Project Abstract <br /> * Full Grant | <br /> 10/17 <br /> 12/03 | <br /> 5% <br /> 20%
+CNU Project (doesn't include blog post) <br /> | 2/20 | 5%
+TEI Project (doesn't include blog post) <br /> | 3/20 | 5%
+Grant <br /> * Project Ideas <br /> * Full Grant | <br /> 3/13 <br /> 4/25 | <br /> 5% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/twitter)
 
@@ -64,9 +65,13 @@ You will write five (5) research blog posts over the course of the semester usin
 
 You will create a digital map of *your* CNU.
 
+## [TEI Project](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/tei)
+
+You will encode a short passage of Bram Stoker's "Dracula's Guest."
+
 ## [Grant](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/grant)
 
-After I approve your project abstract, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
+After I approve on of your project ideas, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
 
 ### Grading Scale
 
@@ -96,7 +101,7 @@ Content Warning: some of the readings deal with sensitive topics.
 
 ## Finals Week
 
-* **Reflection blog post due Friday, December 10th between 8:00 and 10:30 am**
+* **Reflection blog post due during the Finals Time Slot (TBD).**
 
 _____
 
@@ -105,7 +110,7 @@ _____
 
 ## A Note on Covid-19 and Attendance:
 
-I want you to be in class, but I also understand that COVID-19 and everything that goes along with it (mental health, for one) are going to make this semester especially difficult. And, of course, life goes on so there is always the possibility of 2021 sending even more curve balls our way. Because of this, I won't have an attendance policy, *but* (and this is a big BUT), if you aren't present two class days in a row, I will be checking in on you. I want to know you're okay.
+I want you to be in class, but I also understand that COVID-19 and everything that goes along with it (mental health, for one) are going to make this semester especially difficult. And, of course, life goes on so there is always the possibility of 2022 sending even more curve balls our way. Because of this, I won't have an attendance policy, *but* (and this is a big BUT), if you aren't present two class days in a row, I will be checking in on you. I want to know you're okay.
 
 And, while there's no strict attendance policy, not coming to class will likely affect your grade. We'll be discussing important topics in class and going over assignments, so without it, you may struggle. This is all to say, *please* come to class if you can. However, if you feel ill in any way, it is imperative that you stay home. Please don't put your classmates or me at risk. 
 
