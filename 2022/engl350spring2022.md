@@ -48,10 +48,9 @@ _____
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 15%
-Research Blogs | 4 over the course of the semester | 40%
-CNU Project (doesn't include blog post) <br /> | 2/20 | 5%
+Research Blogs | 3 over the course of the semester | 30%
 TEI Project (doesn't include blog post) <br /> | 3/20 | 5%
-Grant <br /> * Project Ideas <br /> * First Draft <br /> * Full Grant | <br /> 3/13 <br /> 4/10 <br /> 4/25 | <br /> 5% <br /> 10% <br /> 20%
+Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Full Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> 4/25 | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/twitter)
 
@@ -59,7 +58,7 @@ You will be responsible for tweeting three times per week (see prompt) and submi
 
 ## [Research Blog Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/blog-posts)
 
-You will write four (4) research blog posts over the course of the semester using GitHub/Jekyll.
+You will write three (3) research blog posts over the course of the semester using GitHub/Jekyll.
 
 ## [CNU Project](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/cnu)
 
