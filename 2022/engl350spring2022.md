@@ -66,7 +66,7 @@ You will encode a short passage of Bram Stoker's "Dracula's Guest."
 
 ## [Grant](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/grant)
 
-After I approve on of your project ideas, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
+After I approve one of your project ideas, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
 
 ### Grading Scale
 
