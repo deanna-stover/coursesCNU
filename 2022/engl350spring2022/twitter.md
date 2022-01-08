@@ -3,7 +3,7 @@
 _____
 
 **Tweets Due:** Weekly on Fridays by 11:59 pm (except for Week 16, when ONE tweet is due on Monday)<br />
-**Percentage:** 15% <br />
+**Percentage:** 10% <br />
 
 _____
 
@@ -75,9 +75,7 @@ _____
 * I will grade your tweets as pass/fail each week 
   * If you don't submit *at least three* tweets total (including one reply/retweet with comment), you get a 0 for the week (except, of course, in weeks 1 and 16).
   * If you submit three tweets but they are UNsubstantial (see below), you may receive a 0 for the week.
-  * Again, please tweet *throughout* the week as readings are assigned (so, before class). If I only see you posting during/after class, I reserve the right to give you a 0.
-
-Each week amounts to 1% of your final grade in the course. It doesn't seem like much, but it adds up! 
+  * Again, please tweet *throughout* the week as readings are assigned (so, before class). If I only see you posting during/after class, I reserve the right to give you a 0. 
 
 _____
 
