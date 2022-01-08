@@ -21,13 +21,13 @@ _____
 <br /> **Blog Post Due**: Finals Week (see schedule)
 <br /> **Percentage**: 10%
 <br /> <br />
-**Total Percentage**: 30%
+**Total Percentage**: 40%
 
 _____
 
 ## General Overview
 
-You will write three *research* blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete [my tutorial](https://deanna-stover.github.io/coursesCNU/github). 
+You will write four *research* blog posts over the course of the semester using GitHub/Jekyll. To get started, make sure you complete [my tutorial](https://deanna-stover.github.io/coursesCNU/github). 
 
 We'll be doing several different kinds of posts on the blog, the details for which are below, but keep in mind that this is a *research* blog, so keep your tone professional (rather than informal) throughout. (That doesn't mean you can't have fun--just be aware of the context and audience.) 
 
