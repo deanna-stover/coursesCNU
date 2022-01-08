@@ -47,10 +47,10 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
-Twitter Posts | Weekly | 15%
-Research Blogs | 3 over the course of the semester | 30%
-TEI Project (doesn't include blog post) <br /> | 2/20 | 10%
-Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Final Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> Finals | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
+Twitter Posts | Weekly | 10%
+Research Blogs | 4 over the course of the semester | 40%
+TEI Project (doesn't include blog post) <br /> | 2/20 | 5%
+Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Final Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> 4/25 | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/twitter)
 
@@ -58,7 +58,7 @@ You will be responsible for tweeting three times per week (see prompt) and submi
 
 ## [Research Blog Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/blog-posts)
 
-You will write three (3) research blog posts over the course of the semester using GitHub/Jekyll.
+You will write four (4) research blog posts over the course of the semester using GitHub/Jekyll.
 
 ## [TEI Project](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/tei)
 
@@ -66,7 +66,7 @@ You will encode a short passage of Bram Stoker's "Dracula's Guest."
 
 ## [Grant](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/grant)
 
-After I approve one of your project ideas, you will write a small grant for a digital humanities project of your design. You will have the option to work in groups of two for this project. 
+After I approve one of your project ideas, you will write a small grant for a digital humanities project of your design.
 
 ### Grading Scale
 
@@ -96,7 +96,10 @@ Content Warning: some of the readings deal with sensitive topics.
 
 ## Finals Week
 
-* **Final Grant due during the Finals Time Slot (TBD).**
+* **Reflection Blog Post due during Finals Time Slot.**
+
+10:00 - 10:50: Wednesday, April 27th by 1:30 pm
+11:00 - 11:50: Monday, May 2nd by 1:30 pm
 
 _____
 
