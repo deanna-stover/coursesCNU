@@ -20,7 +20,7 @@ _____
 
   **email:** deanna.stover@cnu.edu 
   
-  **course website:** [https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022)
+  **course website:** [https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022)
 
   **office hours:** MWF 12:30 - 1:30 pm and by appointment
   
