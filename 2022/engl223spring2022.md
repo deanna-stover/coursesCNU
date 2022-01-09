@@ -52,23 +52,23 @@ Assignment | Due Date | Percentage
 Journals | 4 Check-Ins | 20% (5% per Check-In)
 Play Trailer Project <br /> Play Trailer/Close Reading <br /> * Play Trailer Presentation | <br /> 1/28 <br /> Week 4 | <br /> 10% <br /> 5%
 Fishbowl | Week 7 | 10%
-Research Paper <br /> * Three Questions <br /> * Annotated Bibliography <br /> * First Draft <br /> * Peer Review <br /> * Final Draft | <br /> 3/18 <br /> 4/1 <br /> 4/15 <br /> 4/18 <br /> Finals | <br /> 5% <br /> 10% <br /> 15% <br /> 5% <br /> 20%
+Research Paper <br /> * Three Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Peer Review <br /> * Final Draft | <br /> 3/18 <br /> 4/1 <br /> 4/15 <br /> 4/18 <br /> Finals | <br /> 5% <br /> 10% <br /> 15% <br /> 5% <br /> 20%
 
 ## [Journals](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/journal)
 
-You will be responsible for tweeting three times per week (see prompt) and submitting those tweets to me weekly.
+You will be responsible for keeping a journal based on in- and out-of-class activities. This journal will be collected (and graded) four times.
 
 ## [Play Trailer Project](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/trailer)
 
-You will write four (4) research blog posts over the course of the semester using GitHub/Jekyll.
+You will pick one of the suffrage plays we read for class and develop a "trailer," write a short close reading, and present on your creation. 
 
 ## [Fishbowl](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/fishbowl)
 
-You will encode a short passage of Bram Stoker's "Dracula's Guest."
+You will sign up for a scholarly article and, in groups of 4-5, discuss the article in front of the class. You will also turn in an annotated version of the article and the discussion questions you brought to class.
 
 ## [Research Paper](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/paper)
 
-After I approve one of your project ideas, you will write a small grant for a digital humanities project of your design.
+After I approve one of your paper ideas, you will work on developing a polished and thoughtful research paper about British Suffragettes.  
 
 ### Grading Scale
 
@@ -109,7 +109,7 @@ _____
 
 I want you to be in class, but I also understand that COVID-19 and everything that goes along with it (mental health, for one) are going to make this semester especially difficult. And, of course, life goes on so there is always the possibility of 2022 sending even more curve balls our way. Because of this, I won't have an attendance policy, *but* (and this is a big BUT), if you aren't present two class days in a row, I will be checking in on you. I want to know you're okay.
 
-And, while there's no strict attendance policy, not coming to class will likely affect your grade. We'll be discussing important topics in class and going over assignments, so without it, you may struggle. This is all to say, *please* come to class if you can. However, if you feel ill in any way, it is imperative that you stay home. Please don't put your classmates or me at risk. 
+And, while there's no strict attendance policy, not coming to class will affect your grade. We'll be discussing important topics in class and going over assignments as well as completing in-class prompts, so without coming to class, you will struggle. This is all to say, *please* come to class if you can. However, if you feel ill in any way, it is imperative that you stay home. Please don't put your classmates or me at risk. 
 
 ## Technology:
 
