@@ -98,8 +98,7 @@ Content Warning: some of the readings deal with sensitive topics.
 
 ## Finals Week
 
-* **10:00 - 10:50 class**: Reflection blog post due *Wednesday, April 27th by 1:30 pm*
-* **11:00 - 11:50 class**: Reflection blog post due *Monday, May 2nd by 1:30 pm*
+* **Final Draft due Wednesday, April 27th by 7:30 pm** 
 
 _____
 
