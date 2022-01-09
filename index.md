@@ -13,4 +13,4 @@
   * [Spring 2022](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022) - 2 sections
 
 * Second-Year Writing (ENGL 223)
-  * [Spring 2022] - 1 section
+  * [Spring 2022](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022) - 1 section
