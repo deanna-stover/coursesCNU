@@ -68,7 +68,16 @@ You will sign up for a scholarly article and, in groups of 4-5, discuss the arti
 
 ## [Research Paper](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/paper)
 
-After I approve one of your paper ideas, you will work on developing a polished and thoughtful research paper about British Suffragettes.  
+After I approve one of your paper ideas, you will work on developing a polished and thoughtful research paper about British Suffragettes.
+
+# Required Textbooks
+
+**You must use these editions of the texts.**
+
+* H.G. Wells, *Ann Veronica*, Broadview Press (ISBN: 9781554812301)
+* Constance Lytton, *Prisons and Prisoners*, Broadview Press (ISBN: 9781551115931)
+
+Other readings will be supplied to you.
 
 ### Grading Scale
 
