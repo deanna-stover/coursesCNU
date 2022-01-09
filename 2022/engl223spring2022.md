@@ -49,24 +49,24 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
-Journals | 4 over the course of the semester | 20%
-Research Blogs | 4 over the course of the semester | 40%
-TEI Project (doesn't include blog post) <br /> | 2/20 | 5%
-Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Final Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> 4/25 | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
+Journals | 4 Check-Ins | 20% (5% per Check-In)
+Play Trailer Project <br /> Play Trailer/Close Reading <br /> * Play Trailer Presentation | <br /> 1/28 <br /> Week 4 | <br /> 10% <br /> 5%
+Fishbowl | Week 7 | 10%
+Research Paper <br /> * Three Questions <br /> * Annotated Bibliography <br /> * First Draft <br /> * Peer Review <br /> * Final Draft | <br /> 3/18 <br /> 4/1 <br /> 4/15 <br /> 4/18 <br /> Finals | <br /> 5% <br /> 10% <br /> 15% <br /> 5% <br /> 20%
 
-## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/twitter)
+## [Journals](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/journal)
 
 You will be responsible for tweeting three times per week (see prompt) and submitting those tweets to me weekly.
 
-## [Research Blog Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/blog-posts)
+## [Play Trailer Project](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/trailer)
 
 You will write four (4) research blog posts over the course of the semester using GitHub/Jekyll.
 
-## [TEI Project](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/tei)
+## [Fishbowl](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/fishbowl)
 
 You will encode a short passage of Bram Stoker's "Dracula's Guest."
 
-## [Grant](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022/grant)
+## [Research Paper](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022/paper)
 
 After I approve one of your project ideas, you will write a small grant for a digital humanities project of your design.
 
