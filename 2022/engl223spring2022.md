@@ -70,7 +70,7 @@ You will sign up for a scholarly article and, in groups of 4-5, discuss the arti
 
 After I approve one of your paper ideas, you will work on developing a polished and thoughtful research paper about British Suffragettes.
 
-# Required Textbooks
+# Required Texts
 
 **You must use these editions of the texts.**
 
