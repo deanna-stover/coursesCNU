@@ -50,7 +50,7 @@ _____
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Journals | 4 Check-Ins | 20% (5% per Check-In)
-Play Trailer Project <br /> Play Trailer/Close Reading <br /> * Play Trailer Presentation | <br /> 1/28 <br /> Week 4 | <br /> 10% <br /> 5%
+Play Trailer Project <br /> * Play Trailer/Close Reading <br /> * Play Trailer Presentation | <br /> 1/28 <br /> Week 4 | <br /> 10% <br /> 5%
 Fishbowl | Week 7 | 10%
 Research Paper <br /> * Three Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Peer Review <br /> * Final Draft | <br /> 3/18 <br /> 4/1 <br /> 4/15 <br /> 4/18 <br /> Finals | <br /> 5% <br /> 10% <br /> 15% <br /> 5% <br /> 20%
 
