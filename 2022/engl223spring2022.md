@@ -98,7 +98,7 @@ Content Warning: some of the readings deal with sensitive topics.
 
 ## Finals Week
 
-* **Final Draft due Wednesday, April 27th by 7:30 pm** 
+* **Final Research Paper Draft due Wednesday, April 27th by 7:30 pm** 
 
 _____
 
