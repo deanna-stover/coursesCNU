@@ -49,7 +49,7 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
-Twitter Posts | Weekly | 10%
+Journals | 4 over the course of the semester | 20%
 Research Blogs | 4 over the course of the semester | 40%
 TEI Project (doesn't include blog post) <br /> | 2/20 | 5%
 Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * First Draft <br /> * Final Grant | <br /> 2/25 <br /> 3/20 <br /> 4/10 <br /> 4/25 | <br /> 5% <br /> 10% <br /> 10% <br /> 20%
