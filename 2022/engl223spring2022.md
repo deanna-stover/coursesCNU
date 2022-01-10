@@ -1,6 +1,6 @@
 # Syllabus - ENGL 223 - Spring 2022
 
-## Second-Year Writing
+## Second-Year Writing: British Suffragettes
 
 _____
 
