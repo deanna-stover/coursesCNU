@@ -5,13 +5,13 @@ _____
 **Journal (#1)** Friday, February 4th by 11:59 pm <br />
 **Percentage:** 5%
 
-**Media Journal (#2)** Friday, February 25th by 5:00 pm <br />
+**Journal (#2)** Friday, February 25th by 5:00 pm <br />
 **Percentage:** 5%
 
-**Media Journal (#3)** Friday, March 25th by 11:59 pm <br />
+**Journal (#3)** Friday, March 25th by 11:59 pm <br />
 **Percentage:** 5%
 
-**Media Journal (#4)** Monday, April 25th by 11:59 pm <br />
+**Journal (#4)** Monday, April 25th by 11:59 pm <br />
 **Percentage:** 5%
 
 **Total**: 20%
