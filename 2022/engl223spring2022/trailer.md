@@ -12,7 +12,7 @@ _____
 
 # General Overview:
 
-It might be easiest to think of your project as putting together a storyboard of a trailer for a short film based on one of the four suffrage plays we read (Hatton's "Before Sunrise," Moffat's "The Maid and the Magistrate," Glover's "Miss Appleyard's Awakening," or Cholmondeley's "Votes for Men"). This means that while you don't have to film anything, you will be picking out actors to play the roles, showing inspiration images for the setting, and deciding on a background song. This is supposed to be a little fun while also making you thinking critically about the play. More guidelines are below.
+It might be easiest to think of your project as putting together a storyboard of a trailer for a short film based on one of the four suffrage plays we read (Hatton's "Before Sunrise," Moffat's "The Maid and the Magistrate," Glover's "Miss Appleyard's Awakening," or Cholmondeley's "Votes for Men"). This means that while you don't have to film anything, you will be choosing key scenes from the play to highlight, picking out actors to play the roles, showing inspiration images for the setting, and deciding on a background song. This is supposed to be fun while also making you thinking critically about the play. More guidelines are below.
 
 Along with this storyboard/trailer, you will be responsible for writing a short 300-500 word close reading of the play you make a trailer for. This written piece will go more in-depth into the play and give you practice analyzing literature.
 
