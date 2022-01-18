@@ -6,7 +6,7 @@ _____
 **Percentage**: 10%
 
 **Play Trailer Presentation**: Week 4
-**Percentage**: 5%
+<br />**Percentage**: 5%
 
 _____
 
