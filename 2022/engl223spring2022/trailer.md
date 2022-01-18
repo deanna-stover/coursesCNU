@@ -3,7 +3,7 @@
 _____
 
 **Play Trailer/Close Reading**: Friday, January 28th by 11:59 pm
-**Percentage**: 10%
+<br />**Percentage**: 10%
 
 **Play Trailer Presentation**: Week 4
 <br />**Percentage**: 5%
