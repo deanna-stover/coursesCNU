@@ -26,7 +26,7 @@ _____
 
 It may help you to start this project by watching some examples of film trailers. [Here's an example of a trailer for a film based on British Suffragettes (the film is aptly titled *Suffragette*).](https://www.youtube.com/watch?v=056FI2Pq9RY)
 
-You can will be using Google Slides to produce the storyboard for your play trailer.
+You will be using Google Slides to produce the storyboard for your play trailer.
 
 Here are some guidelines for your play trailer storyboard:
 * Include a title slide with the name of the play, the author, and your name.
@@ -49,12 +49,10 @@ A few notes:
 
 You will write a 400-600 word close reading essay (roughly 1.5-2 pages) about the play you made your trailer about. Remember, you must choose one of the four plays to focus on; this assignment should not discuss multiple works, so whichever play you choose to make a trailer for will be the play you write your close reading about. Think about this carefully before beginning.
 
-
+MORE INFORMATION COMING SOON.
 
 _____
 
 ## Play Trailer Presentation - Week 4
-
-
 
 MORE INFORMATION COMING SOON. 
