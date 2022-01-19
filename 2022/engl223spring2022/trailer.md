@@ -16,7 +16,7 @@ It might be easiest to think of your project as putting together a storyboard (o
 
 Along with this storyboard/trailer, you will be responsible for writing a short 400-600 word close reading of the play you make a trailer for. This written piece will go more in-depth into the play and give you practice analyzing literature.
 
-Finally, you will present your trailer (not the close reading, although you may borrow some elements from that portion of the project) to the class during Week 4. This presentation should only last 3-5 minutes.
+Finally, you will present your trailer (not the close reading, although you may borrow some elements from that portion of the project) to the class during Week 4. This presentation should only last X minutes.
 
 _____
 
@@ -26,7 +26,7 @@ _____
 
 It may help you to start this project by watching some examples of film trailers. [Here's an example of a trailer for a film based on British Suffragettes (the film is aptly titled *Suffragette*).](https://www.youtube.com/watch?v=056FI2Pq9RY)
 
-You can choose whether you want to use Google Slides, Prezi, Canva, PPT, or something similar to produce the storyboard for your play trailer.
+You can will be using Google Slides to produce the storyboard for your play trailer.
 
 Here are some guidelines for your play trailer storyboard:
 * Include a title slide with the name of the play, the author, and your name.
