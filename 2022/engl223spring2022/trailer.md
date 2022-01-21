@@ -16,7 +16,7 @@ It might be easiest to think of your project as putting together a storyboard (o
 
 Along with this storyboard/trailer, you will be responsible for writing a short 400-600 word close reading of the play you make a trailer for. This written piece will go more in-depth into the play and give you practice analyzing literature.
 
-Finally, you will present your trailer (not the close reading, although you may borrow some elements from that portion of the project) to the class during Week 4. This presentation should only last X minutes.
+Finally, you will present your trailer (not the close reading, although you may borrow some elements from that portion of the project) to the class during Week 4. This presentation should only last 4-5 minutes.
 
 _____
 
