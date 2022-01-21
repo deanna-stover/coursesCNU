@@ -45,11 +45,31 @@ A few notes:
 * Link any images to their source or provide a link to image sources somewhere on the same slide. This will serve as your citation for images.
 * You should be quoting from the play, but when you do, include page numbers in parentheses. So: "blah, blah, blah" (451).
 
+Here are some things I'll be looking for:
+* **Follows directions**.
+* Shows **professionalism** (i.e. takes the assignment seriously). However, you can have some fun with this portion of the assignment, too!
+* **Cites** appropriately.
+* Proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
+
 ### Close Reading
 
-You will write a 400-600 word close reading essay (roughly 1.5-2 pages) about the play you made your trailer about. Remember, you must choose one of the four plays to focus on; this assignment should not discuss multiple works, so whichever play you choose to make a trailer for will be the play you write your close reading about. Think about this carefully before beginning.
+You will write a 400-600 word close reading essay (roughly 1.5-2 pages) about the play you made your trailer about. Remember, you must choose one of the four plays to focus on; this assignment should not discuss multiple plays, so whichever play you choose to make a trailer for will be the play you write your close reading about. Think about this carefully before beginning.
 
-MORE INFORMATION COMING SOON.
+Since you chose at least five important passages from the play for your trailer, they may come up again here! That's fine! 
+
+You can also quote or paraphrase from any of the secondary sources (those articles we've been reading) if you'd like, but try and focus on the play itself.
+
+Here are some things I'll be looking for:
+* A compelling, debatable, and ***interpretive* thesis** statement
+* An **organized** argument. In other words, there is a logic or rationale for the arrangement of paragraphs and the ideas within paragraphs relate to your argument/thesis.
+* Adequate **textual evidence** (direct quotations, summaries, and paraphrased passages) to support your claims and **cites** appropriately.
+* Proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
+
+In many ways, this portion of the assignment is a way for me to get a better idea of where you are at in your writing coming into the class. 
+
+By the way, here's the MLA citation for the book the plays come from:
+
+Author Last Name, Author First Name. "Play Title." *Literature of the Women's Suffrage Campaign in England.* Ed. Carolyn Christensen Nelson. Broadview Press, 2004, pp. xxx-xxx. 
 
 _____
 
