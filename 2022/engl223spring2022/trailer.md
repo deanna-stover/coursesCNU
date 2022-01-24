@@ -2,7 +2,7 @@
 
 _____
 
-**Play Trailer/Close Reading**: Friday, January 28th by 11:59 pm
+**Play Trailer/Close Reading**: ~~Friday, January 28th by 11:59 pm~~ Sunday, January 30th by 11:59 pm
 <br />**Percentage**: 10%
 
 **Play Trailer Presentation**: Week 4
@@ -20,7 +20,7 @@ Finally, you will present your trailer (not the close reading, although you may 
 
 _____
 
-## Play Trailer/Close Reading - Friday, January 28th by 11:59 pm
+## Play Trailer/Close Reading - Sunday, January 30th by 11:59 pm
 
 ### Play Trailer
 
@@ -53,7 +53,7 @@ Here are some things I'll be looking for:
 
 ### Close Reading
 
-You will write a 400-600 word close reading essay (roughly 1.5-2 pages) about the play you made your trailer about. Remember, you must choose one of the four plays to focus on; this assignment should not discuss multiple plays, so whichever play you choose to make a trailer for will be the play you write your close reading about. Think about this carefully before beginning.
+You will write a 400-650 word close reading essay (roughly 1.5-2 pages) about the play you made your trailer about. Remember, you must choose one of the four plays to focus on; this assignment should not discuss multiple plays, so whichever play you choose to make a trailer for will be the play you write your close reading about. Think about this carefully before beginning.
 
 Since you chose at least five important passages from the play for your trailer, they may come up again here! That's fine! 
 
