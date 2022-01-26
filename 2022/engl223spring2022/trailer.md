@@ -60,12 +60,14 @@ Since you chose at least five important passages from the play for your trailer,
 You can also quote or paraphrase from any of the secondary sources (those articles we've been reading) if you'd like, but try and focus on the play itself.
 
 Here are some things I'll be looking for:
-* A compelling, debatable, and ***interpretive* thesis** statement
+* A compelling, debatable, and ***interpretive* thesis** statement.
 * An **organized** argument. In other words, there is a logic or rationale for the arrangement of paragraphs and the ideas within paragraphs relate to your argument/thesis.
 * Adequate **textual evidence** (direct quotations, summaries, and paraphrased passages) to support your claims and **cites** appropriately.
 * Proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
 
 In many ways, this portion of the assignment is a way for me to get a better idea of where you are at in your writing coming into the class. 
+
+Please put your name, the name of the class, my name (Dr. Stover), and the date in the document as well as adding your last name and the page number to the top right corner (see the example close reading on Google Classroom for reference). Note that your total word count should be a minimum of 400 words not including this header. 
 
 By the way, here's the MLA citation for the book the plays come from:
 
@@ -75,4 +77,23 @@ _____
 
 ## Play Trailer Presentation - Week 4
 
-MORE INFORMATION COMING SOON. 
+You will give a short, 4-5 minute presentation based on your play trailer. You can borrow from your close reading, but mainly you're giving us a rundown of how you imagine the play you've chosen would be filmed based on the slide presentation you've created.
+
+Practice your presentation so that you're not just reading off of the slides. I recommend having any quotations you need to read printed/written out so that you don't have to read from the screen. You want to try looking at the audience (your peers) as much as possible during the presentation.
+
+You do **not** have to dress up for this presentation, although you certainly can.
+
+Here are some things I'll be looking for:
+* **Follows directions**, meaning you don't go under or over your allotted 4-5 minutes.
+* Shows **professionalism** (i.e. takes the assignment seriously), including demonstrating that you've practiced your presentation beforehand.
+
+_____
+
+## How to Submit
+
+For your Play Trailer and Close Reading, you will submit *both* assignments to Google Classroom AND Scholar.
+
+To submit to Google Classroom, simply uplaod a Google Doc with your Close Reading AND the Google Slides you've created for your trailer.
+
+For Scholar, download both the Google Doc and the Google Slides presentations as PDFs and submit them.
+
