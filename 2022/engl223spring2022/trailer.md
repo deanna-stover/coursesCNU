@@ -97,3 +97,10 @@ To submit to Google Classroom, simply uplaod a Google Doc with your Close Readin
 
 For Scholar, download both the Google Doc and the Google Slides presentations as PDFs and submit them.
 
+_____
+
+I owe credit to Susan Egenolf for the inspiration and some of the guidelines for this project.
+
+_____
+
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl223spring2022)
