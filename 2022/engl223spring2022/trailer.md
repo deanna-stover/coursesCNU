@@ -1,4 +1,4 @@
-# Play Trailer Project (A Prompt in Progress)
+# Play Trailer Project
 
 _____
 
@@ -85,7 +85,7 @@ You do **not** have to dress up for this presentation, although you certainly ca
 
 Here are some things I'll be looking for:
 * **Follows directions**, meaning you don't go under or over your allotted 4-5 minutes.
-* Shows **professionalism** (i.e. takes the assignment seriously), including demonstrating that you've practiced your presentation beforehand.
+* Shows **professionalism** (i.e. takes the assignment seriously) including demonstrating that you've practiced your presentation beforehand.
 
 _____
 
