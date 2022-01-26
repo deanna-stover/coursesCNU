@@ -67,7 +67,7 @@ Here are some things I'll be looking for:
 
 In many ways, this portion of the assignment is a way for me to get a better idea of where you are at in your writing coming into the class. 
 
-Please put your name, the name of the class, my name (Dr. Stover), and the date in the document as well as adding your last name and the page number to the top right corner (see the example close reading on Google Classroom for reference). Note that your total word count should be a minimum of 400 words not including this header. 
+Please put your name, the name of the class, my name (Dr. Stover), and the date in the document as well as adding your last name and the page number to the top right corner (see the example close reading on Google Classroom for reference). Note that your total word count should be a minimum of 400 words not including this header or the citation. In other words, your paper itself should be 400-650 words. 
 
 By the way, here's the MLA citation for the book the plays come from:
 
