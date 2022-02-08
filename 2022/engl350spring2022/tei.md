@@ -21,23 +21,28 @@ _____
 
 ## Step One: TEI on Paper
 
-We'll be doing this in class. The whole goal is to get you more comfortable with the text you've been assigned (available in the Google Drive). 
+We'll be doing this in class. The whole goal is to get you more comfortable with the passage you've been assigned (available in the Google Drive). 
 
-The **first** thing we're going to do is annotate the Google Doc using comments. These comments will explain the features of the text, rather than trying to code right away. 
+The **first** thing we're going to do is annotate the Google Doc using comments. These comments will explain the features of the text, rather than trying to code right away. **I do not want you to attempt to use TEI tags in the Google Doc.** Instead, you'll go through your post looking for the features listed below. You'll highlight each feature and leave a comment explaining what it is. For instance, if you see a quote, highlight the quote and leave a comment in the Google Doc that simply says "quote."
+
+This seems simple, but it is meant to help you slow down, really examine your passage, and start noticing the things you'll have to tag later.
 
 The features you should be marking in your Google Doc are:
 
 * Page beginnings
 * Paragraphs 
 * Em-dashes (they aren't hyphens, they're longer)
-* Quotes (note that this is only the actual material in quotation marks, not the "he said." Also note that you only want to tag quotes where someone is speaking, not where a single word or phrase--such as a title--is in quotes.)
-* Any misspelled words (no need to standardize the British spelling, just note errors) - to make everything more clear, I've gone ahead and marked spelling errors for those of you have them
-* Any Textual Notes we're adding to the text - I've added in markers for everything that we will be making a note for already
+* Quotes (note that this is only the actual material in quotation marks, not the "he said" part. Also note that you only want to tag quotes where someone is speaking, not where a single word or phrase--such as a title--is in quotes.)
 * Those inscriptions
 * That telegram
 * Addresses
 * Bylines
-* Any subtitles ("Preface," "Dracula's Guest")
+* Any titles ("Preface," "Dracula's Guest")
+
+The features I've already marked for you are:
+
+* Any misspelled words (we won't be standardizing British spelling, just correcting spelling errors) - if you notice something is misspelled and I haven't left a comment, please bring it up to me
+* Any Textual Notes we're adding to the text
 
 ## Step Two: TEI on the Computer
 
@@ -67,6 +72,8 @@ The student assistants are on-duty during the following times:
 * Friday, 3-8 pm
 
 [You can also download a 30-day free trial of Oxygen XML](https://www.oxygenxml.com/xml_editor/register.html?p=editor) onto your own computer so that you don't have to use the classroom computers. 
+
+Finally, to take a screenshot of your Oxygen XML file on the classroom Macs (a required component of your accompanying blog post), go ahead and hit shift, command, and 3 at the same time and then email it to yourself. Remember, you'll want to crop the screenshot to make it look more professional. 
 
 _____
 
