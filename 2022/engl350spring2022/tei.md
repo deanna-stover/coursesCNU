@@ -56,8 +56,83 @@ _____
 
 ## Tags
 
-More Info Coming Soon.
+Page beginning: ```<pb n=“1”/>``` (note that you need to put in the correct page number)
 
+Paragraph tag: ```<p>Paragraph here.</p>```
+
+Em-dash code: ```&#8212;```
+
+A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>``` (note that you don't need to standadize spelling, just correct any errors)
+
+A quote: ```<q>Everything in quotation marks here,</q> he said, <q>the rest of the quote.</q>``` (note that I've taken out the actual quotation marks)
+
+A note: ```<note>Provided text here</note>```
+
+Section breaks: For this project just put the asterisks in their own paragraph, so ```<p>* * * * * *</p>```
+
+Inscription:
+
+Telegram:
+
+Address: 
+
+Byline: ```<byline>Charlotte Perkins Stetson.</byline>```
+
+Title: ```<head>Title</head>```
+
+_____
+
+## Some things to note:
+
+* You always need a starting and ending tag (unless it’s self-closing). So, even if your assigned passage begins in the middle of a paragraph, surround it with ```<p>``` and ```</p>```.
+
+* You have to close any open tag before you close anything within it. That means tags can’t overlap, so this is **invalid**:
+
+```
+<p><hi rend="underline”>Once upon a time . . . </p>
+<p>there was a student.</hi></p>
+```
+
+This is also **invalid**:
+
+```
+<p><hi rend="underline”>Once upon a time . . . </p></hi>
+<p><hi rend="underline”>there was a student.</p></hi>
+```
+
+Instead, you’d need to do this:
+
+```
+<p><hi rend="underline”>Once upon a time . . . </hi></p>
+<p><hi rend="underline”>there was a student.</hi></p>
+```
+
+Or, as another example, this:
+
+```
+<p> Once upon a time, <pb n="2"/> there was a student.</p>
+```
+
+Essentially, the ```<p>``` tag is surrounding everything and no tag can stretch beyond it.
+
+* Everything should be tagged. This doesn’t mean every *word* has a separate tag, but no text should be just floating around.
+
+* We’ll talk about this more in class, but your assigned portion of "Dracula's Guest" is within the ```<text>``` and ```<body>``` tags, **NOT** the ```<teiHeader>```
+
+* We’re going to largely ignore the ```<teiHeader>``` except for the ```<titleStmt>``` and ```<sourceDesc>```. We’ll go over this in class, but it should look like this (in the appropriate places within the ```<fileDesc>```):
+
+```
+<titleStmt>
+	<title>“Dracula's Guest”</title>
+	<author>Bram Stokern</author>
+	<editor>Your Name</editor>
+</titleStmt>
+```
+```
+<sourceDesc>
+  <p>The 1914 edition we're working with can be found here: http://www.bramstoker.org/stories/03guest.html</p>
+</sourceDesc>
+```
 _____
 
 ## Resources
