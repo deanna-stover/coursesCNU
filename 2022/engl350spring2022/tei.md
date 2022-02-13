@@ -70,11 +70,16 @@ A note: ```<note>Provided text here</note>```
 
 Section breaks: For this project just put the asterisks in their own paragraph, so ```<p>* * * * * *</p>```
 
-Inscription:
+Inscription: ```<p><specDesc key="inscription" />Inscription here.</p>```
 
-Telegram:
+Telegram: ```<p><specDesc key="telegram" />Telegram here.</p>```
 
-Address: 
+Address: ```<p><address>
+	<addrLine>First line here</addrLine
+	><addrLine>Second line here</addrLine>
+</address></p>```
+
+Section break: ```<div></div>```
 
 Byline: ```<byline>Charlotte Perkins Stetson.</byline>```
 
