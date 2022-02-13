@@ -76,7 +76,7 @@ Telegram: ```<p><specDesc key="telegram" />Telegram here.</p>```
 
 Address: ```<p><address><addrLine>First line here</addrLine><addrLine>Second line here</addrLine></address></p>```
 
-Section break: ```<div></div>```
+Section break: ```<div />```
 
 Byline: ```<byline>Charlotte Perkins Stetson.</byline>```
 
