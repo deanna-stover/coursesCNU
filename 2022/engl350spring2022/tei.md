@@ -68,8 +68,6 @@ A quote: ```<q>Everything in quotation marks here,</q> he said, <q>the rest of t
 
 A note: ```<note>Provided text here</note>```
 
-Section breaks: For this project just put the asterisks in their own paragraph, so ```<p>* * * * * *</p>```
-
 Inscription: ```<p><specDesc key="inscription" />Inscription here.</p>```
 
 Telegram: ```<p><specDesc key="telegram" />Telegram here.</p>```
