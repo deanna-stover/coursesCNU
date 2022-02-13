@@ -62,7 +62,7 @@ Paragraph tag: ```<p>Paragraph here.</p>```
 
 Em-dash code: ```&#8212;```
 
-A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>``` (note that you don't need to standadize spelling, just correct any errors)
+A misspelling/mistake in the text: ```<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>``` (note that you don't need to standardize spelling, just correct any errors)
 
 A quote: ```<q>Everything in quotation marks here,</q> he said, <q>the rest of the quote.</q>``` (note that I've taken out the actual quotation marks)
 
