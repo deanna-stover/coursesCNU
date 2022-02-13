@@ -74,10 +74,7 @@ Inscription: ```<p><specDesc key="inscription" />Inscription here.</p>```
 
 Telegram: ```<p><specDesc key="telegram" />Telegram here.</p>```
 
-Address: ```<p><address>
-	<addrLine>First line here</addrLine
-	><addrLine>Second line here</addrLine>
-</address></p>```
+Address: ```<p><address><addrLine>First line here</addrLine><addrLine>Second line here</addrLine></address></p>```
 
 Section break: ```<div></div>```
 
