@@ -33,7 +33,7 @@ _____
 
 **Friday, February 25th**
 
-*Fishbowl 3*: Smith, Angela K. "Writing Suffrage Before 1914." *Suffrage Discource in Britain During the First World War*, Taylor & Francis Group, 2016, pp. 1-19.
+*Fishbowl 3*: Smith, Angela K. "Writing Suffrage Before 1914." *Suffrage Discourse in Britain During the First World War*, Taylor & Francis Group, 2016, pp. 1-19.
 
 *Fishbowl 4*: Murphy, Cliona. "H.G. Wells and Votes for Women." *The Wellsian*, no. 10, 1987, pp. 11-19.
 
