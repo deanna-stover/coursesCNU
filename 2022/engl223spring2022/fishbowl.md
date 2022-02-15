@@ -25,13 +25,13 @@ _____
 
 ## Fishbowl Dates
 
-**Wednesday, Febraury 23rd**:
+**Wednesday, February 23rd**:
 
 *Fishbowl 1*: Snyder, Carey J. "Introduction." *Ann Veronica*, Broadview Press, 2016, pp. 9-38.
 
 *Fishbowl 2*: Montz, Amy L. "'Now she's all hat and ideas': Fashioning the British Suffragette Movement." *Critical Studies in Fashion & Beauty*, vol. 3, no. 1 & 2, 2012, pp. 55-67.
 
-**Friday, Febrauary 25th**
+**Friday, February 25th**
 
 *Fishbowl 3*: Smith, Angela K. "Writing Suffrage Before 1914." *Suffrage Discource in Britain During the First World War*, Taylor & Francis Group, 2016, pp. 1-19.
 
