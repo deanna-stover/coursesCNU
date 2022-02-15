@@ -2,7 +2,7 @@
 
 _____
 
-**Fishbowl** Week 7 <br />
+**Fishbowl**: Week 7 <br />
 **Percentage:** 10%
 
 _____
