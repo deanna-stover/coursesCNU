@@ -162,7 +162,7 @@ _____
 
 Taking the feedback from your peers and me, you will revise grant packet for the Final Draft. Interestingly enough, your Final Grant is going to be *shorter* than your First Draft; you'll be trimming the fat, as it were, and trying to be more concise.
 
-For this final draft, you're going to submit a **1000-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**.
+For this Final Draft, you're going to submit a **1000-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**.
 
 You'll still be following the guidelines listed under the [First Draft](#first-draft) section of this prompt (and anything we go over in class), but now you'll be polishing and refining your grant and making it the appropriate length. Something to keep in mind: the word count is the *maximum* (unlike in many of our other assignments), but you shouldn't go under 950 words either.
 
