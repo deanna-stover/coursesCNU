@@ -68,9 +68,27 @@ _____
 
 # Annotated Bibliography
 
+You'll be responsible for finding *at least* ten sources and writing **100-150 words per entry** explaining the central argument of the source and its relevance to your project (i.e. how you plan to use it). *At least five of these sources should be peer-reviewed articles/chapters* either about the topic you've chosen or about the kind of method you'll be using. Your other sources can include similar DH projects.
+
+For example, say you had pitched our "Dracula's Guest" project. Some of your sources would be about TEI and best practices for creating digital editions, other sources would be literary scholarship on the story of "Dracula's Guest," and still more would be examples of inspirational digitial editions and/or DH projects that already deal with Bram Stoker and/or *Dracula* in some way. 
+
+The Annotated Bibliography should be formatted according to **MLA** guidelines. This means it should be double-spaced, alphabatized by the last name of the authors, and formatted with a hanging indent.
+
+## Evaluation Criteria
+
+* Follows the **appropriate instructions** (10 sources, at least 5 of which are peer-reviewed; 100-150 words per entry; formatted according to MLA)
+
+* Shows **critical thinking** in both the sources chosen and the description of them/their importance to your project
+
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
 _____
 
 # First Draft
+
+
 
 _____
 
