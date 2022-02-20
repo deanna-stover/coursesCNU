@@ -70,7 +70,7 @@ _____
 
 You'll be responsible for finding *at least* ten sources and writing **100-150 words per entry** explaining the central argument of the source and its relevance to your project (i.e. how you plan to use it). *At least five of these sources should be peer-reviewed articles/chapters* either about the topic you've chosen or about the kind of method you'll be using. Your other sources can include similar DH projects.
 
-For example, say you had pitched our "Dracula's Guest" project. Some of your sources would be about TEI and best practices for creating digital editions, other sources would be literary scholarship on the story of "Dracula's Guest," and still more would be examples of inspirational digitial editions and/or DH projects that already deal with Bram Stoker and/or *Dracula* in some way. 
+For example, say you had pitched our "Dracula's Guest" project. Some of your sources would be about TEI and best practices for creating digital editions, other sources would be literary scholarship on the story of "Dracula's Guest," and still more would be examples of inspirational digital editions and/or DH projects that already deal with Bram Stoker and/or *Dracula* in some way. 
 
 The Annotated Bibliography should be formatted according to **MLA** guidelines. This means it should be double-spaced, alphabatized by the last name of the authors, and formatted with a hanging indent.
 
@@ -88,11 +88,87 @@ _____
 
 # First Draft
 
+Although this is called a "First Draft," it should be a *polished* first draft, not a shitty first draft. 
 
+For this draft, you're going to write a **1500-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**. 
+
+## Project Description
+
+The first draft of your Project Description should be **1500 words** and follow MLA guidelines. We'll talk about this more in class, but keep in mind the guidelines for the Independent Research Grant here at CNU:
+
+* State the primary objective(s) of your research or creative project.
+* Briefly describe the foundational themes that inform your subject and elaborate on how your own work builds on these themes and/or forges new ones.
+* Describe the processes, methods, and materials you will use to conduct your work.
+* Outline any anticipated results and their significance.
+* Orient your work within your broader course of scholarship: Does it build on work you’ve done in the past? Do you intend to develop it in the future?
+* Explain the relevance and implications of your research or project: Why is this work important?
+* This description should be written with a general reader in mind, a reader who may not necessarily be familiar with your discipline (and certainly not with the jargon of that discipline).
+
+### Evalution Criteria - Project Description
+
+* **Thinks critically** about the project as a whole and answers the guidelines listed above
+
+* **Persuades** the reader that the project is of scholarly importance
+
+* Explains the **technology** needed for the project in a succinct but informative way
+
+* Presents information in an **organized** and coherent way
+
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
+* Follows the **appropriate instructions**
+
+## Abstract
+
+An Abstract should effectively summarize the contents of your Project Description (which is why I urge you to write it *after* you've finished the Project Description). Remember, this will be the first thing someone reads, so make it engaging, thoughtful, and complete. Again, we'll talk about this more in class.
+
+### Evalution Criteria - Abstract
+
+* Summarizes the contents of your Project Description in a **thoughtful and engaging** way
+
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
+* Follows the **appropriate instructions**
+
+## Resume or CV
+
+You get to choose: do you want to write a **1-2 page Curriculum Vitae (CV) OR a 1-page Resume**?
+
+A CV is more common for grants because this document describes your academic achievements as opposed to emphasizing the skills you learned at certain positions. 
+
+I'm giving you the choice because a Resume might be more helpful for you at the moment as you get ready for your career, but if you are interested in writing a CV, already have one, or are thinking about graduate school, then by all means, write a CV!
+
+We'll be talking about both in class, but the point of both of these documents is to emphasize your preparedness for this project. Part of this is presenting a professional document, meaning it should be well designed. This does not mean you need to have color or anything especially clever--it just means you need to be consistent in formatting and presentation while also listing all of the *relevant* information about you.
+
+### Evaluation Criteria - Resume or CV
+
+* Formatted **professionally**
+
+* Presents information in an **organized** and coherent way
+
+* **Thinks critically** about the necessary content
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
+
+* Follows the **appropriate instructions** (1-2 page for the CV, 1-page for the Resume)
 
 _____
 
 # Final Draft
+
+Taking the feedback from your peers and me, you will revise grant packet for the Final Draft. Interestingly enough, your Final Grant is going to be *shorter* than your First Draft; you'll be trimming the fat, as it were, and trying to be more concise.
+
+For this final draft, you're going to submit a **1000-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one-to two-page CV**.
+
+You'll still be following the guidelines listed under the [First Draft](#first-draft) section of this prompt (and anything we go over in class), but now you'll be polishing and refining your grant and making it the appropriate length. Something to keep in mind: the word count is the *maximum* (unlike in many of our other assignments), but you shouldn't go under 950 words either.
+
+## Evaluation Criteria
+
+See evaluation criteria under the [First Draft](#first-draft) section of the prompt above. 
 
 _____
 
