@@ -45,14 +45,24 @@ So, essentially, you'll brainstorm a few ideas for (small!) DH projects and then
 Some ideas (note that this list is not exhaustive). I'll also be sharing a list of digital resources in the Shared Google Drive:
 * A mapping project
 * An interactive timeline
-* A virtual museum exhibition
+* A virtual museum exhibition -- think about copyright here
 * A digital edition of a text (not just an electronic text) -- and remember, editions should deal with something out of copyright and in the public domain, and you'll want to focus on something small to start, such as a short story or a small collection of poems
 * A 3D modeling or printing project (critical making in a broader sense could also work here)
 * Some sort of network analysis or data visualization (looking at how actors are connected in old films, for instance, or looking at Twitter, Instagram, etc.) -- note that this is likely the most complicated in terms of the technology used
 * A podcast about some aspect of DH
 * A born digital creative project (this could be interactive fiction, for instance)
 
-When you pitch your three ideas, 
+When you pitch your **three ideas**, you'll be writing a short (~100 word) description of each idea. You don't have to know exactly what software you're going to use to create your project yet (although thinking about this would be good, and sometimes technology can inspire the project as much as the project can decide what technology to use!), but try and come up with three ideas you are passionate and excited about. After all, we'll be spending over eight weeks on this portion of the class. **Please order your ideas in order of preference**, the first one being the one you'd prefer to work on the most. 
+
+## Evaluation Criteria
+
+* Pitches a **digital humanities** project, not a scholarly paper or something to do with another field
+
+* Follows the **appropriate instructions** (three ideas, ~100 word description for each idea)
+
+* Works hard to be **concise** and **avoids unnecessary jargon**
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 _____
 
@@ -70,7 +80,7 @@ _____
 
 # Late Work
 
-Unless we’ve talked, I will deduct 5 points for every day the assignment is late.
+Unless we’ve talked, I will deduct 5 points for every day each assignment is late.
 _____
 
 [Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022)
