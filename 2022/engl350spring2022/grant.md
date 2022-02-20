@@ -38,9 +38,21 @@ _____
 
 # Project Ideas
 
-For the first part of this assignment, you're not just pitching one idea--you'll be pitching **three ideas**. When I give you feedback on this portion, I'll be trying to help you pick the best and most feasible idea.
+For the first part of this assignment, you're not just pitching one idea--you'll be pitching **three ideas**. When I give you feedback on this portion, I'll be trying to help you pick the best and most feasible idea. *I will not accept other portions of this grant until your project idea has been approved.*
 
-So, essentially, you'll brainstorm a few ideas and then pitch them to me. For each pitch, 
+So, essentially, you'll brainstorm a few ideas for (small!) DH projects and then pitch them to me. These ideas can incorporate your area of study and/or be inspired by communities you are a part of as long as they have humanistic (and digital!) elements. So, this can't just be a pitch for a research paper--there needs to be some sort of digital component planned (again, not executed, but planned).
+
+Some ideas (note that this list is not exhaustive). I'll also be sharing a list of digital resources in the Shared Google Drive:
+* A mapping project
+* An interactive timeline
+* A virtual museum exhibition
+* A digital edition of a text (not just an electronic text) -- and remember, editions should deal with something out of copyright and in the public domain, and you'll want to focus on something small to start, such as a short story or a small collection of poems
+* A 3D modeling or printing project (critical making in a broader sense could also work here)
+* Some sort of network analysis or data visualization (looking at how actors are connected in old films, for instance, or looking at Twitter, Instagram, etc.) -- note that this is likely the most complicated in terms of the technology used
+* A podcast about some aspect of DH
+* A born digital creative project (this could be interactive fiction, for instance)
+
+When you pitch your three ideas, 
 
 _____
 
