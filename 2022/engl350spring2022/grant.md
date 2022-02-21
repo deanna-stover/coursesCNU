@@ -175,6 +175,7 @@ _____
 # Late Work
 
 Unless we’ve talked, I will deduct 5 points for every day each assignment is late.
+
 _____
 
 [Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022)
