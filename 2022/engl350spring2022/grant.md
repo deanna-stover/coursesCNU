@@ -74,9 +74,13 @@ For example, say you had pitched our "Dracula's Guest" project. Some of your sou
 
 The Annotated Bibliography should be formatted according to **MLA** guidelines. This means it should be double-spaced, alphabatized by the last name of the authors, and formatted with a hanging indent.
 
+To make my life easier, I'm asking you to split the Annotated Bibliography into two parts: scholarly articles/sources and other resources (this will include DH projects and other sites/resources you find). Please see my example in the Shared Google Drive. 
+
+Finally, you should also remind me (briefly!) what your project is about before the actual entries. Again, see my example in the Shared Google Drive. 
+
 ## Evaluation Criteria
 
-* Follows the **appropriate instructions** (10 sources, at least 5 of which are peer-reviewed; 100-150 words per entry; formatted according to MLA)
+* Follows the **appropriate instructions** (10 sources, at least 5 of which are peer-reviewed; 100-150 words per entry; formatted according to MLA and split into two parts)
 
 * Shows **critical thinking** in both the sources chosen and the description of them/their importance to your project
 
