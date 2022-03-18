@@ -86,7 +86,7 @@ You paper and sources should be formatted according to MLA.
 
 * Follows the **appropriate instructions** (at least 1,500 words; uses five sources; formatted according to MLA)
 * The **central argument** is clear, interesting, and debatable 
-* Any claims are well-supported by **textual evidence** (which you integrate and contextualize well) and you **engage with primary AND secondary sources** throughout
+* Any claims are well-supported by **textual evidence** (which you integrate and contextualize well) and you **engage with primary AND secondary sources** throughout with **proper citations**
 * All ideas are presented in a **logical and coherent manner** (i.e. your paper is well-organized and flows from idea to idea, all of which relate back to the central argument)
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
@@ -100,7 +100,22 @@ _____
 
 # Final Draft
 
-More Information Coming Soon
+The Final Draft of your paper should (again) be polished and take into account your peer feedback and my feedback on your rough draft. Your final paper should be *at least 2,500 words* (roughly 8-9 pages). 
+
+As before: Your argument (or thesis) about your approved topic should be focused and specific and you will want to clearly state your argument as well as suggest the implications of that argument. Your introduction should contextualize your topic briefly and identify your thesis. The body of your paper should then provide support and evidence for your given thesis, and the conclusion should sum everything up. 
+
+You must use at least five scholarly, peer-reviewed sources. These can be the same as your Annotated Bibliography/First Draft, but do keep my feedback on your first draft, source choices, and your thesis in mind as you edit and expand on your paper.
+
+You paper and sources should be formatted according to MLA.
+
+## Evaluation Criteria
+
+* Follows the **appropriate instructions** (at least 2,500 words; uses five sources; formatted according to MLA)
+* **Thinks critcally about both peer and instructor feedback** and edits/expands/cuts as necessary based on this feedback
+* The **central argument** is clear, interesting, and debatable 
+* Any claims are well-supported by **textual evidence** (which you integrate and contextualize well) and you **engage with primary AND secondary sources** throughout with **proper citations**
+* All ideas are presented in a **logical and coherent manner** (i.e. your paper is well-organized and flows from idea to idea, all of which relate back to the central argument)
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 _____
 
