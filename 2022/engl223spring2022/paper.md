@@ -8,7 +8,7 @@ _____
 <br /> **Percentage**: 5%
 <br /> <br/>
 **[Annotated Bibliography](#annotated-bibliography)**: 
-<br /> **Annotated Bibliography Due**: Friday, April 1st by 11:59 pm
+<br /> **Annotated Bibliography Due**: Sunday, April 3rd by 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[First Draft](#first-draft)**: 
