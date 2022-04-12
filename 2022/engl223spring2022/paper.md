@@ -94,7 +94,39 @@ _____
 
 # Peer Review
 
-More Information Coming Soon
+Instead of providing the critically constructive feedback that is common in the professional peer-review process, student reviewers often refrain from making substantive suggestions for revision. However, for this assignment, we’ll be trying to make this process more useful by making peer review more closely resemble the “real-world” practice of scholarly peer review. 
+
+Your recommendations to your peer should provide them with advice for meeting the expectations of readers familiar with excellent student papers. Letting your peers know whether you are persuaded by all their arguments--and what it would take to persuade you if you are not--is some of the most useful feedback a writer can receive.
+
+The purpose of this assignment is to write a peer review letter (of *at least* **400 words**) to one of your classmates:
+
+**Step 1:** Swap essays with classmate. I'll be assigning you a peer review partner on the morning of Saturday, April 16th. *If you do not turn in your first draft by the time I put people into groups, you will **not** be able to participate in peer review.* Remember, the first draft of the research paper is due on Friday, April 15th by 11:59 pm.
+
+**Step 2:** Read your partner’s draft fully for the first time.
+
+A note on grammar and spelling: At this point in the writing process, we are not yet at the editing stage. This peer review should be more concerned with the overall structure and effectiveness of the argument. But you may be distracted by misspelled words or have questions about comma usage, so you can point out to your partner some editing concerns you spotted. However, don’t set out to look for these types of concerns.
+
+**Step 4:** Re-read your partner's draft fully for the second time.
+
+Once you have completed a second reading, write a letter addressed to the paper’s author that encourages and helps them revise. Try to respond to the following prompts about your partner’s draft in your letter. Your honest yet diplomatic responses are invaluable. Have confidence in your reading skills and share your opinions of the draft’s strengths and weaknesses. If you are confused by (or, conversely, persuaded by) certain aspects of the draft, chances are other readers will respond similarly. 
+
+When I look at these letters for grading purposes, I’ll be looking at how well organized and supported your letter is. A letter is well organized if it prioritizes your advice--what are the most important things the writer should do? These suggestions go first. A letter is supported if you provide good, specific reasons for the recommendations you make. That might include pointing out specific passages from the paper; pointing to something else in either *Ann Veronica* or *Prisons and Prisoners* (whichever text applies) the author might consider (whether as another useful example or as something that complicates their argument); or noticing a more global issue with your peer’s writing. If the latter, make sure you provide examples--maybe something such as, “you tend to provide summary rather than analysis as shown by your third and fifth paragraph. To fix this, I would add in more textual evidence such as X.”
+
+In many ways, this review is also an argument. You need to persuade your readers that your reading has been careful and your recommendations are sound. The following questions may guide your analysis, but to write a well-organized review that prioritizes your recommendations, you need not address these questions in this order. 
+
+* **Thesis**. First, does the thesis make an interpretive claim? Second, do you think the thesis is compelling or arguable? In other words, does it make a claim its audience (which includes you, the rest of the class, and other literary scholars) might find provocative or illuminating and one that some of us (without given the evidence and reasoning the paper provides) might even want to counter-argue? Why or why not? 
+* **Evidence**. Does the paper seem to support the thesis throughout? Are the claims made supported with sufficient evidence to be persuasive? Is there evidence that is not discussed in the paper that might be relevant? Which details from the text could be used to further develop the ideas presented here? Be specific--you can even point to pages and passages from the primary text (or secondary sources, if you share some in common). 
+* **Interpretive analysis**. Is the presented evidence explained, or does your partner occasionally assume that the significance of the evidence to support a claim is self-evident? Where might you partner step in and explain the textual evidence more so that we will be certain to see in it what they do?
+* **Accuracy**. Is there any point where your peer mistinterprets or misrepresents the text in your view? Does the draft consider complications, implications, and/or potential opposing interpretations? How does the draft treat these complicating factors? How could it treat these factors more effectively or persuasively?
+* **Organization**. Is there a logical order for the paper’s argument? How would you describe the logic of the arrangement: does it build toward greater and greater illumination; does it start with a “bang” by placing its most provocative argument first; or is there some other logic, such as following the temporal sequence of the story? How does this arrangement affect you? Do you get confused or lost, or do you follow it easily? How might the arrangement of this draft be improved in revision?
+* What do you think are currently this draft’s two greatest strengths?
+* What do you think are this draft’s two biggest weaknesses? 
+
+## Evaluation Criteria
+
+* Follows the **appropriate instructions** (at least 400 words, addresses the above questions as much as possible)
+* **Thinks critically** about your peer's paper and offers helpful suggestions
+* The letter is **well-organized** and **supported**
 
 _____
 
