@@ -156,4 +156,4 @@ All content created and assembled by the faculty member and used in this course 
 
 _____
 
-
+I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it.
