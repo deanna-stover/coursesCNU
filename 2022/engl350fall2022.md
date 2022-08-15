@@ -49,7 +49,7 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 10%
 Research Blogs | 4 over the course of the semester | 40%
-Grant <br /> * Project Ideas <br /> * Annotated Bibliography <br /> * Charter/Mock-Ups <br /> * First Draft <br /> * Final Grant | <br /> 9/25 <br /> 10/07 <br /> 11/04 <br /> 11/18 <br /> 12/02 | <br /> 5% <br /> 10% <br /> 10% <br /> 10% <br /> 15%
+Grant <br /> * Project Ideas <br /> * Annotated Bib <br /> * Charter/Mock-Ups <br /> * First Draft <br /> * Final Grant | <br /> 9/25 <br /> 10/07 <br /> 11/04 <br /> 11/18 <br /> 12/02 | <br /> 5% <br /> 10% <br /> 10% <br /> 10% <br /> 15%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350fall2022/twitter)
 
