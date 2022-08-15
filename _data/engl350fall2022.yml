@@ -1,1 +1,120 @@
+---
+start: 2022-08-22
+end: 2022-12-02
 
+meets:
+  - monday
+  - wednesday
+  - friday
+  
+holidays:
+  - date: 2022-10-10
+    name: Fall Recess
+  - date: 2022-11-23
+    name: Thanksgiving Recess
+  - date: 2022-11-25
+    name: Thanksgiving Recess
+
+classes:
+  - |
+    * Just come to class!
+  - |
+    * Turn in your Permission Slip for the Google Drive
+    * Post your twitter handle to the Google Drive [(see prompt)](https://deanna-stover.github.io/coursesCNU/2022/engl350fall2022/twitter). Follow your classmates (and me!) on Twitter
+    * Kate Meyers, ["Manage Your Digital Identity"](https://www.insidehighered.com/blogs/gradhacker/manage-your-digital-identity)
+    * Kathleen Fitzpatrick, ["The Humanities, Done Digitally"](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/65e208fc-a5e6-479f-9a47-d51cd9c35e84#ch02)
+  - |
+    * Read and **complete** the [GitHub tutorial](https://deanna-stover.github.io/coursesCNU/github)
+    * Markdown Tutorial](https://www.markdowntutorial.com/)
+    * Michael Ullyot, ["On Blogging in the Digital Humanities"](https://ullyot.ucalgaryblogs.ca/2012/02/24/on-blogging-in-the-digital-humanities/)
+  - |
+    * Jason Heppler, ["What is Digital Humanities"](https://whatisdigitalhumanities.com/) - Refresh the page a few times (use the curled reload symbol at the top right of your browser)
+    * Anne Burdick, et. al., [*A Short Guide to the Digital_Humanities*](https://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf) - you can just read pages 2-5.
+  - |
+    * Nielson Norman Group, ["Text Scanning Patterns: Eyetracking Evidence"](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/)
+    * **About Me blog post due by 11:59 pm *Sunday***. In addition to your submission on Scholar, post the link to your blog in the Google Drive.
+  - |
+    * Claim a DH project from the list I provided on the Google Drive
+    * Matthew K. Gold and Luaren F. Klein, ["A DH That Matters"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2)
+  - |
+    * Be ready to talk about at least one project/review from [*Reviews in Digital Humanities*](https://reviewsindh.pubpub.org/)
+  - |
+    * Katherine Hepworth and Christopher Church, ["Racism in the Machine: Visualization Ethics in Digital Humanities Projects"](http://www.digitalhumanities.org/dhq/vol/12/4/000408/000408.html)
+  - |
+    * Anne Lamott, ["Shitty First Drafts"](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)
+  - |
+    * Peer Review.
+  - |
+    * Use the [Hemingway App](http://www.hemingwayapp.com/) to see how clear your blog post is. Be ready to talk about your results in class.
+    * **Review blog post due by 11:59 pm *Sunday***
+  - |
+    * No readings.
+  - |
+    * Alok Amatya, ["For Beginners, What Makes a Good DH Project?"](https://www.hastac.org/blogs/alok/2017/09/22/beginners-what-makes-good-dh-project)
+    * Raphael B. Folsom, "Brainstorm within Your Subject" from *How to Get Grant Money in the Humanities and Social Sciences* (available on Scholar)
+  - |
+    * Simon Appleford and Jennifer Guiliano, ["Best Practice Principles of Designing Your First Project"](http://devdh.org/lectures/design/bestpractice/) -- *make sure you listen to the podcast as well as look at the slides*
+    * Browse [Tools & Resources](https://handbook.pubpub.org/tools)
+  - |
+    * Read at least one [Case Study](https://handbook.pubpub.org/case-studies) from *Visualizing Objects, Places, and Spaces: A Digital Project Handbook*
+    * ["Copyright and Digital Projects"](https://guides.lib.berkeley.edu/c.php?g=658664&p=4623725)
+  - |
+    * Peer Review
+  - |
+    * **Grant Ideas due by 11:59 pm *Friday***
+  - |
+    * Ellen W. Gorsevski, "What Goes Inside a Typical Grant Proposal," *Writing Successful Grant Proposals* (available on Scholar)
+  - |
+    * ["Search Strategy" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * ["Using the Library Catalog" Tutorial](https://cnu.libguides.com/IDEA/Determine) 
+    * Find a DH project that is similar to your approved grant idea and claim it in the Shared Google Drive. 
+  - |
+    * ["JSTOR" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * ["ProQuest" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * ["EBSCOhost" Tutorial](https://cnu.libguides.com/IDEA/Determine) 
+  - |
+    * No readings. Research your topic.
+  - | 
+    * No readings. Research your topic.
+  - |
+    * Peer Review.
+    * **Annotated Bibliography due by 11:59 pm *Sunday***
+  - |
+    * No readings. Research your topic.
+  - |  
+    * No readings. Research your topic.
+  - |
+    * Peer Review.
+  - |
+    * No readings. Go to the Teach-In instead of class.
+  - |
+    * Robert Porter, ["Why Academics Have a Hard Time Writing Good Grant Proposals"](https://files.eric.ed.gov/fulltext/EJ902223.pdf)
+  - |
+    * Ellen W. Gorsevski, "How Can I Make My Grant Proposal Stand Out From All the Others" *Writing Successful Grant Proposals* (available on Scholar)
+  - |
+    * No readings.
+  - |
+    * No readings.
+  - |
+    * No readings.
+  - |
+    * No readings.
+  - | 
+    * Peer Review 
+  - |
+    * No class. Paideia 2022.
+    * **First Draft of Grant due by 11:59 pm *TODAY***
+  - |
+    * No class. Meetings with me.
+  - |
+    * No class. Meetings with me.
+  - |
+    * No class. Meetings with me.
+  - |
+    * No readings. Review Day. Come to class ready to talk about the class and fill out your evaluations!
+  - |
+    * No readings.
+  - |
+    * Peer Review 2
+  - |
+    * **Final Grant due by 11:59 pm *TODAY***
