@@ -49,7 +49,7 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Twitter Posts | Weekly | 10%
 Research Blogs <br /> * About Me Blog <br /> * Review Blog 1 <br /> * Review Blog 2 <br /> * Reflection Blog | <br /> 9/04 <br /> 9/18 <br /> 10/21 <br /> 12/05 | <br /> 5% <br /> 10% <br /> 10% <br /> 10%
-Grant <br /> * Project Ideas <br /> * Annotated Bib <br /> * Charter/Mock-Ups <br /> * First Draft <br /> * Final Grant | <br /> 9/25 <br /> 10/07 <br /> 11/04 <br /> 11/18 <br /> 12/02 | <br /> 5% <br /> 10% <br /> 10% <br /> 10% <br /> 20%
+Grant <br /> * Project Ideas <br /> * Annotated Bib <br /> * Charter/Mock-Ups <br /> * First Draft <br /> * Presentation <br /> * Final Grant | <br /> 9/25 <br /> 10/07 <br /> 10/28 <br /> 11/11 <br /> Week 15 <br /> 12/02  | <br /> 5% <br /> 10% <br /> 5% <br /> 10% <br /> 5% <br /> 20%
 
 ## [Twitter Posts](https://deanna-stover.github.io/coursesCNU/2022/engl350fall2022/twitter)
 
@@ -65,17 +65,17 @@ After I approve one of your project ideas, you will write a small grant for a di
 
 ### Grading Scale
 
-A: 93 - 100
-A-: 90 - 92
-B+: 87 - 89
-B: 83 - 86
-B-: 80 - 82
-C+: 77 - 79
-C: 73 - 76
-C-: 70 - 72
-D+: 67 - 69
-D: 63 - 66
-D-: 60 - 62
+A: 93 - 100;
+A-: 90 - 92;
+B+: 87 - 89;
+B: 83 - 86;
+B-: 80 - 82;
+C+: 77 - 79;
+C: 73 - 76;
+C-: 70 - 72;
+D+: 67 - 69;
+D: 63 - 66;
+D-: 60 - 62;
 F: 0 - 59
 
 _____
