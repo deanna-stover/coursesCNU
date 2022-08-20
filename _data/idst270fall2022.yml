@@ -1,0 +1,131 @@
+---
+start: 2022-08-22
+end: 2022-12-02
+
+meets:
+  - monday
+  - wednesday
+  - friday
+  
+holidays:
+  - date: 2022-10-10
+    name: Fall Recess
+  - date: 2022-11-23
+    name: Thanksgiving Recess
+  - date: 2022-11-25
+    name: Thanksgiving Recess
+
+classes:
+  - |
+    * Just come to class!
+  - |
+    * Turn in your Permission Slip for the Google Drive
+    * Andrea Kaston Tange, ["Defining 'Humanities'"](https://andreakastontange.com/defining-humanities/)
+    * Anne Burdick, et. al., [*A Short Guide to the Digital_Humanities*](https://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf) - you can just read pages 2-5.
+    * Jason Heppler, ["What is Digital Humanities"](https://whatisdigitalhumanities.com/) - Refresh the page a few times (use the curled reload symbol at the top right of your browser)
+  - |
+    * Packback resources
+    * Julianne Nyhan and Andrew Flinn, excerpt from "Introduction," *Computation and the Humanities: Towards an Oral History of Digital Humanities*, pp. 1-8 (available on Scholar)
+    * **Character Sheet Due by 11:59 pm *TONIGHT***
+  - |
+    * Alan Liu, "The Meaning of the Digital Humanities" (available on Scholar)
+  - |
+    * Lisa Spiro, ["'This is Why We Fight': Defining the Values of the Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/9e014167-c688-43ab-8b12-0f6746095335#ch03)
+  - |
+    * Laurent Dubois, et. al. ["Sound, Text, and the Promise of the Digital Black Atlantic"](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/7be5a1cd-527c-41c3-b8e6-8ccf95bb034d#ch17), *The Digital Black Atlantic*
+    * Explore [*Musical Passage: A Voyage to 1688 Jamaica*](http://www.musicalpassage.org/)
+    * **Packback 1 due by 11:59 pm *TODAY***
+  - |
+    * N. Katherine Hayles, "Electronic Literature: What is it?", *Electronic Literature: New Horizons for the Literary*, pp. 1-30 (available on Scholar)
+  - |
+    * Anastasia Salter and Stuart Moulthrop, ["Why Twining?"](http://electronicbookreview.com/essay/why-twining/#)
+  - |
+    * Anastasia Salter, ["Code before Content? Brogrammer Culture in Games and Electronic Literature"](http://hyperrhiz.io/hyperrhiz17/essays/2-salter-code-before-content.html) 
+    * **Packback 2 due by 11:59 pm *TONIGHT***
+  - |
+    * Deena Larsen, ["Better with the Purpose In: or, the Focus of Writing to Reach All of Your Audience"](http://electronicbookreview.com/essay/better-with-the-purpose-in-or-the-focus-of-writing-to-reach-all-of-your-audience/)
+    * Rick Godden and Jonathan Hsy, ["Universal Design and Its Discontents,"](https://www.disruptingdh.com/universal-design-and-its-discontents/) *Disrupting the Digital Humanities*
+  - |
+    * Robin Wharton, ["Digital Humanities, Copyright Law, and the Literary"](http://www.digitalhumanities.org/dhq/vol/7/1/000147/000147.html) 
+  - |
+    * No readings.
+    * **Twine Proposal (and chosen path/grade) due by 11:59 pm *TONIGHT***
+    * **Packback 3 due by 11:59 pm *TONIGHT***
+  - |
+    * Choose a chapter of [Twining](https://www.fulcrum.org/epubs/jd472z856?locale=en#/6/2[mup-mpssalter-0001]!/4/4/1:0) (besides Chapter 1). Note that some chapters are more conceptual and some are more code-based. 
+    * ["Search Strategy"](https://cnu.libguides.com/IDEA/Determine)
+    * No class. Meetings with me. 
+  - |
+    * Choose another chapter of [Twining](https://www.fulcrum.org/epubs/jd472z856?locale=en#/6/2[mup-mpssalter-0001]!/4/4/1:0) (besides Chapter 1). Note that some chapters are more conceptual and some are more code-based.
+    * ["JSTOR" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * No class. Meetings with me.
+  - | 
+    * Explore [The Twine Cookbook](http://twinery.org/cookbook/index.html)
+    * ["ProQuest" Tutorial](https://cnu.libguides.com/IDEA/Determine)
+    * No class. Meetings with me. 
+    * **Packback 4 due by 11:59 pm *TONIGHT***
+  - |
+    * No readings. Work on your project. 
+  - |
+    * No readings. Work on your project.
+  - |
+    * No readings. Work on your project.
+    * *Sharing Day 1*
+  - |
+    * No readings. Work on your project.
+  - |
+    * No readings. Work on your project. 
+  - |
+    * No readings. Work on your project.
+    * *Sharing Day 2*
+  - |
+    * No readings. Work on your project.
+    * *Sharing Day 3*
+  - |
+    * No readings. Finish Self-Assessment to share with your peer.
+    * Peer Assessment
+    * **Twine Project Due (along with self- and peer-assessment) by 11:59 pm **Sunday***
+  - |
+    * Patrick Sahle, ["What is a Scholarly Digital Edition?"](https://books.openedition.org/obp/3397?lang=en)
+  - |  
+    * Charlotte Perkins Stetson (Gilman), ["The Yellow Wall-Paper"](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf)
+    * Deanna Stover and Rebecca Norton, [*Charlotte Perkins Stetson's "The Yellow Wall-Paper"* Digital Edition](https://yellowwallpaperedition.com/) (read the About the Edition, Introduction, and "Why I Wrote the Yellow Wallpaper") 
+  - |
+    * Amy E. Earhart, ["The Digital Edition and the Digital Humanities"](https://core.ac.uk/download/pdf/147247435.pdf)
+    * **Packback 5 due by 11:59 pm *TONIGHT***
+  - |
+    * Melina Radzikowska and Stan Rueker, "Creating Understanding," *Design and the Digital Humanities* (available on Scholar)
+  - |
+    * Jorge Reyna, et. al. ["The Internet Explosion, Digital Media Principles, and Implications to Communicate Effectively in the Digital Space"](https://journals.sagepub.com/doi/pdf/10.1177/2042753018754361)
+  - |
+    * No readings. Work on the Project.
+    * *Sharing Day 1*
+    * **Packback 5 due by 11:59 pm *TONIGHT***
+  - |
+    * No class.
+    * 
+  - |
+    * No class or readings. Meetings with me.
+  - |
+    * Robert Porter, ["Why Academics Have a Hard Time Writing Good Grant Proposals"](https://files.eric.ed.gov/fulltext/EJ902223.pdf)
+  - |
+    * Ellen W. Gorsevski, "How Can I Make My Grant Proposal Stand Out From All the Others" *Writing Successful Grant Proposals* (available on Scholar)
+  - | 
+    * Peer Review.
+  - |
+    * **First Draft of Grant due by 11:59 pm *Sunday***
+  - |
+    * No readings. Review Day. Come to class ready to talk about the class and fill out your evaluations!
+  - |
+    * No readings.
+  - |
+    * No readings.
+  - |
+    * Peer Review 2. 
+  - |
+    * Presentations.
+  - |
+    * Presentations.
+  - |
+    * Presentations.
+    * **Final Grant due by 11:59 pm *TODAY***
