@@ -51,7 +51,7 @@ Packback | 10 Weeks | 10%
 Participation | 2 Check-ins | 20% (10% each Check-In)
 Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection | <br /> 8/26 <br /> Finals | <br /> 5% <br /> 15%
 Twine Project <br /> * Twine Proposal/Path <br /> * Finished Project | <br /> 9/16 <br /> 10/14 | <br /> 5% <br /> 20%
-Dig Ed Project <br /> * Digital Edition Path <br /> * Finished Project | <br /> 10/28 <br /> 11/21 | <br /> 5% <br /> 20%
+Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Project | <br /> 10/28 <br /> 11/21 | <br /> 5% <br /> 20%
 
 ## Packback
 
