@@ -63,7 +63,7 @@ In addition to Packback, you will be responsible for participating in the course
 
 ## Character Sheet(s)
 
-You will be creating a Character Sheet of yourself (think Table Top Role-Playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in a revised Character SHeet along with a Final Reflection. 
+You will be creating a Character Sheet of yourself (think Table Top Role-Playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in a revised Character Sheet along with a Final Reflection. 
 
 ## Twine Project
 
@@ -71,7 +71,7 @@ You will develop a Twine Story about a social issue related to college students 
 
 ## Digital Edition Project
 
-We will be building on a digital edition of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman, as she is more commonly known). 
+We will be building on a digital edition of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman, as she is more commonly known) that I have been working on with students since Fall 2020. 
 
 ### Grading Scale
 
