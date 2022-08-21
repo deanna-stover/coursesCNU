@@ -1,6 +1,6 @@
 # Syllabus - IDST 270 - Fall 2022
 
-## Introduction to Digital Humanities
+## Introduction to Digital Humanities: Choose Your Own Adventure Edition
 
 _____
 
@@ -34,7 +34,7 @@ _____
 
 ## Learning Objectives
 
-* Recognize and discuss Digital Humanities and its importance to cultural heritage and storytelling (i.e gain a basic understanding of DH and Critical Making)
+* Recognize and discuss Digital Humanities and its importance to cultural heritage and storytelling
 * Design digital and analog artificats that incorporate critical thinking and research
 * Improve ability to communicate effectively using digital media
 * Develop and demonstrate comfort and adaptability with computers and technology
@@ -49,10 +49,9 @@ Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Participation | 2 Check-ins | 20% (10% each Check-In)
 Packback | 10 Posts | 10%
-Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection| <br /> 8/26 <br /> Finals | <br /> 5% <br /> 15%
-Twine Project | x/x | 25%
-Dig Ed Project | x/x | 25%
-
+Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection | <br /> 8/26 <br /> Finals | <br /> 5% <br /> 15%
+Twine Project <br /> * Twine Proposal/Path <br /> * Finished Project | <br /> 9/16 <br /> 10/14 | <br /> 5% <br /> 20%
+Dig Ed Project <br /> * Digital Edition Path <br /> * Finished Project | <br /> 10/28 <br /> 11/21 | <br /> 5% <br /> 20%
 
 ## Participation
 
