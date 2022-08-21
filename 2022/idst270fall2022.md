@@ -109,5 +109,55 @@ _____
 
 ## My Policies
 
+### Attendance: 
+
+For this course, you are allowed two *unexcused* absences per Participation period (8/22 - 9/30 and 10/03 - 12/02), after which I will be subtracting 10% from your Participation grade for each day missed. Missing a meeting with me (or not scheduling a meeting) during our out-of-class meeting days counts as an unexcused absence.  
+
+### Technology:
+
+Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. I also encourage the *productive* use of technology in class, but please don't distract yourself or others. 
+
+### Late Work:
+
+For each day an assignment is late, I will be subtracting five points. That said, if you need an extension, please do reach out to me at least 24 hours before the deadline! Life gets complicated sometimes, especially right now. I'm happy to work with you! Just make sure you're talking to me *before* things are due. 
+
 ## Standard CNU Policies
+
+### University Statement on Diversity and Inclusion:
+
+The Christopher Newport University community engages and respects different viewpoints, understands the cultural and structural context in which those viewpoints emerge, and questions the development of our own perspectives and values, as these are among the fundamental tenets of a liberal arts education.
+
+Accordingly, we affirm our commitment to a campus culture that embraces the full spectrum of human attributes, perspectives, and disciplines, and offers every member of the University the opportunity to become their best self.
+
+Understanding and respecting differences can best develop in a community where members learn, live, work, and serve among individuals with diverse worldviews, identities, and values. We are dedicated to upholding the dignity and worth of all members of this academic community such that all may engage effectively and compassionately in a pluralistic society.
+
+If you have specific questions, suggestions or concerns regarding diversity on campus please contact Diversity.Inclusion@CNU.edu
+
+### Disabilities/Accessibility:
+
+In order for a student to receive an accommodation due to a disability, that disability must be on record in the Office of Student Affairs, 3rd Floor, David Student Union (DSU). If you have a diagnosed disability, please contact Jacquelyn Barnes, Student Disability Support Specialist in Student Affairs (594-7160) to discuss your needs.  
+
+Students with documented disabilities are to notify the instructor at least seven days prior to the point at which they require an accommodation (the first day of class is recommended), in private, if accommodation is needed. The instructor will provide students with disabilities with the reasonable accommodations approved and directed by the Office of Student Affairs. Work completed before the student notifies the instructor of his/her disability may be counted toward the final grade at the sole discretion of the instructor.
+
+### Success:
+
+I want you to succeed in this course and at Christopher Newport. I encourage you to contact me during office hours or to schedule an appointment to discuss course content or to answer questions you have.  If I become concerned about your course performance, attendance, engagement, or well-being, I will contact you first. I also may submit a referral through our Captains Care Program. The referral will be received by the Center for Academic Success as well as other departments when appropriate (Counseling Services, Office of Student Engagement). If you are an athlete, the Manager of Athletic Academic Success Programs will be notified. Someone will contact you to help determine what will help you succeed. Please remember that this is a means for me to support you and help foster your success at Christopher Newport.
+
+### Public Health:
+
+The university will provide guidance on public health issues and students will be expected to comply with university protocols.
+
+### Academic Support:
+
+The Center for Academic Success offers free tutoring assistance for Christopher Newport students in several academic areas. Center staff offer individual assistance and/or workshops on various study strategies to help you perform your best in your courses. The center also houses the Alice F. Randall Writing Center. Writing consultants can help you at any stage of the writing process, from invention, to development of ideas, to polishing a final draft. The Center is not a proofreading service, but consultants can help you to recognize and find grammar and punctuation errors in your work as well as provide assistance with global tasks. Contact them as early in the writing process as you can! 
+
+You may contact the Center for Academic Success to request a tutor, confer with a writing consultant, obtain a schedule of workshops, or make an appointment to talk with a staff member about study skills and strategies.   The Center is located in Christopher Newport Hall, first floor, room 123. You may email academicsuccess@cnu.edu or call (757) 594-7684. 
+
+### Course Materials:
+
+All content created and assembled by the faculty member and used in this course is to be considered intellectual property owned by the faculty member and Christopher Newport University. It is provided solely for the private use of the students currently enrolled in this course. To ensure the free and open discussion of ideas, students may not make available any of the original course content, including but not limited to lectures, discussions, videos, handouts, and/or activities, to anyone not currently enrolled in the course without the advance written permission of the instructor. This means that students may not record, download, screenshot, or in any way copy original course material for the purpose of distribution beyond this course. A violation may be considered theft.  It is the student’s responsibility to protect course material when accessing it outside of the physical classroom space.
+
+_____
+
+I owe thanks to Andrew Pilsch for some of the language in this syllabus and for the code that helped to create it.
 
