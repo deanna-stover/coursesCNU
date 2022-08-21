@@ -47,21 +47,31 @@ _____
 
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
+Packback | 10 Weeks | 10%
 Participation | 2 Check-ins | 20% (10% each Check-In)
-Packback | 10 Posts | 10%
 Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection | <br /> 8/26 <br /> Finals | <br /> 5% <br /> 15%
 Twine Project <br /> * Twine Proposal/Path <br /> * Finished Project | <br /> 9/16 <br /> 10/14 | <br /> 5% <br /> 20%
 Dig Ed Project <br /> * Digital Edition Path <br /> * Finished Project | <br /> 10/28 <br /> 11/21 | <br /> 5% <br /> 20%
 
+## Packback
+
+The Packback Questions platform will be used for online discussion about class readings and topics. You will be responsible for three posts (one open-ended question and two responses) ten weeks out of the semester (as marked on the course schedule). 
+
 ## Participation
 
-## Packback
+In addition to Packback, you will be responsible for participating in the course proper. Your participation grade will take into account your attendance, your progress on projects as I see them during check-ins, and your more general participation (i.e. engaging in class discussion). 
 
 ## Character Sheet(s)
 
+You will be creating a Character Sheet of yourself (think Table Top Role-Playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in a revised Character SHeet along with a Final Reflection. 
+
 ## Twine Project
 
+You will develop a Twine Story about a social issue related to college students (see prompt for more info). We’ll learn some basic programming for this, but don’t worry! It will be fine!
+
 ## Digital Edition Project
+
+We will be building on a digital edition of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman, as she is more commonly known). 
 
 ### Grading Scale
 
@@ -89,8 +99,15 @@ Readings should be done *before* class. This schedule is subject to change.
 
 ## Finals Week
 
+* **14:00 - 14:50 class:** Final Character Sheet and Reflection due Monday, December 5th between 5:00 and 7:30 pm
+* **13:00 - 13:50 class:** Final Character Sheet and Reflection due Friday, December 9th between 2:00 and 4:30 pm
+
 _____
 
 
 # Policies
+
+## My Policies
+
+## Standard CNU Policies
 
