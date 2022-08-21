@@ -57,13 +57,13 @@ Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Proje
 
 The Packback Questions platform will be used for online discussion about class readings and topics. You will be responsible for three posts (one open-ended question and two responses) ten weeks out of the semester (as marked on the course schedule). 
 
-## [Participation](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/participation)
+## Participation
 
-In addition to Packback, you will be responsible for participating in the course proper. Your participation grade will take into account your attendance, your progress on projects as I see them during check-ins, and your more general participation (i.e. engaging in class discussion). 
+In addition to Packback, you will be responsible for participating in the course proper. Your participation grade will take into account your attendance (see attendance policy), your progress on projects as I see them during informal and formal check-ins, and your more general participation (i.e. engaging in class discussion). 
 
 ## [Character Sheet](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/character-sheet)
 
-You will be creating a Character Sheet of yourself (think Table Top Role-Playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in a revised Character Sheet along with a Final Reflection. 
+You will be creating a Character Sheet of yourself (think Tabletop Role-playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in an updated Character Sheet along with a Final Reflection. 
 
 ## [Twine Project](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/twine)
 
@@ -71,7 +71,7 @@ You will develop a Twine Story about a social issue related to college students 
 
 ## [Digital Edition Project](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/edition)
 
-We will be building on a digital edition of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman, as she is more commonly known) that I have been working on with students since Fall 2020. 
+We will be building on and updating a digital edition of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman, as she is more commonly known) that I have been working on with students at CNU since Fall 2020. 
 
 ### Grading Scale
 
