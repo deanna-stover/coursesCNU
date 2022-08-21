@@ -48,7 +48,7 @@ _____
 Assignment | Due Date | Percentage
 ------------ | ------------- | -------------
 Packback | 10 Weeks | 10%
-Participation | 2 Check-Ins | 20% (10% each Check-In)
+Class Engagement | 2 Check-Ins | 20% (10% each Check-In)
 Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection | <br /> 8/26 <br /> Finals | <br /> 5% <br /> 15%
 Twine Project <br /> * Twine Proposal/Path <br /> * Finished Project | <br /> 9/16 <br /> 10/14 | <br /> 5% <br /> 20%
 Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Project | <br /> 10/28 <br /> 11/21 | <br /> 5% <br /> 20%
@@ -57,9 +57,9 @@ Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Proje
 
 The Packback Questions platform will be used for online discussion about class readings and topics. You will be responsible for three posts (one open-ended question and two responses) ten weeks out of the semester (as marked on the course schedule). 
 
-## [Participation](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/participation)
+## [Class Engagement](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/engagement)
 
-In addition to Packback, you will be responsible for participating in the course proper. Your participation grade will take into account your attendance (see attendance policy), your progress on projects as I see them during informal and formal check-ins on projects, and your more general participation (i.e. engaging in class discussion). 
+In addition to Packback, you will be responsible for engaging in the course proper. Your Class Engagement grade will take into account your attendance, your progress on projects as I see them during informal and formal check-ins on projects, and your more general participation (i.e. engaging in class discussion and/or taking class notes; readings with marginalia and/or other kinds of reading notes; digital copies of in-class activites; and notes from office hours--among other possibilities). 
 
 ## [Character Sheet](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/character-sheet)
 
@@ -111,7 +111,7 @@ _____
 
 ### Attendance: 
 
-For this course, you are allowed two *unexcused* absences per Participation period (8/22 - 9/30 and 10/03 - 12/02), after which I will be subtracting 10% from your Participation grade for each day missed. Missing a meeting with me (or not scheduling a meeting) during our out-of-class meeting days counts as an unexcused absence.  
+For this course, you are allowed two *unexcused* absences per Class Engagement period (8/22 - 9/30 and 10/03 - 12/02), after which I will be subtracting 10% from your Participation grade for each day missed. Missing a meeting with me (or not scheduling a meeting) during our out-of-class meeting days counts as an unexcused absence.  
 
 ### Technology:
 
