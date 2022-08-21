@@ -115,7 +115,7 @@ For this course, you are allowed two *unexcused* absences per Class Engagement p
 
 ### Technology:
 
-Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. I also encourage the *productive* use of technology in class, but please don't distract yourself or others. 
+Because we will be working a lot with technology, you should expect to spend time out of class familiarizing yourself with new technologies and software. I also encourage the *productive* use of technology in class, but please don't distract yourself or others. This can impact your Class Engagement score. 
 
 ### Late Work:
 
