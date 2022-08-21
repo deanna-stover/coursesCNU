@@ -107,3 +107,39 @@ _____
 # Reflection
 
 More information coming soon.
+
+_____
+
+## How to Submit
+
+To find the URL for your blog, you'll need to go to Settings on GitHub, click on "GitHub Pages", click the link, and then find your post. Once you've done that, simply copy and paste what is in the browser bar.
+
+Your URL should start with something like this: https://deanna-stover.github.io/ **NOT** like this: https://github.com/deanna-stover/
+
+Under "Assignments" on Scholar, please use the Text Submission "Write Submission" button to enter the URL to your blog and then upload a screenshot of your code. To capture all your code, just go into "Raw" or the edit file portion of GitHub. To do the latter, you will need to choose the "soft wrap" option in GitHub in order to see all of the text/markdown at once. This option is in the upper left hand corner of where you edit your file. I'll be able to see all your writing and the code that way. 
+
+**Peer Review**: If you have a peer review assignment with any blog post, please **upload the feedback you *received* along with your code**. While there is no grade for peer review per se, I will take into account whether you participated in peer review when calculating your grade for the assignment. 
+
+_____
+
+## Late Work
+
+I will be subtracting 5 points for every day your assignment is late unless you've been been given an extension.
+
+_____
+
+## (General) Evaluation Criteria
+
+* **Thinks critically** whether you're writing a review or a process post or just introducing yourself.
+
+* Shows **professionalism** – i.e. that you took this assignment seriously – and pays attention to **audience**, meaning you found the balance between writing for the public and writing about yourself and your research. Your blog should *not* be too informal nor too technical. 
+
+* Presents information in an **organized**, concise, and coherent way. Remember, part of being organized in digital writing is breaking up those paragraphs! 
+
+* **Follows instructions** for the appropriate blog post and takes advantage of the **platform** (in other words, you use Markdown appropriately).
+
+* Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility.
+
+_____
+
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022)
