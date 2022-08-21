@@ -100,7 +100,7 @@ _____
 
 ### Attendance: 
 
-
+For this course, you are allowed three *unexcused* absences, after which I will be subtracting 5% from your total grade for each day missed. Missing a meeting with me (or not scheduling a meeting) during our out-of-class meeting days counts as an unexcused absence.  
 
 ### Technology:
 
@@ -108,7 +108,7 @@ Because we will be working a lot with technology, you should expect to spend tim
 
 ### Late Work:
 
-For each day an assignment is late, I will be subtracting five points. That said, if you need an extension, please do reach out to me before the deadline! Life gets complicated sometimes, especially right now. I'm happy to work with you! Just make sure you're talking to me *before* things are due. 
+For each day an assignment is late, I will be subtracting five points. That said, if you need an extension, please do reach out to me at least 24 hours before the deadline! Life gets complicated sometimes, especially right now. I'm happy to work with you! Just make sure you're talking to me *before* things are due. 
 
 ### FERPA:
 
