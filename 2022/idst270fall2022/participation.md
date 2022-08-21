@@ -1,5 +1,5 @@
 # Participation
 
-## The Basics
+## More Information Coming Soon
 
 
