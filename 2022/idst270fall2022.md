@@ -53,23 +53,23 @@ Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection | <br /> 
 Twine Project <br /> * Twine Proposal/Path <br /> * Finished Project | <br /> 9/16 <br /> 10/14 | <br /> 5% <br /> 20%
 Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Project | <br /> 10/28 <br /> 11/21 | <br /> 5% <br /> 20%
 
-## Packback
+## [Packback](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/packback)
 
 The Packback Questions platform will be used for online discussion about class readings and topics. You will be responsible for three posts (one open-ended question and two responses) ten weeks out of the semester (as marked on the course schedule). 
 
-## Participation
+## [Participation](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/participation)
 
 In addition to Packback, you will be responsible for participating in the course proper. Your participation grade will take into account your attendance, your progress on projects as I see them during check-ins, and your more general participation (i.e. engaging in class discussion). 
 
-## Character Sheet(s)
+## [Character Sheet](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/character-sheet)
 
 You will be creating a Character Sheet of yourself (think Table Top Role-Playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in a revised Character Sheet along with a Final Reflection. 
 
-## Twine Project
+## [Twine Project](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/twine)
 
 You will develop a Twine Story about a social issue related to college students (see prompt for more info). We’ll learn some basic programming for this, but don’t worry! It will be fine!
 
-## Digital Edition Project
+## [Digital Edition Project](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/edition)
 
 We will be building on a digital edition of "The Yellow Wall-Paper" by Charlotte Perkins Stetson (or Gilman, as she is more commonly known) that I have been working on with students since Fall 2020. 
 
