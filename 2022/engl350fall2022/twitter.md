@@ -2,7 +2,7 @@
 
 _____
 
-**Tweets Due:** Weekly on Fridays by 11:59 pm (except for Week 7 and Week 14)<br />
+**Tweets Due:** Weekly on Fridays by 11:59 pm (except for Week 7 and Week 14 where deadlines differ--see below)<br />
 **Percentage:** 15% <br />
 
 _____
