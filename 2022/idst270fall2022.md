@@ -111,7 +111,7 @@ _____
 
 ### Attendance: 
 
-For this course, you are allowed two *unexcused* absences per Class Engagement period (8/22 - 9/30 and 10/03 - 12/02), after which I will be subtracting 10% from your Participation grade for each day missed. Missing a meeting with me (or not scheduling a meeting) during our out-of-class meeting days counts as an unexcused absence.  
+For this course, you are allowed two *unexcused* absences per Class Engagement period (8/22 - 9/30 and 10/03 - 12/02), after which I will be subtracting 10% from your Class Engagement grade for each day missed. Missing a meeting with me (or not scheduling a meeting) during our out-of-class meeting days counts as an unexcused absence.  
 
 ### Technology:
 
