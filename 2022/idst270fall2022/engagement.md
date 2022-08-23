@@ -48,7 +48,7 @@ _____
 
 First of all, make sure you are submitting *throughout* the Check-In period rather than all at the end because it helps to show that you stayed on top of the course content rather than waiting until the end to catch up. I'll give periodic reminders in class, but mostly the responsibility for providing documentation of your class engagement throughout each Check-In period is on you.
 
-I've created an Assignment portal in Scholar for you to submit your materials called "Class Engagement 1" and "Class Engagement 2." Please make sure you are submitting in the appropriate portal (Class Engagement 1 is for anything you want to upload between 8/22 and 9/03 and Class Engagement 2 is for anything you want to upload from that point until the end of the semester).
+I've created an Assignment portal in Scholar for you to submit your materials called "Class Engagement 1" and "Class Engagement 2." Please make sure you are submitting in the appropriate portal (Class Engagement 1 is for anything you want to upload between 8/22 and 9/30 and Class Engagement 2 is for anything you want to upload from that point until the end of the semester).
 
 There are unlimited chances to submit these materials so that you can go back and submit more materials. *You do not have to resubmit older materials because I can see all previous submissions.* In other words, Scholar does not overwrite the last submission, so I'll be able to see everything you uploaded even if you upload things at multiple points during the Check-In period (which is what you *should* be doing).
 
