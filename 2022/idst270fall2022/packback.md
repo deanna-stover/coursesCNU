@@ -29,3 +29,7 @@ Please make sure you are posting *throughout* the week, not saving everything fo
 If you have any questions or concerns about Packback throughout the semester, please read their FAQ at help.packback.co. If you need more help, contact their customer support team directly at help@packback.co. 
 
 For a brief introduction to Packback Questions and why we are using it in class, watch this video: [https://www.youtube.com/watch?v=OV7QmikrD68](https://www.youtube.com/watch?v=OV7QmikrD68)
+
+_____
+
+[Back to the syllabus](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022) 
