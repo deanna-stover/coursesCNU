@@ -61,7 +61,7 @@ The Packback Questions platform will be used for online discussion about class r
 
 In addition to Packback, you will be responsible for engaging in the course proper. Your Class Engagement grade will take into account your attendance, your progress on projects as I see them during informal and formal check-ins on projects, and your more general participation (i.e. engaging in class discussion and/or taking class notes; readings with marginalia and/or other kinds of reading notes; digital copies of in-class activites; and notes from office hours--among other possibilities). 
 
-## [Character Sheet](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/character-sheet)
+## [Character Sheet](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/character-sheets)
 
 You will be creating a Character Sheet of yourself (think Tabletop Role-playing Game meets Class Introduction) and adding to it as the semester goes on. At the end of the semester, you will turn in an updated Character Sheet along with a Final Reflection. 
 
