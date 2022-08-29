@@ -142,4 +142,4 @@ _____
 
 _____
 
-[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl350spring2022)
+[Back to Syllabus](https://deanna-stover.github.io/coursesCNU/2022/engl350fall2022)
