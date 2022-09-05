@@ -102,12 +102,15 @@ Include ***at least* two images** of the project you're reviewing. But if your p
 
 I'm basing this assignment off of the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH*. We'll also be talking about how to write a review in class, so make sure you pay attention! But essentially, you must *think critically* about a project, and provide the following:
 
-* a **brief** summary of the project and its purpose -- but do not let this take up the majority of your post!
-* an assessment of the humanistic claims and evidence
-* an assessment of the technology used/developed
-* an evaluation of a project's engagement of new audiences
+* a **brief** summary of the project and its purpose
+    * Keep this brief but informative. Your reader should understand what the project is about just by reading the review, but that doesn’t mean go on and on. After all, you need to get to the actual review at some point. If your post is primarily summary, you will not do well on this assignment. 
+    * Tip: if there’s an “About” page, read it! This will give you some important information about the purpose of the site. You can also look for articles about the project to aid your review, but make sure to cite them! Some of the larger projects may even have videos about how to use the site; watch these!
+* an assessment of the humanistic claims and evidence 
+    * What fields in the humanities does this project relate to? How? Does the project do a good job explaining or demonstrating how it engages with these humanities disciplines? How does this project advance knowledge about the subject matter? How do they use data and is this data accessible and easy to understand? 
+* an assessment of the technology used/developed (i.e. How does the project make use of technology to advance its goals?)
+    * How does the project make use of technology to advance its goals? Does the use of technology help to illustrate or show something that more traditional scholarship could not (or, at least, couldn't do as easily)? How? Is the technology easy to navigate, especially to new audiences like you? Why or why not?
 * identification of interesting, outstanding, or problematic issues
-    * Note that you should be focusing on *usability* and discussing anything that doesn't work (or is otherwise difficult to understand/access) on the site! This means that you're going to have to do a "deep dive" into the site and really explore it, looking specifically for things that work well or things that are broken/have issues. But more than just pointing out these interesting, outstanding, or problematic issues, you need to discuss them and how they add to and/or take away from the project. 
+    * Note that in this review you should be focusing on *usability*, particularly for those new to DH. This means that you're going to have to do a "deep dive" into the site and really explore it, looking specifically for things that work well or things that could be improved (for instance, is anything broken?). But more than just pointing out these interesting, outstanding, or problematic issues, you need to discuss them and how they add to and/or take away from the project. *This last bullet point is the most important part of your review!* 
 
 A review should **NOT** include:
 
