@@ -94,9 +94,40 @@ _____
 
 # Review One
 
-More information coming soon.
+Based on the reviews you read in preparation, write a review of a digital humanities project from the list I have provided on the Google Drive. You must *claim* a project by putting your name next to one of the options so that not everyone in class reviews the same project. Make sure to pick something that other people have not yet claimed. 
+
+This blog should be **750-1000 words**. Remember that you can be critical and still polite or appreciative but still evaluative.   
+
+Include ***at least* two images** of the project you're reviewing. But if your project is extra complex, remember, you may need more. Part of what I'll be evaluating is how you use imagery. Note that you can use GIFs of interactive parts of your project. PS Make sure any screenshots and GIFs of the project are cropped so that I can't see the browser bar or all of your tabs!
+
+I'm basing this assignment off of the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH*. We'll also be talking about how to write a review in class, so make sure you pay attention! But essentially, you must *think critically* about a project, and provide the following:
+
+* a **brief** summary of the project and its purpose -- but do not let this take up the majority of your post!
+* an assessment of the humanistic claims and evidence
+* an assessment of the technology used/developed
+* an evaluation of a project's engagement of new audiences
+* identification of interesting, outstanding, or problematic issues
+    * Note that you should be focusing on *usability* and discussing anything that doesn't work (or is otherwise difficult to understand/access) on the site! This means that you're going to have to do a "deep dive" into the site and really explore it, looking specifically for things that work well or things that are broken/have issues. But more than just pointing out these interesting, outstanding, or problematic issues, you need to discuss them and how they add to and/or take away from the project. 
+
+A review should **NOT** include:
+
+* excessive detail or quotation
+* ad hominem arguments (meaning focusing on the person or project team behind the project, as opposed to evaluating the project itself)
+* attacks of any kind, including not being the project the reviewer would have developed
+
+Use the following format for introducing your blog post (and, while there are no minimum requirements for Markdown, make sure you're using it where appropriate and necessary to format your post):
+
+**Project**: <br />
+Project Name
+
+**Project Director(s)**: <br />
+Project Director(s) Name(s) (if available)
+
+**Project URL**: <br />
+Project URL
 
 _____
+
 
 # Review Two
 
