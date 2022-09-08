@@ -25,13 +25,16 @@ You’ll write a project proposal before you get too deep into the Twine game so
 Some topic ideas (but this list certainly isn't exhaustive!): 
 * first-generation college students
 * minority students at a primarily white institution (PWI)
-* (dis)ability and education
+* disability and education
 * mental health and college
+* "self care" and college
 * COVID-19 and the "college experience"
 * college in the age of "fake news"
 * a day in the life of a CNU student
 * working a job (or more than one!) while being in college
-* community engagement and service at CNU
+* community engagement and service during college
+* student athletes
+* social activities in college (clubs, for instance)
 
 I should note that sometimes it's easiest to work with a topic that you have personal experience with. That said, I do expect you to do academic research that backs up the choices your player is given in the game itself, so please don't choose a topic if you are unwilling to have your beliefs questioned. I also want everyone to be respectful and kind to their classmates, so be aware of the language and framing you use when addressing controversial topics. 
 
@@ -143,7 +146,7 @@ These can stack, so you can have as little ast one creative application of techn
 
 ##### Self-Assessement Form
 
-The first page of the self-assessment form is the same as the Path PDF. Fill this portion of the form out based on what you actually *did* rather than what you *planned* to do.
+The first page of the self-assessment form is the same as the Path PDF (except fot the instructions). Fill this portion of the form out based on what you actually *did* rather than what you *planned* to do.
 
 The second page asks you to be reflective and think about the final Twine piece you created, particularly in terms of what you would have done differently or expanded on with more time, and what you're most proud of.
 
