@@ -91,7 +91,7 @@ You can also choose to add peer-reviewed sources as part of both the "B" and "A"
 
 ###### Process Journal
 
-The Process Journal option is available in all three grade packets and can stack, so you can do as little as 5 entries with no images to as many as 17 entries with images. 
+The Process Journal option is available in all three grade brackets and can stack, so you can do as little as 5 entries with no images to as many as 17 entries with images. 
 
 Each entry of the Process Journal should reflect on your experience *as you make the project*. So, this requires some forethought on your part.
 
