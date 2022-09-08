@@ -48,6 +48,8 @@ Your proposal should be **300 words** and explain both your topic and its social
 
 *I will not accept the other portions of this assignment until your proposal/path has been approved.* 
 
+![Image of the Path PDF](https://deanna-stover.github.io/coursesCNU/images/PathPDF.jpg)
+
 ### Meetings with Me - Week 5
 
 For your meetings with me, you should prepare by finding *at least* 2 peer-reviewed sources about your topic and bringing them to the meeting.
@@ -69,6 +71,10 @@ In order to get the full five points, you must give a 3-5 minute presentation ab
 ### Final Twine Project/Self-Assessment - Friday, October 14th 11:59 pm
 
 In addition to submitting your final Twine project, you will complete a self-assessment using a form that's similar to the initial Path PDF, but this version will reflect what you actually *did*, as opposed to what you *planned* to do, while also asking some questions about the final product. After all, the point of the Twine project is to be both "creative and reflective" (a key component to DH and Interactive Fiction as Anastasia Salter argues in ["Why Twining?"](https://electronicbookreview.com/essay/why-twining/)), so this Self-Assessment is crucial to your success on the project. *I will not accept Twine projects without a completed Self-Assessment form.*
+
+![First page of the Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA1.jpg)
+
+![Second page of the Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA2.jpg)
 
 ### What do all the parts of the Path PDF/Self-Assessment Form mean?
 
