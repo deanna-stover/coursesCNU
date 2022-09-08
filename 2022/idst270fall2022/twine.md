@@ -44,7 +44,7 @@ _____
 
 ### Proposal/Path - Friday, September 16th by 11:59 pm
 
-Your proposal should be **300 words** and explain both your topic and its social relevance to either the CNU community or college students more broadly. You must also fill out and submit the Path PDF. More information on this is below.
+Your proposal should be **300+ words** and explain both your topic and its social relevance to either the CNU community or college students more broadly. You must also fill out and submit the Path PDF. More information on this is below.
 
 *I will not accept the other portions of this assignment until your proposal/path has been approved.* 
 
