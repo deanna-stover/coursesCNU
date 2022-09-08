@@ -100,6 +100,8 @@ For the notes, you need to write a 100+ word description of each source includin
 
 You can also choose to add peer-reviewed sources as part of both the "B" and "A" brackets. You must take notes on any sources you add in these brackets.
 
+Sources can stack, so you can have as few as two sources and as many as 6. 
+
 ##### Process Journal
 
 The Process Journal option is available in all three grade brackets and can stack, so you can do as little as 5 entries with no images to as many as 17 entries with images. 
