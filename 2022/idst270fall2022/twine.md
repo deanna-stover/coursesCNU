@@ -152,7 +152,7 @@ This part of the bracket refers to any additional *extended* use of technology t
 
 These can stack, so you can have as little ast one creative application of technology and as many as 9 (or more--they just won't give you extra points).
 
-#### Self-Assessement Form
+### Self-Assessement Form
 
 The first page of the self-assessment form is the same as the Path PDF (except fot the instructions). Fill this portion of the form out based on what you actually *did* rather than what you *planned* to do.
 
