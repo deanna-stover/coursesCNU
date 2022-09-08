@@ -160,6 +160,12 @@ The second page asks you to be reflective and think about the final Twine piece 
 
 _____
 
+## Evaluation
+
+You will receive the grade you choose *if* you have completed the appropriate brackets *successfully*, meaning that you have followed the directions for each section. So, images must work (and have Alt Text) to get credit for them, the abstract must be between 250-300 words and discuss both the game and its significance/purpose to be included, etc. So, essentially, you are being graded based on completion, but each of these components must be complete and working to count towards Your Path.  
+
+_____
+
 ## Late Work
 
 I will be subtracting 5 points for every day your assignment is late unless you've been been given an extension.
