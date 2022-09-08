@@ -54,7 +54,7 @@ Your proposal should be **300 words** and explain both your topic and its social
 
 For your meetings with me, you should prepare by finding *at least* 2 peer-reviewed sources about your topic and bringing them to the meeting.
 
-## Sharing Days
+### Sharing Days
 
 You can sign up for a Sharing Day to earn 5 extra points on the assignment. No one is required to present during a Sharing Day, but this will boost a C grade to an 80, a B grade to a 90, and an A grade to a 100. (The five points will still apply even if you don't quite reach the minimum requirements for a C, meaning if you get a D grade on the assignment but participate in the Sharing Day, you can get up to 70%). 
 
