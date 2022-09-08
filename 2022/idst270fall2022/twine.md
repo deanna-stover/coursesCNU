@@ -76,29 +76,31 @@ In addition to submitting your final Twine project, you will complete a self-ass
 
 ![Second page of the Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA2.jpg)
 
-### What do all the parts of the Path PDF/Self-Assessment Form mean?
+_____
 
-#### Path PDF
+## What do all the parts of the Path PDF/Self-Assessment Form mean?
 
-##### Human Options
+### Path PDF
 
-###### Passages
+#### Human Options
+
+##### Passages
 
 Everyone starts out with *at least* 20 required passages, but you can also add on passages as part of Your Path. You can stack these, meaning you could potentially end up with a game that is 50 passages long. Each passage refers to each of the sticky-note looking parts of Twine--but all passages need to connect to at least one other passage to count (or they won't show up!). 
 
 You may want to create a "passage" with just code that affects the entire game--that passage does not count towards your passage total, but would count towards your Robot path under "Crative Applications of Technology."   
 
-###### Notes on Sources
+##### Notes on Sources
 
 Everyone must use *at least* two peer-reviewed sources, but as part of the first bracket (the "C" bracket) you can choose to take notes on these sources. If you choose to add sources as part of the other brackets ("B" and "A"), you must take notes on these sources as well. 
 
 For the notes, you need to write a 100+ word description of each source including it's main argument and how it helped with your project. 
 
-###### Adding Sources
+##### Adding Sources
 
 You can also choose to add peer-reviewed sources as part of both the "B" and "A" brackets. You must take notes on any sources you add in these brackets.
 
-###### Process Journal
+##### Process Journal
 
 The Process Journal option is available in all three grade brackets and can stack, so you can do as little as 5 entries with no images to as many as 17 entries with images. 
 
@@ -106,19 +108,19 @@ Each entry of the Process Journal should reflect on your experience *as you make
 
 Essentially, you'll want to write at least 75 words per entry that explains what you've been working on and how the project is going (including your struggles and successes) *throughout* the creation process. Any images should show your progress (you might, for instance, take a screenshot of Twine as you progress, starting with just a few passages, and illustrating how it grew as you developed the project or you might take screenshots of the CSS and how it developed as you worked on the project or a combination of things). 
 
-###### Abstract
+##### Abstract
 
 As part of the first bracket, you can choose to write an abstract about your game. This 250-300 word abstract should describe your game *and* its significance/purpose. Think critically about what your game is doing and who it is for!
 
-###### Essay
+##### Essay
 
 You can choose to write an essay as part of the upper two brackets. These can stack, so you can write a 500-word essay, and 750-word essay, or a 1,250-word essay. This essay should be written once your game is (mostly) finished (as opposed to the Process Journal that discusses the game as you create it). 
 
 Your essay should tie your research back to the choices you made in creating your Twine game.
 
-##### Robot Options
+#### Robot Options
 
-###### CSS Selectors
+##### CSS Selectors
 
 CSS (or Cascading Style Sheet) is how you make your game look a certain way. For example, in *Depression Quest*, Zoe Quinn used CSS to make some choices crossed out and red. CSS is also how you change the background color, text size, etc.
 
@@ -134,23 +136,23 @@ body {
 
 The CSS Selectors categories can stack, so you can have as few as 3 CSS selectors and as many as 20 (or more--they just won't give you extra points). 
 
-###### Images (with Alt Text!)
+##### Images (with Alt Text!)
 
 You can add images at any part of the bracket and these can stack, meaning you can have as little as one image and as many as 9 images (or more--they just won't give you extra points).
 
 All images should include Alt Text because this is the best practice for accessibility. Alt Text means that you briefly describe the image in words and, while this won't show up when you're playing the game (unless the image is broken), screen readers will be able to pick up the Alt Text. 
 
-###### Sound 
+##### Sound 
 
 You can add sound at any part in the bracket and these can stack, meaning you can have as little as one sound and as many as 9 sounds (or more--they just won't give you extra points).
 
-###### Creative Applications of Technology
+##### Creative Applications of Technology
 
 This part of the bracket refers to any additional *extended* use of technology that doesn't fit into the CSS, Images, or Sound categories. So, for example, you might use variables, one example being having players enter their own name at the beginning of the game and then using it to refer to the player throughout. Another example might be having some sort of status meter that tracks a users progress throughout the game. The opportunities are practically endless, so I don't want to be prescriptive, but we can certainly talk about ideas in Office Hours or during class!
 
 These can stack, so you can have as little ast one creative application of technology and as many as 9 (or more--they just won't give you extra points).
 
-##### Self-Assessement Form
+#### Self-Assessement Form
 
 The first page of the self-assessment form is the same as the Path PDF (except fot the instructions). Fill this portion of the form out based on what you actually *did* rather than what you *planned* to do.
 
