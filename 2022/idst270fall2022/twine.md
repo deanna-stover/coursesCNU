@@ -2,7 +2,7 @@
 
 _____
 
-**Proposal/Path Deadline:** Friday, September 16th by 11:59 pm <br />
+**Proposal/Path Deadline:** Sunday, September 18th by 11:59 pm <br />
 **Percentage:** 5% (required)
 
 **Meetings with Me:** Week 5
@@ -42,7 +42,7 @@ _____
 
 ## Assignment Breakdown
 
-### Proposal/Path - Friday, September 16th by 11:59 pm
+### Proposal/Path - Sunday, September 18th by 11:59 pm
 
 Your proposal should be **300+ words** and explain both your topic and its social relevance to either the CNU community or college students more broadly. You must also fill out and submit the Path PDF. More information on this is below.
 
