@@ -165,7 +165,7 @@ The first draft of your Project Description should be **1500 words** and follow 
 
 An Abstract should effectively summarize the contents of your Project Description (which is why I urge you to write it *after* you've finished the Project Description). Remember, this will be the first thing someone reads, so make it engaging, thoughtful, and complete--and don't just repeat the introduction of your Project Description. Again, we'll talk about this more in class.
 
-### Evalution Criteria - Abstract
+### Evaluation Criteria - Abstract
 
 * Summarizes the contents of your Project Description in a **thoughtful and engaging** way
 
