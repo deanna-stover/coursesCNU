@@ -18,6 +18,7 @@ _____
 <br /> **Lean Canvas/Ideation Worksheets Due**: Sunday, October 30th by 11:59 pm
 <br /> **Meetings with Me about Your Project**: Week 11 (Monday - Wednesday)
 <br /> **Percentage**: 5%
+<br /> <br />
 **[First Draft - Grant](#first-draft)**: 
 <br /> **Peer Review**: Wednesday, November 9th (in class)
 <br /> **First Draft Due**: Sunday, November 13th by 11:59 pm
