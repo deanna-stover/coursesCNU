@@ -4,8 +4,8 @@ _____
 
 
 **[Grant Ideas](#grant-ideas)**:
-<br /> **Peer Review**: Friday, September 23rd (in class)
-<br /> **Project Ideas Due**: Sunday, September 25th by 11:59 pm 
+<br /> **Peer Review**: Monday, September 26th (in class)
+<br /> **Project Ideas Due**: Tuesday, September 27th by 11:59 pm 
 <br /> **Percentage**: 5%
 <br /> <br/>
 **[Annotated Bibliography](#annotated-bibliography)**: 
