@@ -52,7 +52,7 @@ I've created an Assignment portal in Scholar for you to submit your materials ca
 
 There are unlimited chances to submit these materials so that you can go back and submit more materials. *You do not have to resubmit older materials because I can see all previous submissions.* In other words, Scholar does not overwrite the last submission, so I'll be able to see everything you uploaded even if you upload things at multiple points during the Check-In period (which is what you *should* be doing).
 
-I will not be providing feedback over the course of a Check-In period on these materials (just after the deadlines of 9/03 and 12/02) *but* you can always come to Office Hours to talk about strategies for demonstrating your engagement. 
+I will not be providing feedback over the course of a Check-In period on these materials (just after the deadlines of 9/30 and 12/02) *but* you can always come to Office Hours to talk about strategies for demonstrating your engagement. 
 
 _____
 
