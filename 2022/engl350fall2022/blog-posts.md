@@ -134,7 +134,44 @@ _____
 
 # Review Two
 
-More information coming soon.
+You will write a **1000-1250 word** review, but this time it will be on a project that you have found *that is related to your grant project in some way*. This means that you should be reviewing a project that is either similar in content/topic or in technology. In other words, if you're project is a digital edition of Charlotte Perkins Gilman's "The Yellow Wall-Paper," you could either review a project about Gilman/her work *or* review an inspirational digital edition that looks and feels like what you imagine your own edition to be (even if only in part). 
+
+Please "claim" your project on the Google Drive before class on **Friday, October 14th**. You cannot choose a project from the Review One list I provided or a project covered in one of the sample reviews we read. That said, you can choose to review a project you found for your Annotated Bibliography. If you are working in a team of two, please pick two *different* projects to review.
+
+Keep my feedback on Review One in mind, and remember that you can be critical and still polite or appreciative but still evaluative.   
+
+Include ***at least* three images** of the project you're reviewing. But if your project is extra complex, remember, you may need more. Part of what I'll be evaluating is how you use imagery. Note that you can use GIFs of interactive parts of your project. PS Make sure any screenshots and GIFs of the project are cropped so that I can't see the browser bar or all of your tabs!
+
+I'm basing this assignment off of the ["Review Content"](https://reviewsindh.pubpub.org/review-process) section from *Reviews in DH*. You must *think critically* about a project, and provide the following:
+
+* a **brief** summary of the project and its purpose
+    * Keep this brief but informative. Your reader should understand what the project is about just by reading the review, but that doesn’t mean go on and on. After all, you need to get to the actual review at some point. If your post is primarily summary, you will not do well on this assignment. 
+    * Tip: if there’s an “About” page, read it! This will give you some important information about the purpose of the site. You can also look for articles about the project to aid your review, but make sure to cite them! Some of the larger projects may even have videos about how to use the site; watch these!
+* an assessment of the humanistic claims and evidence 
+    * What fields in the humanities does this project relate to? How? Does the project do a good job explaining or demonstrating how it engages with these humanities disciplines? How does this project advance knowledge about the subject matter? How do they use data and is this data accessible and easy to understand? 
+* an assessment of the technology used/developed
+    * How does the project make use of technology to advance its goals? Does the use of technology help to illustrate or show something that more traditional scholarship could not (or, at least, couldn't do as easily)? How? Is the technology easy to navigate, especially to new audiences like you? Why or why not?
+* identification of interesting, outstanding, or problematic issues
+    * Note that in this review you should be focusing on *usability*, particularly for those new to DH. This means that you're going to have to do a "deep dive" into the site and really explore it, looking specifically for things that work well or things that could be improved (for instance, is anything broken?). But more than just pointing out these interesting, outstanding, or problematic issues, you need to discuss them and how they add to and/or take away from the project. *This last bullet point is the most important part of your review!* 
+* *NEW!* a **brief** discussion of how the project your reviewing impacts your own project
+    * In this *brief* section of your review, relate the project back to your own grant project. How is what you're reviewing inspirational? How is it not? How does the project help you think through your own? Always keep in mind how your project expands on current scholarship (not necessarily replaces it) and why your project is different and necessary. 
+
+A review should **NOT** include:
+
+* excessive detail or quotation
+* ad hominem arguments (meaning focusing on the person or project team behind the project, as opposed to evaluating the project itself)
+* attacks of any kind, including not being the project the reviewer would have developed
+
+Use the following format for introducing your blog post (and, while there are no minimum requirements for Markdown, make sure you're using it where appropriate and necessary to format your post):
+
+**Project**: <br />
+Project Name
+
+**Project Director(s)**: <br />
+Project Director(s) Name(s) (if available)
+
+**Project URL**: <br />
+Project URL
 
 _____
 
