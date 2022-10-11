@@ -9,7 +9,7 @@ _____
 
 **Sharing Days**: Friday, September 30th; Friday, October 7th; Wednesday, October 12th
 
-**Final Twine Game and Self-Assessment Deadline:** Friday, October 14th by 11:59 pm <br />
+**Final Twine Game and Self-Assessment Deadline:** Monday, October 17th by 11:59 pm <br />
 **Percentage:** 20%
 
 _____
