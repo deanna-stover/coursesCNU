@@ -20,7 +20,7 @@ _____
 <br /> **Percentage**: 5%
 <br /> <br />
 **[First Draft - Grant](#first-draft)**: 
-<br /> **Peer Review**: Wednesday, November 9th (in class)
+<br /> **Peer Review**: Friday, November 11th (in class)
 <br /> **First Draft Due**: Sunday, November 13th by 11:59 pm
 <br /> **Percentage**: 10%
 <br /> <br/>
