@@ -32,7 +32,7 @@ To fill out the rationale, fill in the choice box with whatever components you p
 
 ![Image of the first page of the Digital Edition Rationale PDF](https://deanna-stover.github.io/coursesCNU/images/DigEdPath2.jpg)
 
-![Image of the second page of the Digital Edition Rationale PDF](https://deanna-stover.github.io/coursesCNU/images/DigEdPath2.jpg)
+![Image of the second page of the Digital Edition Rationale PDF](https://deanna-stover.github.io/coursesCNU/images/DigEdPath3.jpg)
 
 ### Sharing Days
 
