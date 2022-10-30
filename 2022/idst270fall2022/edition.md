@@ -88,6 +88,8 @@ You must find peer-reviewed sources about these topics, but you are not required
 
 The Annotated Bibliography can stack, so if you choose this option, you can have as few as 4 sources and as many as 10. 
 
+All entries for the Annotated Bibliography should be 150-250 words long and formatted according to MLA. 
+
 ##### Edit Introduction for readability
 
 Read through the Introduction (probably more than once!) and revise it to be more accessible to a high school and undergraduate audience. For this, you'll need to copy the text from the site into a Word Document and make Track Changes to it. Afterwards, write a 300-word summary of the changes you are suggesting and why. 
@@ -114,6 +116,8 @@ These are the sections of the Introduction you can write:
 
 If you would like to pitch another idea for the Introduction, please talk to me before submitting your Path PDF and Rationale.
 
+Sections of the introduction should be 450 - 600 words long.
+
 ##### Proofread Transcription 
 
 For proofreading the transcription, you must compare the manuscript AND periodical transcriptions of the equivelant of 10 pages of the manuscript. I will assign you pages once I have graded the Rationale/Path PDF. 
@@ -130,21 +134,39 @@ This can by any kind of original physical artwork (that we can reproduce digital
 
 ##### (Accessible) Color Scheme for Project
 
-
+For creating a color scheme of a project, you want to keep an eye on accessibility. [Color Safe](http://colorsafe.co/) can help. Make a document with all of the web colors you think should be a part of the color scheme, providing both a visual (that is, I can see the color) and the Hex Code for that color. You must also include a key for what each color should be used for (for instance, the background, the main text, the notes in the introduction, the highlighting in the edition viewer, the color of editorial corrections, etc.) and a short 200-word description of why you chose the color scheme that you did. 
 
 ##### Mock-Ups
 
+You can choose from several different kinds of mock-ups, but all should be detailed and well-designed. You can choose to hand-draw the mock-ups, but they should look polished and professional. You can also use design software to create the mock-ups, such as Canva or Adobe products. All mock-ups should include a key for what each element in the design is.
 
+For the C and B brackets, you can choose any of these mock-ups:
+* Mock-up of header image
+* Mock-up of "Reading View"
+* Mock-up of Advanced Search View
+* Mock-up of "Why I Wrote The Yellow Wallpaper" View
+* Mock-up(s) of Edition Tutorial
+* Mock-up of About the Edition
+* Mock-up of Introduction
+* Mock-up of landing/home page
+
+For the A bracket you can do a mock-up of the *entire* mobile site (in other words, what would the entire edition look like on a phone?). You will still need a key for these designs. 
+
+##### Digital Accessibility Annotated Bibliography
+
+You must find peer-reviewed sources about digital accessibility, particularly about how to best design a website and/or mobile site for members of the disabled community. All entries for the Annotated Bibliography should be 150-250 words long and formatted according to MLA. 
 
 ##### List/Mock-Ups of Data Visualizations 
 
+For data visualizations specifically, you must create a list of ideas for what we could create data visualizations of and then sketch out (either by hand or using Canva or Adobe products) what those data visualizations might look like. You need to provide a key that explains what each of the data visualizations includes. 
 
+##### Digital Accessibility Write-up
 
-##### Digital Accessibility research and write-up
-
-
+*If you choose this portion of the path, you must have chosen the Digial Accessibility Annotated Bibliography.* This is because this write-up must be based on research. The write-up should be at least 500 words and cite all four sources and provide a plan for increasing the accessibility of "The Yellow Wall-Paper" edition. You should provide actionable steps for improving the edition for disabled users. 
 
 ##### Timeline (TimelineJS or ThingLink)
+
+You can make an interactive timeline of the plot of "The Yellow Wallpaper" OR all of Gilman's publications. Make sure it is well-designed and readable and could be embedded in the site. To do this, either make a [TimelineJS](https://timeline.knightlab.com/) timeline (don't worry, it just uses Google Sheets to create an interactive timeline) or make a hand-drawn or design-software-created timeline interactive by using [ThingLink](https://www.thinglink.com/en-us/). If you would like to use ThingLink, please talk to me and I will be able to get you free access, but please be certain that you will use it (it costs $). 
 
 ### Self-Assessement Form
 
