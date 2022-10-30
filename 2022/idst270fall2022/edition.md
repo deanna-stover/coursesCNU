@@ -28,7 +28,11 @@ To fill out the rationale, fill in the choice box with whatever components you p
 
 *I will not accept the other portions of this assignment until your path/rationale has been approved.* 
 
-![Image of the Digital Edition Path PDF](https://deanna-stover.github.io/coursesCNU/images/)
+![Image of the Digital Edition Path PDF](https://deanna-stover.github.io/coursesCNU/images/DigEdPath1.jpeg)
+
+![Image of the first page of the Digital Edition Rationale PDF](https://deanna-stover.github.io/coursesCNU/images/DigEdPath2.jpeg)
+
+![Image of the second page of the Digital Edition Rationale PDF](https://deanna-stover.github.io/coursesCNU/images/DigEdPath2.jpeg)
 
 ### Sharing Days
 
@@ -48,9 +52,9 @@ In order to get the full five points, you must give a 3-5 minute presentation ab
 
 In addition to submitting your final Digital Edition project, you will complete a self-assessment using a form that's similar to the initial Path PDF. This Self-Assessment is crucial to your success on the project. *I will not accept Digital Edition projects without a completed Self-Assessment form.*
 
-![First page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/)
+![First page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA1DigEd.jpeg)
 
-![Second page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/)
+![Second page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA2DigEd.jpeg)
 
 _____
 
