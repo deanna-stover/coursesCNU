@@ -48,7 +48,7 @@ In order to get the full five points, you must give a 3-5 minute presentation ab
 
 **Sharing Day #3**: Projects at this stage should be mostly complete with very little editing left to be done. You should be primarily focusing on what nearly-final drafts you have.
 
-### Final Twine Project/Self-Assessment - Friday, October 14th 11:59 pm
+### Final Digital Edition Project/Self-Assessment - Monday, November 21st by 11:59 pm
 
 In addition to submitting your final Digital Edition project, you will complete a self-assessment using a form that's similar to the initial Path PDF. This Self-Assessment is crucial to your success on the project. *I will not accept Digital Edition projects without a completed Self-Assessment form.*
 
