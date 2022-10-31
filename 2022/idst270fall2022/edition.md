@@ -158,7 +158,7 @@ For the A bracket you can do a mock-up of the *entire* mobile site (in other wor
 
 ##### Digital Accessibility Annotated Bibliography
 
-You must find peer-reviewed sources about digital accessibility, particularly about how to best design a website and/or mobile site for members of the disabled community. All entries for the Annotated Bibliography should be 150-250 words long and formatted according to MLA. 
+You must find 4 peer-reviewed sources about digital accessibility, particularly about how to best design a website and/or mobile site for members of the disabled community. All entries for the Annotated Bibliography should be 150-250 words long and formatted according to MLA. 
 
 ##### List/Mock-Ups of Data Visualizations 
 
