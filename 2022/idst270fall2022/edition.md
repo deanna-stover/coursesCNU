@@ -52,7 +52,7 @@ In order to get the full five points, you must give a 3-5 minute presentation ab
 
 In addition to submitting your final Digital Edition project, you will complete a self-assessment using a form that's similar to the initial Path PDF. This Self-Assessment is crucial to your success on the project. *I will not accept Digital Edition projects without a completed Self-Assessment form.*
 
-![First page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA1DigEd.jpg)
+![First page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA1DIgEd.jpg)
 
 ![Second page of the Digital Edition Self-Assessment form](https://deanna-stover.github.io/coursesCNU/images/SA2DigEd.jpg)
 
