@@ -68,7 +68,7 @@ _____
 
 For the mood board, you must find at least 10 images and make a sort of collage that invokes the feelings and features you want to convey and include in the site design. This might be fonts, insprational images and illustrations, colors, or anything else you can think of. 
 
-In addition to the mood board itself, you must include a key and a short description providing context for the mood board. The key should explain features included, such as what font(s) you've chosen and where they're from (p.s. [Google Fonts](https://fonts.google.com/) is a good place to start), where the images you've found are from, etc. The short description should explain the general mood you're going for with your mood board and justify the inclusion of the 10+ artifacts you've compiled.
+In addition to the mood board itself, you must include a key and a short description providing context for the mood board. The key should explain features included, such as what font(s) you've chosen and where they're from (p.s. [Google Fonts](https://fonts.google.com/) is a good place to start), where the images you've found are from, etc. The short description (150+ words) should explain the general mood you're going for with your mood board and justify the inclusion of the 10+ artifacts you've compiled.
 
 ##### Proofread About the Edition
 
@@ -96,7 +96,7 @@ All entries for the Annotated Bibliography should be 150-250 words long and form
 
 ##### Edit Introduction for readability
 
-Read through the Introduction (probably more than once!) and revise it to be more accessible to a high school and undergraduate audience. For this, you'll need to copy the text from the site into a Word Document and make Track Changes to it. Afterwards, write a 300-word summary of the changes you are suggesting and why. 
+Read through the Introduction (probably more than once!) and revise it to be more accessible to a high school and undergraduate audience. For this, you'll need to copy the text from the site into a Word Document and make Track Changes to it. Afterwards, write a 200+-word summary of the changes you are suggesting and why. 
 
 ##### Alt Text for page images
 
@@ -120,13 +120,13 @@ These are the sections of the Introduction you can write:
 
 If you would like to pitch another idea for the Introduction, please talk to me before submitting your Path PDF and Rationale.
 
-Sections of the introduction should be 450 - 600 words long.
+Sections of the introduction should be 400 - 600 words long and based on your research. If you choose this option, at least 4 of your sources should relate to the topic of your introduction.
 
 ##### Proofread Transcription 
 
 For proofreading the transcription, you must compare the manuscript AND periodical transcriptions of the equivelant of 10 pages of the manuscript. I will assign you pages once I have graded the Rationale/Path PDF. 
 
-To turn in this, you must copy your assigned text for both the manuscript and the periodical into a Word Doc and use track changes to edit the document where appropriate. You must also write a short 300-word reflection about the process of proofreading the transcriptions and what you learned. 
+To turn in this, you must copy your assigned text for both the manuscript and the periodical into a Word Doc and use track changes to edit the document where appropriate. You must also write a short 200+-word reflection about the process of proofreading the transcriptions and what you learned. 
 
 Please only choose this option if you are very detail-oriented AND can read cursive.
 
@@ -170,11 +170,11 @@ For data visualizations specifically, you must create a list of ideas for what w
 
 ##### Timeline (TimelineJS or ThingLink)
 
-You can make an interactive timeline of the plot of "The Yellow Wallpaper" OR all of Gilman's publications. Make sure it is well-designed and readable and could be embedded in the site. To do this, either make a [TimelineJS](https://timeline.knightlab.com/) timeline (don't worry, it just uses Google Sheets to create an interactive timeline) or make a hand-drawn or design-software-created timeline interactive by using [ThingLink](https://www.thinglink.com/en-us/). If you would like to use ThingLink, please talk to me and I will be able to get you free access, but please be certain that you will use it (it costs $). 
+You can make an interactive timeline of the plot of "The Yellow Wallpaper" OR all of Gilman's publications. Make sure it is well-designed and readable and could be embedded in the site. To do this, either make a [TimelineJS](https://timeline.knightlab.com/) timeline (don't worry, it just uses Google Sheets to create an interactive timeline) or make a hand-drawn or design-software-created timeline interactive by using [ThingLink](https://www.thinglink.com/en-us/). If you would like to use ThingLink and it won't let you make anything for free, please talk to me and I will be able to get you free access, but please be certain that you will use it (this option might cost $). 
 
 ### Self-Assessement Form
 
-The first page of the self-assessment form is the same as the Path PDF (except fot the instructions). Fill this portion of the form out based on what you actually *did* rather than what you initially *planned* to do (although, remember, every time you adjust your path, you need to email me with a revised Path PDF/Rationale).
+The first page of the self-assessment form is the same as the Path PDF (except for the instructions). Fill this portion of the form out based on what you actually *did* rather than what you initially *planned* to do (although, remember, every time you adjust your path, you need to email me with a revised Path PDF/Rationale).
 
 The second page of the Self-Assessment asks you to be reflective and think about the final pieces you created for the Digital Edition project, particularly in terms of what you would have done differently or expanded on with more time, and what you're most proud of.
 
