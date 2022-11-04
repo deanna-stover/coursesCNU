@@ -131,7 +131,7 @@ _____
 
 Although this is called a "First Draft," it should be a *polished* first draft, not a "Shitty First Draft." 
 
-For this draft, you're going to write a **1500-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**. 
+For this draft, you're going to write a **1500-word Project Description**~~, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**~~.
 
 ## Project Description
 
@@ -160,6 +160,20 @@ The first draft of your Project Description should be **1500 words** and follow 
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 * Follows the **appropriate instructions**
+
+_____
+
+# Final Draft
+
+Taking the feedback from me and your peers, you will revise your project description and write the rest of your grant packet (Abstract and Resume or CV) for the Final Draft. Interestingly enough, your Project Description is going to be *shorter* than your First Draft; you'll be working on being more concise. 
+
+For this Final Draft, you're going to submit a **1000-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**.
+
+You'll still be following the guidelines listed under the [First Draft](#first-draft) section of this prompt (and anything we go over in class), but now you'll be polishing and refining your grant as a whole and making the Project Description the appropriate length. Something to keep in mind: the word count for each part of this grant is the *maximum* (unlike in many of our other assignments), but you shouldn't go much under the word count either.
+
+## Evaluation Criteria - Project Description
+
+See evaluation criteria under the [First Draft](#first-draft) section of the prompt above. 
 
 ## Abstract
 
@@ -196,20 +210,6 @@ We'll be talking about both in class, but the point of both of these documents i
 * Utilizes proper **mechanics**; style, sentence structure, and spelling promote coherence, clarity, and credibility
 
 * Follows the **appropriate instructions** (1-2 page for the CV, 1 page for the Resume)
-
-_____
-
-# Final Draft
-
-Taking the feedback from me and your peers, you will revise your grant packet for the Final Draft. Interestingly enough, your Project Description is going to be *shorter* than your First Draft; you'll be working on being more concise. 
-
-For this Final Draft, you're going to submit a **1000-word Project Description**, a **250-word Abstract**, and a **one-page Resume OR a one- to two-page CV**.
-
-You'll still be following the guidelines listed under the [First Draft](#first-draft) section of this prompt (and anything we go over in class), but now you'll be polishing and refining your grant as a whole and making the Project Description the appropriate length. Something to keep in mind: the word count for each part of this grant is the *maximum* (unlike in many of our other assignments), but you shouldn't go much under the word count either.
-
-## Evaluation Criteria
-
-See evaluation criteria under the [First Draft](#first-draft) section of the prompt above. 
 
 _____
 
