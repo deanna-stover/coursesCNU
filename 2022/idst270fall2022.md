@@ -51,7 +51,7 @@ Packback | 10 Weeks | 10%
 Class Engagement | 2 Check-Ins | 20% (10% each Check-In)
 Character Sheet <br /> * Ch. Sheet <br /> * Final Ch. Sheet/Reflection | <br /> 8/29 <br /> Finals | <br /> 5% <br /> 15%
 Twine Project <br /> * Twine Proposal/Path <br /> * Finished Project | <br /> 9/18 <br /> 10/17 | <br /> 5% <br /> 20%
-Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Project | <br /> 11/02 <br /> 11/21 | <br /> 5% <br /> 20%  
+Digital Edition Project <br /> * Dig. Ed. Path/Rationale <br /> * Finished Project | <br /> 11/02 <br /> 11/22 | <br /> 5% <br /> 20%  
 
 ## [Packback](https://deanna-stover.github.io/coursesCNU/2022/idst270fall2022/packback)
 
