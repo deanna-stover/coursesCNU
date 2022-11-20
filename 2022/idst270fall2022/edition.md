@@ -7,7 +7,7 @@ _____
 
 **Sharing Days**: Friday, November 11th; Wednesday, November 16th; Friday, November 18th
 
-**Final Digital Edition and Self-Assessment Deadline:** Monday, November 21st by 11:59 pm <br />
+**Final Digital Edition and Self-Assessment Deadline:** Monday, November 22nd by 5:00 pm <br />
 **Percentage:** 20%
 
 _____
