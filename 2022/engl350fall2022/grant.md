@@ -25,7 +25,7 @@ _____
 <br /> **Percentage**: 10%
 <br /> <br/>
 **[Final Draft - Grant](#final-draft)**:
-<br /> **Peer Review**: Monday, November 21st (in class)
+<br /> **Peer Review**: Wednesday, November 30th (in class)
 <br /> **Final Draft Due**: Friday, December 2nd by 11:59 pm
 <br /> **Percentage**: 20%
 <br /> <br />
