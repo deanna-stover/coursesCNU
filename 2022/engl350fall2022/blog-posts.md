@@ -177,7 +177,38 @@ _____
 
 # Reflection
 
-More information coming soon.
+In this **600-900 word** blog, you'll be reflecting on the class.  
+
+You need to have **at least two images** in your blog post. This can be a tweet, a mock-up from your grant, a project that inspired you from the course, or something else entirely! 
+
+A few questions to get you started thinking about the class as a whole:
+
+* What does Digital Humanities mean to you now that you've taken this course? Did your definition change over time? Do you have a better understanding of the field?
+* How did the readings supplement your understanding of course content (or not!)? Were any of them particularly helpful? Any worth skipping?
+* What assignments did you enjoy and/or struggle with? Why? Were they helpful in better understanding DH and its many complexities? Why or why not?
+* Do you think you've grown as a writer? As a reader? As a student? As a digital humanist?
+
+Basically, think about the class as a whole. What has worked for you and what hasn't? 
+
+P.S. If you're having a ton of trouble thinking about what to include in your reflection, here are [more questions to help get you thinking.](https://www.edutopia.org/pdfs/stw/edutopia-stw-replicatingPBL-21stCAcad-reflection-questions.pdf)
+
+Keep in mind the following:
+
+* Keep paragraphs short for easy reading! 
+
+* Be professional. Even though this is a reflection, it is still an academic blog. 
+
+* Continue trying to be more concise while varying sentence length.
+
+* Organize your writing. You may do this assignment in chronological order or based on topic, for instance. 
+
+### What you should NOT do
+
+* Please don't mention your grades. It's not necessary and it puts you in a vulnerable spot. Instead, you can talk about how an assignment was difficult for you or how much fun you had doing a certain project. No grades. It's just not worth it and it puts both of us in a weird position.
+
+* Please don't quote my feedback. That's something personal between the two of us. You can, however, talk about how my feedback was helpful as you moved forward or how you felt that you needed more guidance at a particular point. 
+
+* This isn't a rant or a time to gloat. If you had problems with the class, you can discuss *why*; you can be critical of readings, of course, and you can discuss frustrations, but please don't, well, *rant*. On the other hand, if you loved a particular assignment or the course as a whole, that's great (really great!), but think critically about it too. What worked for you and what didn't? What could you have done better throughout the course?
 
 _____
 
