@@ -60,13 +60,13 @@ Remember to turn in a 300-500 word reflection as a Word or PDF file along with t
 
 The evaluation for this is pretty simple:
 
-An **A** Character Sheet will be completely filled out with detailed information for each of the categories.
+An **A** Character Sheet and Reflection will be completely filled out with detailed information for each of the categories.
 
-A **B** Character Sheet will be completely filled out with some semi-detailed information for each of the categories.
+A **B** Character Sheet and Reflection will be completely filled out with some semi-detailed information for each of the categories.
 
-A **C** Character Sheet will be completely filled out with some basic information in each of the categories.
+A **C** Character Sheet and Reflection will be completely filled out with some basic information in each of the categories.
 
-A **D** Character Sheet will be filled out with basic information in most of the categories.
+A **D** Character Sheet and Reflection will be filled out with basic information in most of the categories.
 
 An **F** will be reserved for very incomplete or missing assignments.
 
