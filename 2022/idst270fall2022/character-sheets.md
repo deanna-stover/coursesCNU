@@ -48,11 +48,11 @@ The Final Character Sheet and accompanying Reflection is meant to be a time to l
 
 There are two pages to the Character Sheet. The first page asks you to think about your definition of Digital Humanities now that the course is over. It also provides some guiding questions for writing your **300-500 word** reflection.
 
-![First page of the final character sheet with some guidelines](https://deanna-stover.github.io/coursesCNU/images/CharacterSheetPage1.jpg)
+![First page of the final character sheet with some guidelines](https://deanna-stover.github.io/coursesCNU/images/CharacterSheetPage1.png)
 
 The second page is all about evaluating (and discussing) your skill level now that you've taken this introductory course. Please use the boxes to discuss how and why you think you have (or have not!) improved in each skill, then rate yourself on a scale of 1-10, tally up your human scores, your robot scores, and then add your Human and Robot scores together and divide by 2 to get your Cyborg score!
 
-![Second page of the final character sheet with some guidelines](https://deanna-stover.github.io/coursesCNU/images/CharacterSheetPage2.jpg)
+![Second page of the final character sheet with some guidelines](https://deanna-stover.github.io/coursesCNU/images/CharacterSheetPage2.png)
 
 Remember to turn in a 300-500 word reflection as a Word or PDF file along with the completed Character Sheet!
 
